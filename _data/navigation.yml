@@ -9,6 +9,13 @@
   - title: "The Grading Conference"
     url: "http://thegradingconference.com"
 
+- title: Resources
+  url: "/resources/"
+  side: left
+
+- title: About
+  url: "/about/"
+  side: left
 
 - title: "Templates"
   url: "/design/"
