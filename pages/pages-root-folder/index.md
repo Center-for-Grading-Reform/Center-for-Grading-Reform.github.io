@@ -52,4 +52,4 @@ The Center for Grading Reform is a 501(c)(3) non-profit organization dedicated t
 <!--more-->
 
 # This shows up below widgets and callforaction button
-We have a [conference]({% link conferences/ %})
+We have a [conference](/conferences/)
