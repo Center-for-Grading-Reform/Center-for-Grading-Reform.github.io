@@ -47,7 +47,7 @@ homepage: true
 # This shows up above the fold on the frontpage
 The Center for Grading Reform is a 501(c)(3) non-profit organization dedicated to improving grading practices in higher education.
 
-{{site.description}} 
+{{ site.description }} 
 
 <!--more-->
 
