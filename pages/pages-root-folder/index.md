@@ -44,8 +44,10 @@ permalink: /index.html
 homepage: true
 ---
 
-First stuff
+# This shows up above the fold on the frontpage
+The Center for Grading Reform is a 501(c)(3) non-profit organization dedicated to improving grading practices in higher education.
 
 <!--more-->
 
-Rest of stuff
+# This shows up below widgets and callforaction button
+We have a [conference]({% link /conferences/ %})
