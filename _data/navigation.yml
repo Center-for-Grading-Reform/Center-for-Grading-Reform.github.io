@@ -1,10 +1,14 @@
-- title: Start
+- title: Home 
   url: "/"
   side: left
 
-- title: Getting Started
-  url: "/getting-started/"
+- title: Conferences
+  url: "/conferences/"
   side: left
+  dropdown:
+  - title: "The Grading Conference"
+    url: "http://thegradingconference.com"
+
 
 - title: "Templates"
   url: "/design/"
