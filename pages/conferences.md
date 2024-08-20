@@ -2,7 +2,6 @@
 layout              : page
 show_meta           : false
 title               : "Conferences"
-subheadline         : "A Step-by-Step Guide"
 teaser              : "Conferences and workshops hosted by the Center."
 header:
    image_fullwidth  : "header_homepage_13.jpg"
