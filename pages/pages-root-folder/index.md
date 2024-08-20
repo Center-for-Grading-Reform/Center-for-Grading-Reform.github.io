@@ -49,4 +49,4 @@ homepage: true
 <!--more-->
 
 <!-- This shows up below widgets and callforaction button -->
-We have a [conference](/conferences/)
+We have a [conference](/conferences/).
