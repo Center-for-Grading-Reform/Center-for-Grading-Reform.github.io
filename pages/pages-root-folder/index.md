@@ -44,4 +44,8 @@ permalink: /index.html
 homepage: true
 ---
 
-Test stuff
+First stuff
+
+<!--more-->
+
+Rest of stuff
