@@ -4,4 +4,4 @@ title               : "About"
 permalink           : "/about/"
 ---
 
-Add some stuff about the Center here.  
+The Center for Grading Reform seeks to advance education in the United States by supporting effective grading reform at all levels through conferences, educational workshops, professional development, research and scholarship, influencing public policy, and community building.
