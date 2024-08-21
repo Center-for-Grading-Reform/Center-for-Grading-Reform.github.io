@@ -3,8 +3,8 @@ layout              : page
 show_meta           : false
 title               : "Conferences"
 teaser              : "Conferences and workshops hosted by the Center."
-header:
-   image_fullwidth  : "header_homepage_13.jpg"
+#header:
+   #image_fullwidth  : "header_homepage_13.jpg"
 permalink           : "/conferences/"
 ---
 
