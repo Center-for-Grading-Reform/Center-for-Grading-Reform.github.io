@@ -53,4 +53,4 @@ The Center for Grading Reform seeks to advance education in the United States by
 <!--more-->
 
 <!-- This shows up below widgets and callforaction button -->
-We have a [conference](/conferences/).
+
