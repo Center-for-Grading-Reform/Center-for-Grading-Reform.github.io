@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: student-work.jpg
+  image_fullwidth: landscape-header.jpg
 widget1:
   title: "Conferences"
   url: '/conferences/'
