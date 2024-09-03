@@ -27,11 +27,11 @@ permalink           : "/resources/"
 
 ## Blogs and Websites
 
-[Grading for Growth Blog](https://gradingforgrowth.substack.com/) – by David Clark and Robert Talbert
-[Unmaking the Grade Blog](https://emilypittsdonahoe.substack.com/) – by Emily Pitts Donahoe
-[Jesse Stommel's Blog](https://www.jessestommel.com/tag/ungrading/)
-[Ungrading HUB](https://ungrading.weebly.com/)
-[Labor-Based Grading Resources](http://bit.ly/LBGResources) by Asao B. Inoue
+- [Grading for Growth Blog](https://gradingforgrowth.substack.com/) – by David Clark and Robert Talbert
+- [Unmaking the Grade Blog](https://emilypittsdonahoe.substack.com/) – by Emily Pitts Donahoe
+- [Jesse Stommel's Blog](https://www.jessestommel.com/tag/ungrading/)
+- [Ungrading HUB](https://ungrading.weebly.com/)
+- [Labor-Based Grading Resources](http://bit.ly/LBGResources) by Asao B. Inoue
 
 ## Podcasts
 
