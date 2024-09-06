@@ -112,7 +112,9 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for pages
+      #author:      # Default author for pages
+      header:
+        image_fullwidth: landscape-header.jpg
   -
     scope:
       path: ''
@@ -121,9 +123,9 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for posts
-
-
+      #author:     # Default author for postheader:
+      header:
+        image_fullwidth: landscape-header.jpg
 
 #       _   __            _             __  _
 #      / | / /___ __   __(_)___ _____ _/ /_(_)___  ____
