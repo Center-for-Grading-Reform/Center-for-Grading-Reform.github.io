@@ -1,6 +1,6 @@
 - menu_name: "Events"
 
 - name: "The Grading Conference"
-  url: "http://thegradingconference.com/"
+  url: "/grading-conference/"
   class: "link"
   title: "The Grading Conference"

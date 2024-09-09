@@ -7,7 +7,7 @@
   side: left
   dropdown:
   - title: "The Grading Conference"
-    url: "http://thegradingconference.com"
+    url: "/grading-conference/"
 
 - title: Resources
   url: "/resources/"

@@ -8,7 +8,7 @@ teaser              : "Conferences and workshops hosted by the Center."
 permalink           : "/conferences/"
 ---
 
-[The Grading Conference](http://thegradingconference.com) is the flagship event of the Center for Grading Reform.
+[The Grading Conference](/grading-conference/) is the flagship event of the Center for Grading Reform.
 Hosted virtually each June, we bring together hundreds of postsecondary educators to share innovations and
 research related to grading in higher education.
 
