@@ -13,12 +13,12 @@ Hosted virtually each June, we bring together hundreds of postsecondary educator
 research related to grading in higher education.
 
 
-<a class="button left r15 small radius" href="/conference-faq/">FAQ</a>
+<div class="button-group align-spaced">
+        <a class="button small radius r15" href="/conference-faq/">FAQ</a>
+        <a class="button small radius r15" href="https://thegradingconference.com/past-conferences/">Past Conferences</a>
+        <a class="button small radius" href="/submission-information/">Abstract Submission</a>
+</div>
 
-<a class="button left r15 small radius" href="https://thegradingconference.com/past-conferences/">Past Conferences</a>
-
-<br>
-<br>
 
 <table align="center">
 <caption>Important Dates</caption>
