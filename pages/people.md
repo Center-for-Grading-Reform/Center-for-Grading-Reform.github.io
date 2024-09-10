@@ -21,7 +21,7 @@ permalink           : "/about/people"
 
 <div class="row" style="margin-top:50px;">
     <div class="columns small-4">
-      <img src="{{ site.urlimg }}gallery-example-4.jpg" alt="">
+      <img src="{{ site.urlimg }}people/bosley.jpg" alt="">
       <p align="center"><strong>Robert Bosley</strong>
       </p>
     </div>
