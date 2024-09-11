@@ -5,10 +5,10 @@ permalink           : "/about/people"
 ---
 
 <div class="row">
-    <div class="columns small-2">
+    <div class="columns small-3">
       <img src="{{ site.urlimg }}people/krinsky.jpg" alt="">
       <p align="center"><strong>Sharona Krinsky</strong> <br>
-      Executive Director
+      Executive Director and Director of Programming, Higher Education
       </p>
     </div>
 
@@ -20,10 +20,11 @@ permalink           : "/about/people"
 </div>
 
 <div class="row" style="margin-top:50px;">
-    <div class="columns small-2">
+    <div class="columns small-3">
       <img src="{{ site.urlimg }}people/bosley.jpg" alt="">
       <p align="center"><strong>Robert Bosley</strong>
-      Director of Programming
+      <br>
+      Chief Financial Officer and Director of Programming, PK-12
       </p>
     </div>
 
@@ -33,9 +34,10 @@ Donec a mauris lobortis, rutrum felis eleifend, lobortis lectus. Cras quis nibh 
 </div>
 
 <div class="row" style="margin-top:50px;">
-    <div class="columns small-2">
+    <div class="columns small-3">
       <img src="{{ site.urlimg }}people/lewis.jpg" alt="">
       <p align="center"><strong>Drew Lewis</strong>
+      <br>
       Director of Research
       </p>
     </div>
