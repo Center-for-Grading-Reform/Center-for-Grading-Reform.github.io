@@ -5,6 +5,12 @@ title               : "The Grading Conference"
 teaser              : ""
 permalink           : "/grading-conference/"
 ---
+The mission of the Grading Conference is to provide an annual meeting place to promote the use of grading practices that are focused on equity and authentic learning. We strive to: 
+- Grow and support a thriving community of practitioners, 
+- Provide professional development related to grading practices that meets the many needs of our diverse community of practitioners,
+- Promote and disseminate research on grading practices, and
+- Facilitate systemic change in grading practices.
+
 
 {% include alert info="The 2025 Grading Conference will be held June 11--13, 2025" %}
 
