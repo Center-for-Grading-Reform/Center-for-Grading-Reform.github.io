@@ -19,10 +19,10 @@ Hosted virtually each June, we bring together hundreds of postsecondary educator
 research related to grading in higher education.
 
 
-<div class="button-group align-spaced">
+<div class="button-group align-spaced text-center" >
+        <a class="button small radius r15" href="/submission-information/">Abstract Submission</a>
         <a class="button small radius r15" href="/conference-faq/">FAQ</a>
         <a class="button small radius r15" href="../past-conferences/">Past Conferences</a>
-        <a class="button small radius" href="/submission-information/">Abstract Submission</a>
 </div>
 
 
