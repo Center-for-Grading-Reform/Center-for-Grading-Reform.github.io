@@ -1,5 +1,5 @@
 GIT
-  remote: https://github.com/yanan-xu/hpricot
+  remote: https://github.com/siwelwerd/hpricot
   revision: cc2725b9c9e4bdcca7e7984f6e7b17216839b9fc
   specs:
     hpricot (0.8.6)
