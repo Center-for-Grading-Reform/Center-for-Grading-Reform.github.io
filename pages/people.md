@@ -13,9 +13,16 @@ permalink           : "/about/people"
     </div>
 
     <div class="columns small-9">
-     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam finibus ultrices pharetra. Praesent scelerisque vulputate ipsum, a dictum massa. Vivamus et ipsum ante. Pellentesque vel congue turpis. Nullam risus diam, maximus et justo at, fermentum ornare turpis. Aliquam erat volutpat. Suspendisse eros felis, vehicula eu metus ac, tempus luctus eros. Duis id lobortis magna. Nunc vitae ante gravida, interdum nibh non, elementum eros. Nullam commodo ipsum sed auctor facilisis. Nullam eros tortor, convallis egestas gravida eget, blandit at quam. Aenean diam erat, gravida in pharetra in, bibendum vitae ante. Mauris gravida laoreet molestie. Vestibulum scelerisque orci laoreet sem dapibus, at molestie diam imperdiet. Nulla hendrerit ipsum a eros pulvinar, rhoncus semper sem sollicitudin. Donec quis elit nec tortor commodo efficitur.
-
-
+    <p>
+    Sharona Krinsky has dedicated over 30 years to teaching mathematics in higher education, bringing extensive experience and expertise to her role as a course coordinator for first-year mathematics. Her passion for mathematics education is evident in her ongoing efforts to enhance learning outcomes for students, making complex concepts more accessible and engaging. 
+    </p><p>
+    Since 2016, Sharona has been actively involved in the alternative grading movement, advocating for assessment methods that more accurately reflect students' understanding and foster deeper learning. She has worked with fellow educators to explore and implement grading practices that emphasize growth, mastery, and student-centered approaches, seeking to create learning environments where all students can thrive.
+    </p><p>
+    In addition to her work in the classroom, Sharona is a seasoned faculty development professional, providing mentorship and professional learning opportunities to colleagues. She is committed to the continuous improvement of STEM education, believing that high-quality teaching is a critical component of student success in science, technology, engineering, and mathematics. 
+    </p>
+    <!--<p>
+    Sharona's dedication to educational innovation and her deep understanding of both pedagogy and student needs make her a valuable leader and advocate in the field. Her work not only benefits the students she teaches directly but also contributes to a broader movement to improve the quality of mathematics and STEM education nationwide.
+</p>-->
     </div>
 </div>
 
@@ -29,7 +36,13 @@ permalink           : "/about/people"
     </div>
 
     <div class="columns small-9">
-Donec a mauris lobortis, rutrum felis eleifend, lobortis lectus. Cras quis nibh vitae quam semper dignissim. Nam nibh lorem, dictum placerat euismod ac, mollis eu sapien. Curabitur enim ipsum, finibus sit amet dignissim vel, volutpat cursus nibh. Ut pulvinar gravida rutrum. Vivamus sit amet est vitae diam sollicitudin porta vitae eget lacus. Pellentesque semper eget mi at aliquet. Pellentesque sit amet aliquet quam, eget volutpat nulla. Phasellus rhoncus leo eu viverra convallis. Curabitur quis efficitur ligula. Nulla ullamcorper libero at rutrum molestie. Aliquam varius enim leo. Maecenas eget urna quis justo volutpat sollicitudin vitae nec lacus.
+    <p>
+Robert Bosley is a dedicated educator with over 19 years of experience teaching high school mathematics. His passion for teaching extends beyond the classroom, as he also serves as a faculty coach and peer mentor, guiding fellow educators in their professional growth. Since 2019, Bosley has been actively involved in the alternative grading movement, working to implement equitable grading practices that provide a fairer and more accurate assessment of student learning.
+</p><p>
+In his role as a certified EGI (Equitable Grading and Instruction) coach for the Los Angeles Unified School District, Robert plays a key role in supporting educators as they adopt grading practices that emphasize student mastery and equity. His work in this area is grounded in his commitment to creating learning environments where all students have the opportunity to succeed, regardless of their background or starting point.
+</p><p>
+In addition to his high school teaching experience, Robert has been teaching Statistics in higher education since 2019, further broadening his impact on students and contributing to the field of mathematics education. His extensive experience as a faculty development professional and coach has made him a valuable resource for educators looking to improve their teaching practices and create more inclusive classrooms.
+</p>
     </div><!-- /.medium-4.columns -->  
 </div>
 
@@ -43,6 +56,9 @@ Donec a mauris lobortis, rutrum felis eleifend, lobortis lectus. Cras quis nibh 
     </div>
 
     <div class="columns small-9">
-Vivamus blandit auctor eros eget aliquet. Sed quis rutrum nisi. Nam faucibus sem sapien, in maximus mauris suscipit in. In convallis leo nunc, at molestie odio imperdiet non. Nam at tellus vitae mauris pharetra lacinia. Mauris non leo risus. Ut pharetra laoreet faucibus. Ut venenatis gravida ullamcorper. Suspendisse fermentum nisi odio, non tempor purus rutrum quis. In in dolor pellentesque, cursus enim ut, congue nisl. Pellentesque at viverra ex. Sed vel mauris quam. Donec in est ligula.
+    <p> Drew Lewis is a mathematician, education researcher, and faculty developer. He currently works as an independent consult, working with faculty and institutions across the country on improving postsecondary education in areas such as inclusive pedagogy, alternative grading, and active learning techniques.
+    </p><p>
+    In addition to incorporating alternative grading techniques into his own courses for the past decade, Drew has an active research program into the impacts of alternative grading techniques on students. He has a particular interest in how these techniques improve students' mindsets and dispositions, particularly through reducing test anxiety and fostering more productive achievement goal orientations.
+    </p>
     </div><!-- /.medium-4.columns -->  
 </div>
