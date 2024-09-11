@@ -16,6 +16,9 @@
 - title: About
   url: "/about/"
   side: left
+  dropdown:
+  - title: "Who We Are"
+    url: "/about/people/"
 
 #- title: "Templates"
   #url: "/design/"
