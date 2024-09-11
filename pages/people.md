@@ -1,7 +1,7 @@
 ---
 layout              : page-fullwidth
 title               : "Who We Are"
-permalink           : "/about/people"
+permalink           : "/about/people/"
 ---
 
 <div class="row">
