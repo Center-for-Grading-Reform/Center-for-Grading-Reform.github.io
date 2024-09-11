@@ -23,6 +23,7 @@ permalink           : "/about/people"
     <div class="columns small-2">
       <img src="{{ site.urlimg }}people/bosley.jpg" alt="">
       <p align="center"><strong>Robert Bosley</strong>
+      Director of Programming
       </p>
     </div>
 
@@ -35,6 +36,7 @@ Donec a mauris lobortis, rutrum felis eleifend, lobortis lectus. Cras quis nibh 
     <div class="columns small-2">
       <img src="{{ site.urlimg }}people/lewis.jpg" alt="">
       <p align="center"><strong>Drew Lewis</strong>
+      Director of Research
       </p>
     </div>
 
