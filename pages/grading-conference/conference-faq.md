@@ -3,7 +3,7 @@ layout              : page
 show_meta           : false
 title               : "The Grading Conference FAQ"
 teaser              : ""
-permalink           : "/conference-faq/"
+permalink           : "/grading-conference/conference-faq/"
 ---
 
 <dl>

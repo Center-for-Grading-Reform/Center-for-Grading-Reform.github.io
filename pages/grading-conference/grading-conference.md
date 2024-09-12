@@ -20,16 +20,16 @@ research related to grading in higher education.
 
 
 <div class="button-group align-spaced text-center" >
-        <a class="button small radius r15" href="/submission-information/">Abstract Submission</a>
-        <a class="button small radius r15" href="/conference-faq/">FAQ</a>
-        <a class="button small radius r15" href="../past-conferences/">Past Conferences</a>
+        <a class="button small radius r15" href="/grading-conference/submission-information/">Abstract Submission</a>
+        <a class="button small radius r15" href="/grading-conference/conference-faq/">FAQ</a>
+        <a class="button small radius r15" href="/past-conferences/">Past Conferences</a>
 </div>
 
 
 <table align="center">
 <caption>Important Dates</caption>
 <tr>
-<td>1/6/24</td>
+<td>1/6/25</td>
 <td>Abstract Submissions Open</td>
 </tr>
 <tr>
