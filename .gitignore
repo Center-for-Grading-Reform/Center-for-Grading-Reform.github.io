@@ -6,3 +6,4 @@ _site
 .sass-cache
 Gemfile.lock
 hpricot-0.8.6.gem
+_pages
