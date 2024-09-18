@@ -9,9 +9,14 @@
   - title: "The Grading Conference"
     url: "/grading-conference/"
 
+- title: Professional Development
+  url: "/professional-development/"
+  side: left
+
 - title: Resources
   url: "/resources/"
   side: left
+
 
 - title: About
   url: "/about/"
