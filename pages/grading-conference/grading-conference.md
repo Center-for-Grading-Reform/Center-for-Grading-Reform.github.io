@@ -23,6 +23,7 @@ research related to grading in higher education.
         <a class="button small radius r15" href="/grading-conference/submission-information/">Abstract Submission</a>
         <a class="button small radius r15" href="/grading-conference/conference-faq/">FAQ</a>
         <a class="button small radius r15" href="/past-conferences/">Past Conferences</a>
+        <a class="button small radius r15" href="/grading-conference/organizing-team/">Organizing Team</a>
 </div>
 
 
@@ -53,3 +54,6 @@ research related to grading in higher education.
 <td>Conference Begins!</td>
 </tr>
 </table>
+
+{% include alert warning="Questions?  Email us at [info@thegradingconference.com](mailto:info@thegradingconference.com)" %}
+

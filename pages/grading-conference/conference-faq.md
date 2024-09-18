@@ -24,12 +24,17 @@ Recordings are typically made available to registered participants by the end of
 
 <dt>Where are the Zoom links to the sessions?</dt>
 <dd>
-A website containing all the zoom links will be emailed out by June 7, two days before the conference. If you don’t receive it (and have double checked your spam folder), contact us at info@thegradingconference.com.
+A website containing all the zoom links will be emailed out two days before the conference. If you don’t receive it (and have double checked your spam folder), contact us at <a href="mailto:info@thegradingconference.com">info@thegradingconference.com</a>.
 </dd>
 
 <dt>I know of a great speaker y’all should get for the conference. How do I let you know?</dt>
 <dd>
-Email us at info@thegradingconference.com.
+Email us at <a href="mailto:info@thegradingconference.com">info@thegradingconference.com</a>.
+</dd>
+
+<dt>I have a question not answered here.</dt>
+<dd>
+Email us at <a href="mailto:info@thegradingconference.com">info@thegradingconference.com</a>.
 </dd>
 </dl>
 
