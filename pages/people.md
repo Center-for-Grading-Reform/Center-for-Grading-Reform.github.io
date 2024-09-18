@@ -37,7 +37,7 @@ permalink           : "/about/people/"
 
     <div class="columns small-9">
     <p>
-Robert Bosley is a dedicated educator with over 19 years of experience teaching high school mathematics. His passion for teaching extends beyond the classroom, as he also serves as a faculty coach and peer mentor, guiding fellow educators in their professional growth. Since 2019, Bosley has been actively involved in the alternative grading movement, working to implement equitable grading practices that provide a fairer and more accurate assessment of student learning.
+Robert Bosley is a dedicated educator with over 19 years of experience teaching high school mathematics. His passion for teaching extends beyond the classroom, as he also serves as a faculty coach and peer mentor, guiding fellow educators in their professional growth. Since 2019, Robert has been actively involved in the alternative grading movement, working to implement equitable grading practices that provide a fairer and more accurate assessment of student learning.
 </p><p>
 In his role as a certified EGI (Equitable Grading and Instruction) coach for the Los Angeles Unified School District, Robert plays a key role in supporting educators as they adopt grading practices that emphasize student mastery and equity. His work in this area is grounded in his commitment to creating learning environments where all students have the opportunity to succeed, regardless of their background or starting point.
 </p><p>
