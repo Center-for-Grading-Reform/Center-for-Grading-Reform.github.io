@@ -3,7 +3,7 @@ layout              : page
 show_meta           : false
 title               : "The Grading Conference"
 teaser              : ""
-permalink           : "/grading-conference/submission-information"
+permalink           : "/grading-conference/submission-information/"
 ---
 
 Check back in late 2024 for details on how and what to submit for abstracts.
