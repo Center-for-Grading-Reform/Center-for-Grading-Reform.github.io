@@ -25,7 +25,7 @@ description: 'The Center for Grading Reform is a 501(c)(3) non-profit organizati
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://center-for-grading-reform.github.io'
+url: 'https://centerforgradingreform.org'
 baseurl: '/'
 
 # This is for the editing function in _/includes/improve_content
