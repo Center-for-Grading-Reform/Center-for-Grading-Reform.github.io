@@ -11,7 +11,7 @@ permalink           : "/grading-conference/organizing-team/"
     </div>
     <div class="columns large-3">
       <img src="{{ site.urlimg }}people/donahoe.jpg" alt="" width="90%" class="center">
-      <p align="center">Emily Donahoe</p>
+      <p align="center">Emily Pitts Donahoe</p>
     </div>
     <div class="columns large-3">
       <img src="{{ site.urlimg }}people/fox.jpg" alt="" width="90%" class="center">
