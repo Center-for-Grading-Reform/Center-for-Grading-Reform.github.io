@@ -16,3 +16,16 @@ permalink           : "/grading-conference/keynotes/"
     </p>
     </div>
 </div>
+
+<div class="row">
+    <div class="columns small-3">
+      <img src="{{ site.urlimg }}keynotes/anderson.jpg" alt="">
+      <p align="center"><strong>Jeff Anderson</strong> 
+      </p>
+    </div>
+
+    <div class="columns small-9">
+    <p>Jeff Anderson is an Instructor in the Department of Mathematics at Foothill College.  Jeff's <a href="http://www.appliedlinearalgebra.com/blog/jeffs-professional-vision">top-level professional goal</a> is to use antiracist learning science to help people thrive. Jeff hopes also to empower people in his life to leverage their own sense of democratic engagement in our communities and to think deeply about how they might use their learning skills as tools to serve and empower other people, especially those folks who have the least systemic power in our society. Jeff does work towards this goal as a research educator, a research mathematician, an educational consultant, an author, a content creator, a learning skills mentor, and a scholarship coach.
+    </p>
+    </div>
+</div>
