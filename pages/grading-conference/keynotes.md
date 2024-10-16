@@ -17,7 +17,7 @@ permalink           : "/grading-conference/keynotes/"
     </div>
 </div>
 
-<div class="row">
+<div class="row" style="margin-top: 20px;">
     <div class="columns small-3">
       <img src="{{ site.urlimg }}keynotes/anderson.jpg" alt="">
       <p align="center"><strong>Jeff Anderson</strong> 
@@ -30,7 +30,7 @@ permalink           : "/grading-conference/keynotes/"
     </div>
 </div>
 
-<div class="row">
+<div class="row" style="margin-top: 20px;">
     <div class="columns small-3">
       <img src="{{ site.urlimg }}keynotes/tanner.jpg" alt="">
       <p align="center"><strong>Eden Tanner</strong> 
