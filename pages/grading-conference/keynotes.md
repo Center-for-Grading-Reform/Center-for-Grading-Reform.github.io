@@ -29,3 +29,25 @@ permalink           : "/grading-conference/keynotes/"
     </p>
     </div>
 </div>
+
+<div class="row">
+    <div class="columns small-3">
+      <img src="{{ site.urlimg }}keynotes/tanner.jpg" alt="">
+      <p align="center"><strong>Eden Tanner</strong> 
+      </p>
+    </div>
+
+    <div class="columns small-9">
+    <p>Dr. Eden E. L. Tanner completed her undergraduate degree in Advanced Science (Chemistry) at
+the University of New South Wales, Sydney, Australia. She earned her doctorate in Physical and
+Theoretical Chemistry at the University of Oxford with Prof Richard G. Compton, and moved to
+Harvard University in 2017 as a Postdoctoral Research Fellow with Samir Mitragotri. As of
+August 2020, Dr. Tanner is an Assistant Professor of Chemistry and Biochemistry at the
+University of Mississippi. The Tanner Lab works at the interface of Chemistry and
+Bioengineering with a focus on using ionic liquids to solve problems in nanoparticle drug
+delivery. Dr. Tanner believes everyone is a “science person” and has been experimenting with
+alternative grading models in General Chemistry to create equitable and growth-oriented
+educational spaces.
+    </p>
+    </div>
+</div>
