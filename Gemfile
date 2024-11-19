@@ -20,3 +20,5 @@ gem "faraday-retry", "~> 2.2"
 gem 'hpricot', :git => 'https://github.com/siwelwerd/hpricot'
 gem 'open_uri_redirections'
 gem 'jekyll-import'
+
+gem 'jekyll-redirect-from'

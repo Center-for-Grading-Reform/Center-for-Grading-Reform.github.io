@@ -56,6 +56,8 @@ GEM
       nokogiri (~> 1.0)
       reverse_markdown (~> 2.1)
     jekyll-paginate (1.1.0)
+    jekyll-redirect-from (0.16.0)
+      jekyll (>= 3.3, < 5.0)
     jekyll-sass-converter (3.0.0)
       sass-embedded (~> 1.54)
     jekyll-watch (2.2.1)
@@ -117,6 +119,7 @@ DEPENDENCIES
   jekyll-gist
   jekyll-import
   jekyll-paginate
+  jekyll-redirect-from
   open_uri_redirections
   webrick (~> 1.8)
 
