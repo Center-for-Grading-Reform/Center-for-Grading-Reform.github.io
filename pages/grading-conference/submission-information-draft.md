@@ -92,7 +92,9 @@ Session where the proposer hosts several panelists in an interactive question an
 </table>
 
 #### Description of Paper Types and Session Formats
+
 <br/>
+
 Work-in-Progress 
 : Studies, classroom practices, theoretical frameworks, etc. at an early to intermediate stage for which authors are seeking feedback from the community. (Limited to posters)
 
@@ -101,9 +103,9 @@ Classroom practices
 
 Research
 : This category includes research studies that are quantitative or qualitative in nature, literature reviews, and critical theory research.
-: *Quantitative or qualitative study*: describe the motivation and background, purpose, relevant prior work, theoretical framework(s), methods, results, and implications.<br/>
-*Literature reviews*: describe the motivation, methods, and findings. Should include scoping reviews and meta-analyses.<br/>
-*Theoretical explorations*: Papers investigating elements of alternative grading in relation to one or more theoretical frameworks.
+: *Quantitative or qualitative studies* describe the motivation and background, purpose, relevant prior work, theoretical framework(s), methods, results, and implications.<br/>
+*Literature reviews* describe the motivation, methods, and findings. These include both scoping reviews and meta-analyses.<br/>
+*Theoretical explorations* investigate elements of alternative grading in relation to one or more theoretical frameworks.
 
 Faculty Development
 : These papers can include descriptions of training programs, best practices, theoretical models, and exploratory work that brings forward or synthesizes a new idea relevant to faculty or the faculty development profession and/or practice. Abstracts should describe the practice or program, lessons learned, implementation, recommendations, and any results or outcomes.
@@ -113,3 +115,55 @@ Panel Discussion
 
 Workshops
 : Interactive sessions providing attendees an opportunity to learn about a topic in depth and find ways to apply the knowledge to their own settings. Abstracts should describe the target audience, including any prior experience/knowledge needed, the learning outcomes, and what participants will do during the workshop. Highlight interactive components (e.g., group work, interactive exercises). These sessions will run as a zoom meeting with breakout room capability.
+
+#### Evaluation Criteria
+
+Abstracts will be reviewed by a committee according to the following criteria.  All submissions will be evaluated on the following criteria:
+
+1. Is the topic of the abstract related to grading and alternative grading?
+1. Does the abstract match the format and type of paper selected in the submission?
+1. Is the writing clear?
+ 
+
+In addition, submissions will also be evaluated on additional criteria depending on the type of submission.
+
+
+##### Posters & Talks
+
+For __Classroom Practices__ submissions:
+1. Does the abstract describe the classroom context?
+1. Is the practice and implementation (or proposed implementation) described?
+1. Are results (assessment results, instructor reflections, or survey data) described?
+1. Does the abstract identify recommendations for others or for future iterations?
+
+For __Research__ submissions:
+1. Does the abstract describe the research type (quantitative, qualitative, literature review, or theoretical explanation)?
+1. Is the motivation and/or background described?
+1. Are the research goals or questions listed?
+1. Are the methods or theoretical basis for theory papers described?
+1. Are results or findings (or status of research) clearly described?
+1. Are implications of the work clearly described?
+
+For __Faculty Development__ submissions:
+1. Does the abstract describe the context and/or target audience?
+1. Does the abstract describe the program, practice, model or exploration?
+1. Does the abstract describe the implementation (prior or proposed)?
+1. Does the abstract describe the results or outcomes (as applicable)?
+1. Does the abstract describe the lessons learned (as applicable)?
+1. Does the abstract include recommendations and next steps?
+
+##### Panel Discussions
+
+1. Does the abstract describe the theme or objective of the panel?
+1. Are sample questions for the panel included?
+1. Does the submission identify potential panelists?
+
+##### Workshops
+
+1. Does the abstract clearly describe a topic or focus?
+1. Does the abstract identify learning outcomes for workshop participants?
+1. Is the target audience identified?
+1. Does the abstract describe any prior experience/knowledge needed by the target audience?
+1. Does the abstract describe the submitter’s prior experience, knowledge, and expertise in the topic?
+1. Does the abstract describe workshop activities that are aligned with the proposed learning outcomes?
+1. Does the abstract incorporate elements of interactivity with materials and fellow participants, and use additional evidence-based approaches to facilitate learning?
