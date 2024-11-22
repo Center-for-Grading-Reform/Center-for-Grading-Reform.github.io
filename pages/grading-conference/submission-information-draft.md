@@ -102,7 +102,7 @@ Classroom practices
 : Paper or workshop is focused on instruction, including classroom innovations and lessons learned. Abstracts should describe the practice and implementation, recommendations, assessment results, and reflections of the instructor.
 
 Research
-: This category includes research studies that are quantitative or qualitative in nature, literature reviews, and critical theory research.
+: This category includes research studies that are quantitative or qualitative in nature, literature reviews, and explorations of theories related to alternative grading.
 : *Quantitative or qualitative studies* describe the motivation and background, purpose, relevant prior work, theoretical framework(s), methods, results, and implications.<br/>
 *Literature reviews* describe the motivation, methods, and findings. These include both scoping reviews and meta-analyses.<br/>
 *Theoretical explorations* investigate elements of alternative grading in relation to one or more theoretical frameworks.
@@ -118,7 +118,7 @@ Workshops
 
 #### Evaluation Criteria
 
-Abstracts will be reviewed by a committee according to the following criteria.  All submissions will be evaluated on the following criteria:
+Abstracts will be reviewed by a committee according to the following criteria:  
 
 1. Is the topic of the abstract related to grading and alternative grading?
 1. Does the abstract match the format and type of paper selected in the submission?
@@ -137,7 +137,7 @@ For __Classroom Practices__ submissions:
 1. Does the abstract identify recommendations for others or for future iterations?
 
 For __Research__ submissions:
-1. Does the abstract describe the research type (quantitative, qualitative, literature review, or theoretical explanation)?
+1. Does the abstract describe the research type (quantitative, qualitative, literature review, or theoretical exploration)?
 1. Is the motivation and/or background described?
 1. Are the research goals or questions listed?
 1. Are the methods or theoretical basis for theory papers described?
