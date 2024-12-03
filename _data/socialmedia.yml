@@ -3,10 +3,11 @@
   class: icon-twitter
   title: "@Grading4Growth"
 
-- name: Twitter
-  url: http://grading4growth.bsky.social
-  class: icon-bluesky
-  title: "@Grading4Growth"
+- name: Bluesky
+  url: https://bsky.app/profile/thegradingconference.com
+  #class: fa-brands fa-bluesky
+  class: fa-brands fa-bluesky
+  title: "@thegradingconference.com"
 
 
 
