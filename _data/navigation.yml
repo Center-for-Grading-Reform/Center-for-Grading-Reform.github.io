@@ -24,6 +24,8 @@
   dropdown:
   - title: "Who We Are"
     url: "/about/people/"
+  - title: "Donate"
+    url: "/donate/"
 
 #- title: "Templates"
   #url: "/design/"
