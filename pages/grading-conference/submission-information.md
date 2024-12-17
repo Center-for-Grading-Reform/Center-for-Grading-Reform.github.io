@@ -167,3 +167,7 @@ For __Faculty Development__ submissions:
 1. Does the abstract describe the submitter’s prior experience, knowledge, and expertise in the topic?
 1. Does the abstract describe workshop activities that are aligned with the proposed learning outcomes?
 1. Does the abstract incorporate elements of interactivity with materials and fellow participants, and use additional evidence-based approaches to facilitate learning?
+
+
+
+The [Microsoft CMT service](https://cmt3.research.microsoft.com/) was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
