@@ -37,6 +37,8 @@ permalink           : "/grading-conference/submission-information/"
 
 {% include alert info="Submit your abstract here!" %}
 
+In order to submit an abstract, you will need to create an account with CMT if you don't already have one. Instructions for creating a CMT account are available [here](https://cmt3.research.microsoft.com/docs/help/general/account-creation.html)
+
 ### Call For Abstracts
 
 The Grading Conference will support four presentation formats in 2025 (posters, talks, workshops, and panel discussions). With the exception of panel discussions, each presentation format includes several different _types_ of papers that we encourage for submission.
