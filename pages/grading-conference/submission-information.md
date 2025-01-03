@@ -8,9 +8,9 @@ permalink           : "/grading-conference/submission-information/"
 
 
 <table align="center">
-<caption>Important Dates</caption>
+<caption>Future Dates and Deadlines</caption>
 <tr>
-<td>1/6/25</td>
+<td>1/13/25</td>
 <td>Abstract Submissions Open</td>
 </tr>
 <tr>
@@ -97,7 +97,6 @@ Session where the proposer hosts several panelists in an interactive question an
 </tr>
 </table>
 
-<> #### Description of Proposal Types and Session Formats
 #### Submission Guidelines
 
 <br/>
@@ -175,6 +174,16 @@ For __Faculty Development__ submissions:
 1. Does the abstract describe workshop activities that are aligned with the proposed learning outcomes?
 1. Does the abstract incorporate elements of interactivity with materials and fellow participants, and use additional evidence-based approaches to facilitate learning?
 
+
+#### Committee
+- Robert Bosley, Los Angeles Unified School District
+- Emily Pitts Donahoe, University of Mississippi
+- Ashleigh Fox, Community College of Allegheny County
+- Sharona Krinsky, California State University, Los Angeles
+- Melanie Lenahan, Raritan Valley Community College
+- Drew Lewis, Center for Grading Reform
+- Katie Mattaini, Tufts University
+- Jenni Momsen, North Dakota State University
 
 
 The [Microsoft CMT service](https://cmt3.research.microsoft.com/) was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
