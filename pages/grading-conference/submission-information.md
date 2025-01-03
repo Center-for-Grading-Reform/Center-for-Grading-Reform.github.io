@@ -122,7 +122,7 @@ Panel Discussion
 Workshops
 : Interactive sessions providing attendees an opportunity to learn about a topic in depth and find ways to apply the knowledge to their own settings. Abstracts should describe the target audience, including any prior experience/knowledge needed, the learning outcomes, and what participants will do during the workshop. Highlight interactive components (e.g., group work, interactive exercises). These sessions will run as a zoom meeting with breakout room capability.
 
-#### Author Guidelines
+### Author Guidelines
 
 Abstracts will be reviewed by a committee according to the following criteria:  
 
