@@ -31,7 +31,7 @@ research related to grading in higher education.
 <table align="center">
 <caption>Important Dates</caption>
 <tr>
-<td>1/6/25</td>
+<td>1/13/25</td>
 <td>Abstract Submissions Open</td>
 </tr>
 <tr>
