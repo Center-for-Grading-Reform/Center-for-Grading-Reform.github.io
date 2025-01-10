@@ -8,7 +8,7 @@ permalink           : "/grading-conference/submission-information/"
 
 
 <table align="center">
-<caption>Future Dates and Deadlines</caption>
+<caption>Important Dates and Deadlines</caption>
 <tr>
 <td>1/13/25</td>
 <td>Abstract Submissions Open</td>
@@ -40,10 +40,8 @@ permalink           : "/grading-conference/submission-information/"
 ### How To Submit
 In order to submit an abstract, you will need to create an account with CMT if you don't already have one. Instructions for creating a CMT account are available [here](https://cmt3.research.microsoft.com/docs/help/general/account-creation.html)
 
-### Where To Submit
-We will use the Microsoft CMT system.  The link will be available here.
 
-### Call For Proposals
+### Call For Abstracts
 
 The Grading Conference will support four presentation formats in 2025 (posters, talks, workshops, and panel discussions). With the exception of panel discussions, each presentation format includes several different _types_ of papers that we encourage for submission.
 
@@ -97,7 +95,7 @@ Session where the proposer hosts several panelists in an interactive question an
 </tr>
 </table>
 
-#### Submission Guidelines
+#### Description of Paper Types and Submission Formats
 
 <br/>
 
@@ -122,7 +120,7 @@ Panel Discussion
 Workshops
 : Interactive sessions providing attendees an opportunity to learn about a topic in depth and find ways to apply the knowledge to their own settings. Abstracts should describe the target audience, including any prior experience/knowledge needed, the learning outcomes, and what participants will do during the workshop. Highlight interactive components (e.g., group work, interactive exercises). These sessions will run as a zoom meeting with breakout room capability.
 
-### Author Guidelines
+### Evaluation Criteria
 
 Abstracts will be reviewed by a committee according to the following criteria:  
 
