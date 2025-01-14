@@ -35,10 +35,12 @@ permalink           : "/grading-conference/submission-information/"
 </tr>
 </table>
 
-{% include alert info="Submit your abstract here!" %}
+<a class="button radius r15 expand"  href="https://cmt3.research.microsoft.com/GRADINGCONFERENCE2025/">Submit your abstract here!</a>
 
 ### How To Submit
-In order to submit an abstract, you will need to create an account with CMT if you don't already have one. Instructions for creating a CMT account are available [here](https://cmt3.research.microsoft.com/docs/help/general/account-creation.html)
+In order to submit an abstract, you will need to create an account with CMT if you don't already have one. Instructions for creating a CMT account are available [here](https://cmt3.research.microsoft.com/docs/help/general/account-creation.html). Once you've created an accountm click the button above to go to the submission site.
+
+Please read the below details carefully, different submission types require different kinds of information.
 
 
 ### Call For Abstracts
