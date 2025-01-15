@@ -15,13 +15,13 @@ The Center for Grading Reform, in partnership with the [RIOS Institute](https://
 
 
 #### Meetings & Topics
-- X/XX: Introduction, Course Learning Objectives
-- XX/X: Assessment-level Outcomes
-- XX/XX: Enumerating Assessments
-- XX/XX: Marking Schemes
-- XX/X: Revisions and Reassessments
-- XX/XX: Grade Tables
-- XX/XX: Simplifying and Getting Feedback
+The Learning Community will meet on Wednesdays at 4 Eastern/1 Pacific
+- 3/5: Introduction, Course Learning Objectives
+- 3/12: Assessment-level Outcomes
+- 3/19: Enumerating Assessments & Marking Schemes
+- 3/26: Revisions and Reassessments
+- 4/2: Grade Tables
+- 4/9: Simplifying and Getting Feedback
 
 __Facilitators__: Drew Lewis (drew.lewis@centerforgradingreform.org) and Melanie Lenahan (melanie.lenahan@raritanval.edu)
 
