@@ -22,6 +22,11 @@ As with recordings, this is up to the presenters, but we strive to collect and s
 Recordings are typically made available to registered participants by the end of June (look for an email with a link), and posted publicly by the end of August.
 </dd>
 
+<dt>How can I make my presentation at the conference accessible?</dt>
+<dd>
+Please review our <a href="/grading-conference/accessibility-guide/">accessibility guide</a> for presenters.
+</dd>
+
 <dt>Where are the Zoom links to the sessions?</dt>
 <dd>
 A website containing all the zoom links will be emailed out two days before the conference. If you don’t receive it (and have double checked your spam folder), contact us at <a href="mailto:info@thegradingconference.com">info@thegradingconference.com</a>.
