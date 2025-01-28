@@ -34,6 +34,6 @@ participants.  To set this up or for more information, contact us at info@thegra
 
 
 ### Registration Form
-<iframe src="https://forms.gle/whpZwxpp5rEsSszs6" width="100%" height="2500">
+<iframe src="https://forms.gle/whpZwxpp5rEsSszs6" width="100%" height="2500" onload="document.getElementById('registration-form').scrollIntoView()">
 </iframe>
 
