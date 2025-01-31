@@ -1,12 +1,11 @@
 ---
-layout              : page
+layout              : page-fullwidth
 show_meta           : false
 title               : "Grading Conference Registration"
 teaser              : ""
 permalink           : "/grading-conference/registration/"
 ---
 
-<a class="button radius r15 expand"  href="">Registration opens February 1</a>
 
 <table align="center">
 <caption>Registration Fees</caption>
@@ -34,6 +33,10 @@ circulate among your institution, and invoice a single (discounted) fee based on
 participants.  To set this up or for more information, contact us at info@thegradingconference.com.
 
 
+### Registration Form
+<iframe src="https://forms.gle/whpZwxpp5rEsSszs6" width="100%" height="2500" onload="document.getElementById('registration-form').scrollIntoView()">
+</iframe>
 
-
-
+<script>
+  window.setTimeout(function(){window.scroll(-10,0)},1000)
+</script>
