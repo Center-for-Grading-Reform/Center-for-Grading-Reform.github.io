@@ -24,6 +24,8 @@
   dropdown:
   - title: "Who We Are"
     url: "/about/people/"
+  - title: "Documents and Reports"
+    url: "/reports/"
   - title: "Donate"
     url: "/donate/"
 
