@@ -25,5 +25,5 @@ The Learning Community will meet on Wednesdays at 4 Eastern/1 Pacific
 
 __Facilitators__: Drew Lewis (drew.lewis@centerforgradingreform.org) and Melanie Lenahan (melanie.lenahan@raritanval.edu)
 
-To sign up, please use [this form]().  Participants should commit to attending each session, 
+To sign up, please use [this form](https://forms.gle/dXqxkn2SuKNDzDKk8).  Participants should commit to attending each session, 
 with limited exceptions.

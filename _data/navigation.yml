@@ -12,6 +12,9 @@
 - title: Professional Development
   url: "/professional-development/"
   side: left
+  dropdown:
+  - title: "Learning Community"
+    url: "/learning-community/"
 
 - title: Resources
   url: "/resources/"
