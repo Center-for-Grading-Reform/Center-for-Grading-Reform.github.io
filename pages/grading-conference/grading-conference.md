@@ -59,23 +59,7 @@ research related to grading in higher education.
         <a class="button small radius r15" href="/grading-conference/organizing-team/">Organizing Team</a>
 </div>
 
-{% include alert warning="Call for Volunteers" %}
-The Conference Organizing Team is calling for self-nominations for several groups of volunteers
-1. __Abstract Reviewers__:
-To review abstracts according to the evaluation criteria determined by the Organizing Committee.
 
-2. __Program Committee Members__:
-To organize accepted abstracts into sessions by theme and set the schedule within an outline determined by the Organizing Committee.
-
-3. __Zoom Helpers__:
-To help Organizing Committee members host one Zoom session during the conference. (You are NOT signing up to do this for the entire three days!) At least one member of the Organizing Committee will always be present, but the Conference is too large now for us to do this alone! We may ask you to do things like monitor the chat, make sure the recording has begun, or read questions from the Q&A panel to presenters. A pre-conference training session will be offered earlier during the week of the conference to go over any technical requirements. A stable internet connection is required. 
-
-
-4. __Leads for Affinity Social Groups__:
-To lead an informal affinity group gathering during a social hour at the end of the day on either Wednesday or Thursday. Volunteers can identify their own topic for the affinity group, for instance: community college faculty, alt grading in large courses, research on alt grading, etc.
-
-
-We seek volunteers from a variety of backgrounds, disciplinary and otherwise. To nominate yourself, please [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSfDlSbqY3lAcVv9llJ4sJo-Kwwzw-eHfGLWLdwT_Zj05zAOgA/viewform?usp=sf_link). 
 
 <table align="center">
 <caption>Important Dates</caption>
