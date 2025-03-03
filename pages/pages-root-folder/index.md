@@ -53,7 +53,6 @@ The Center for Grading Reform seeks to advance education in the United States by
 
 <div class="button-group align-spaced text-center" >
 <a class="button radius r15" href="/grading-conference/registration/">Register for the 2025 Grading Conference</a>
-<a class="button radius r15" href="/learning-community/">Sign up for the Spring 2025 Learning Community</a>
 </div>
 
 <!--more-->
