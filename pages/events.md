@@ -13,4 +13,4 @@ Events on this list are for informational purposes, and are not necessarily affi
 - June 23--24, 2025. Alternative Grading Institute, Charlottesville, VA
 
 
-If you have other events you would like shared on this list, please contact [Drew Lewis](mailto:drew.lewis@centerforgradingreform.org).
+If you have other events you would like shared on this list, please use [this form](https://forms.gle/JgKMSQZKcsU6ki957).
