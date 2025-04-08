@@ -19,6 +19,9 @@
 - title: Resources
   url: "/resources/"
   side: left
+  dropdown:
+  - title: "Community Events"
+    url: "/community-events/"
 
 
 - title: About

@@ -8,7 +8,7 @@ permalink           : "/community-events/"
 The list below contains public alternative grading events brought to our attention by community members. 
 Events on this list are for informational purposes, and are not necessarily affiliated with the Center for Grading Reform.
 
-- May 14--15, 2015. [Third Annual Competency Based Assessment Symposium, Queens University](https://smithengineering.queensu.ca/about/teaching-and-learning/cba-symposium/index)
+- May 14--15, 2025. [Third Annual Competency Based Assessment Symposium, Queens University](https://smithengineering.queensu.ca/about/teaching-and-learning/events/cba-symposium)
 - June 11--13, 2025.  [The Grading Conference (Zoom)](https://thegradingconference.com)
 
 
