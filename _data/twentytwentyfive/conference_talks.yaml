@@ -1014,16 +1014,16 @@
   title: > 
     Organizing a Proctoring Room for Reassessments across Coordinated College Algebra Classes
   abstract: | 
-    Idaho State University has spent the last four semesters implementing a standards-based grading _x000D_ 
-    system for our coordinated college algebra courses. As part of this system, we initiated a _x000D_ 
-    proctoring room where student workers proctor reassessments one day per week for college _x000D_ 
-    algebra attendees. In this presentation, we describe the logistical structure we constructed for _x000D_ 
-    scheduling reassessments and the communication mechanisms we created to keep instructors, _x000D_ 
-    students, and proctors in alignment. Specifically, we describe the structure of our Qualtrics-based _x000D_ 
-    survey form, the triggers and workflows that facilitate stakeholder communication, and our_x000D_ 
-    Google Sheet to track reassessment schedules, printing, and other logistical issues of our _x000D_ 
-    proctoring room. Our presentation is a practical demonstration of how instructors wishing to _x000D_ 
-    incorporate reassessments into their courses might approach the construction of a reassessment _x000D_ 
+    Idaho State University has spent the last four semesters implementing a standards-based grading 
+    system for our coordinated college algebra courses. As part of this system, we initiated a 
+    proctoring room where student workers proctor reassessments one day per week for college 
+    algebra attendees. In this presentation, we describe the logistical structure we constructed for 
+    scheduling reassessments and the communication mechanisms we created to keep instructors, 
+    students, and proctors in alignment. Specifically, we describe the structure of our Qualtrics-based 
+    survey form, the triggers and workflows that facilitate stakeholder communication, and our
+    Google Sheet to track reassessment schedules, printing, and other logistical issues of our 
+    proctoring room. Our presentation is a practical demonstration of how instructors wishing to 
+    incorporate reassessments into their courses might approach the construction of a reassessment 
     system in individual or coordinated courses.
   format: "presentation"
   year: 2025
