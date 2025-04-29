@@ -28,28 +28,27 @@ All times Eastern
 
 <tr>
 <td markdown="span">2:00 PM---3:00 PM EDT</td>
+
+{% for session in site.data.twentytwentyfive.conference_sessions %}
 <td>
-Session 1.3A
-        <ul>
-        <li> {% assign id=69 %} 
-        {% assign talk = site.data.twentytwentyfive.conference_talks | where: "year", 2025 | find: "abstract_id", id %} <a href="/grading-conference/abstracts/#{{id}}"> {{ talk.title }} </a> {% if talk.authors.size > 1 %} ({{talk.authors[0]}} et al.) {% else %} ({{talk.authors[0]}})  {% endif %} 
+  <b>{{session.title}}</b>
+  <ul class="accordion" data-accordion>
+  {% for id in session.talks %}
+    {% assign talk = site.data.twentytwentyfive.conference_talks | where: "year", 2025 | find: "abstract_id", id %} 
+    {% assign ref = "paper_" | append: id %}
+    {% assign href = "#" | append: ref %}
+       <li class="accordion-navigation">
+          <a href="{{href}}"> {{ talk.title }} </a> {% if talk.authors.size > 1 %} ({{talk.authors[0]}} et al.) {% else %} ({{talk.authors[0]}})  {% endif %} 
+          <div id={{ref}} class="content">
+            <p><em>{{talk.authors | join: ", "}}</em></p>
+            <p>{{talk.abstract}}</p>
+          </div>
         </li>
-        <li> {% assign id=92 %} 
-        {% assign talk = site.data.twentytwentyfive.conference_talks | where: "year", 2025 | find: "abstract_id", id %} <a href="/grading-conference/abstracts/#{{id}}"> {{ talk.title }} </a> {% if talk.authors.size > 1 %} ({{talk.authors[0]}} et al.) {% else %} ({{talk.authors[0]}})  {% endif %} 
-        </li>
-        </ul>
+  {% endfor %}
+  </ul>
 </td>
-<td>
-Session 1.3B
-        <ul>
-        <li> {% assign id=9 %} 
-        {% assign talk = site.data.twentytwentyfive.conference_talks | where: "year", 2025 | find: "abstract_id", id %} <a href="/grading-conference/abstracts/#{{id}}"> {{ talk.title }} </a> {% if talk.authors.size > 1 %} ({{talk.authors[0]}} et al.) {% else %} ({{talk.authors[0]}})  {% endif %} 
-        </li>
-        <li> {% assign id=24 %} 
-        {% assign talk = site.data.twentytwentyfive.conference_talks | where: "year", 2025 | find: "abstract_id", id %} <a href="/grading-conference/abstracts/#{{id}}"> {{ talk.title }} </a> {% if talk.authors.size > 1 %} ({{talk.authors[0]}} et al.) {% else %} ({{talk.authors[0]}})  {% endif %} 
-        </li>
-        </ul>
-</td>
+{% endfor %}
+
 <td>
 Session 1.3C
         <ul>
