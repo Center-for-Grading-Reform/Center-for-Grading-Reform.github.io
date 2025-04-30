@@ -25,7 +25,7 @@ All times Eastern
  <div id="{{ref}}" class="content">
 <table class="schedule">
 
-{% assign conference_day = site.data.twentytwentyfive.conference_sessions | where: "day", day  %}
+{% assign conference_day = site.data.twentytwentyfive.conference_sessions | where: "day", day  | sort: "slot" %}
 {% for slot in conference_day %}
 <tr>
   <td markdown="span" > {{slot.time}} </td>
@@ -39,7 +39,7 @@ All times Eastern
         {% assign ref = "paper_" | append: id %}
         {% assign href = "#" | append: ref %}
         <li class="accordion-navigation" >
-                <a href="{{href}}" style="font-size: 0.8em"> {{ talk.title }} </a> {% if talk.authors.size > 1 %} ({{talk.authors[0]}} et al.) {% else %} ({{talk.authors[0]}})  {% endif %} 
+                <a href="{{href}}" style="font-size: 0.8em"> {{ talk.title }} </a> {% if talk.authors.size > 1 %} ({{talk.authors[0]}} et al.) {% elsif talk.authors.size == 1 %} ({{talk.authors[0]}})  {% endif %} 
                 <div id={{ref}} class="content">
                 <p><em>{{talk.authors | join: ", "}}</em></p>
                 <p>{{talk.abstract}}</p>

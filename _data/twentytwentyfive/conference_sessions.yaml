@@ -103,3 +103,165 @@
   day: 1
   time: "6:00 --- 7:00 PM EDT"
   title: "Social Hour"
+
+
+- slot: 2.1
+  day: 2
+  time: "11:00 AM --- 12:00 PM EDT"
+  title: "Welcome Back & Keynote: Eden Tanner"
+
+- slot: 2.15
+  day: 2
+  time: "12:00 --- 1:00 PM EDT"
+  title: "Meal Break"
+
+- slot: 2.2
+  day: 2
+  time: "1:00 --- 2:00 PM EDT"
+  parallel:
+  - trackA: 
+    title: "Classroom Case Studies: Alternative Grading in STEM "
+    talks:
+    - 1
+    - 39
+    - 98
+  - trackB:
+    title: "Research: Growth Mindset and Student Autonomy"
+    talks:
+    - 87
+    - 71
+  - trackC:
+    title: "Special Topics: Liberation Education and Pedagogical Dissonance"
+    talks:
+    - 10
+    - 80
+  - trackD:
+    title: "Panel"
+    talks:
+    - 14
+
+- slot: 2.25
+  day: 2
+  time: "2:00 --- 2:30 PM EDT"
+  title: "Beverage Break"
+
+- slot: 2.35
+  day: 2
+  time: "3:30 --- 4:00 PM EDT"
+  title: "Beverage Break" 
+
+- slot: 2.3
+  day: 2
+  time: "2:30 --- 3:30 PM EDT"
+  parallel:
+  - trackA:
+    title: "Classroom Case Studies: Ungrading and Collaborative Grading"
+    talks:
+    - 25
+    - 43
+    - 28
+  - trackB:
+    title: "Classroom Case Studies: Specifications Grading"
+    talks:
+    - 8
+    - 35
+  - trackC:
+    title: "Research: Alternative Grading in Chemistry"
+    talks:
+    - 57
+    - 6
+    - 83
+  - trackD:
+    title: "Panel"
+    talks:
+    - 29
+
+- slot: 2.4
+  day: 2
+  time: "4:00 --- 5:30 PM"
+  parallel: 
+  - trackA:
+    title: "Workshop"
+    talks:
+    - 56
+  - trackB:
+    title: "Workshop"
+    talks:
+    - 93
+  - trackC:
+    title: "Poster Review"
+    talks:
+    - 1000
+
+- slot: 2.5
+  day: 2
+  time: "5:00 --- 6:00 PM EDT"
+  title: "Poster Session"
+
+- slot: 2.6
+  day: 2
+  time: "6:00 --- 7:00 PM EDT"
+  title: "Social Hour"
+
+- slot: 3.1
+  day: 3
+  time: "11:00 AM --- 12:00 PM EDT"
+  title: "Welcome Back & Keynote: Jeff Anderson"
+
+- slot: 3.15
+  day: 3
+  time: "12:00 --- 1:00 PM EDT"
+  title: "Meal Break"
+
+- slot: 3.2
+  day: 3
+  time: "1:00 --- 2:00 PM EDT"
+  parallel:
+  - trackA:
+    title: "Classroom Case Studies: Standards-Based Grading 2"
+    talks: 
+    - 96
+    - 78
+  - trackB:
+    title: "Special Topics: Artificial Intelligence and Grading"
+    talks:
+    - 74
+    - 88
+  - trackC:
+    title: "Workshop"
+    talks:
+    - 45
+  - trackD:
+    title: "Panel"
+    talks:
+    - 62
+
+- slot: 3.25
+  day: 3
+  title: "Beverage Break"
+  time: "2:00 --- 2:30 PM EDT"
+
+- slot: 3.3
+  day: 3
+  time: "2:30 --- 3:30 PM EDT"
+  parallel:
+  - trackA:
+    title: "Classroom Case Studies: Hybrid and Specialized Grading Models"
+    talks:
+    - 50
+    - 55
+  - trackB: 
+    title: "Research: Standards-Based Grading (and other models) in Context"
+    talks:
+    - 16
+    - 37
+    - 5
+  - trackC:
+    title: "Panel"
+    talks:
+    - 70
+
+- slot: 3.5
+  day: 3
+  title: "Closing Session"
+  time: "3:30 --- 4:00 PM EDT"
