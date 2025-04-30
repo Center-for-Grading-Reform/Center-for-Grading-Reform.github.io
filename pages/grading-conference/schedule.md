@@ -5,14 +5,28 @@ title               : "The Grading Conference"
 teaser              : ""
 permalink           : "/grading-conference/schedule/"
 ---
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script type="text/javascript"> $(function(){ $(document).foundation() }); </script>
+<script> var elem = new Foundation.Tabs(element, options); </script>
 
 All times Eastern
 
-<table class="schedule">
-<caption>Wednesday, June 11</caption>
+{% assign dates = "Wednesday, June 11; Thursday, June 12; Friday, June 13" | split: "; "%}
+{% assign days = "1,2,3" | split: "," | to_i %}
 
-{% assign day1 = site.data.twentytwentyfive.conference_sessions | where: "day", 1 %}
-{% for slot in day1 %}
+
+<ul class="accordion" data-accordion style="margin-left: 0px">
+{% for day in days %}
+        {% assign ref = "day" | append: day %}
+        {% assign href = "#" | append: ref %}
+        <li class="accordion-navigation" >
+        <a href="{{href}}">{{dates[forloop.index0]}}</a>
+
+ <div id="{{ref}}" class="content">
+<table class="schedule">
+
+{% assign conference_day = site.data.twentytwentyfive.conference_sessions | where: "day", day  %}
+{% for slot in conference_day %}
 <tr>
   <td markdown="span" > {{slot.time}} </td>
   {%if slot.parallel %}
@@ -40,6 +54,11 @@ All times Eastern
   {% endif %}
 </tr>
 {% endfor %}
-
-
 </table>
+</div>
+</li>
+{% endfor %}
+</ul>
+
+
+
