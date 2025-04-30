@@ -9,7 +9,7 @@ permalink           : "/grading-conference/schedule/"
 <script type="text/javascript"> $(function(){ $(document).foundation() }); </script>
 <script> var elem = new Foundation.Tabs(element, options); </script>
 
-All times Eastern
+ Please note that all times are Eastern Daylight Time (UTC-4).
 
 {% assign dates = "Wednesday, June 11; Thursday, June 12; Friday, June 13" | split: "; "%}
 {% assign days = "1,2,3" | split: "," | to_i %}
