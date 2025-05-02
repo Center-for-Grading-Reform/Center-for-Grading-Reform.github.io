@@ -50,7 +50,22 @@ permalink           : "/grading-conference/schedule/"
       </td>
     {% endfor %}
   {% else %}
-  <td markdown="span" colspan="4" style="text-align: center; font-size:1.1em" >**{{slot.title}}**</td>
+  <td colspan="4" style="text-align: center; font-size:1.1em" >
+    <b>{{slot.title}}</b>
+    {% if slot.keynote-title %}
+      {% assign ref = "keynote" | append: slot.day %}
+      {% assign href = "#" | append: ref %}
+      <ul class="accordion" data-accordion="" style="margin-left: 0px">
+        <li class="accordion-navigation" >
+          <a href="{{href}}" style="font-size: 1em"> {{ slot.keynote-title }} </a> 
+          <div id="{{ref}}" class="content">
+          <p>{{slot.keynote-abstract | newline_to_br}}</p>
+          </div>
+          </li>
+      </ul>
+    {% endif %}
+  </td>
+     
   {% endif %}
 </tr>
 {% endfor %}
