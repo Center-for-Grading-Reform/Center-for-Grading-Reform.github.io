@@ -7,6 +7,10 @@ permalink           : "/grading-conference/abstracts/"
 ---
 {% assign dates = "Null; Wednesday, June 11; Thursday, June 12; Friday, June 13" | split: "; "%}
 
+- [Presentation Abstracts](#poster-abstracts) 
+- [Poster Abstracts](#poster-abstracts) 
+
+
 <h2>Presentation Abstracts</h2>
 {% assign current_talks = site.data.twentytwentyfive.conference_talks | where: "year", 2025  | where: "format", "presentation" | sort: "title" %}
   {% for talk in  current_talks  %} 
@@ -30,6 +34,7 @@ permalink           : "/grading-conference/abstracts/"
  </div>
  {% endfor %}
  
+ <div id="poster-abstracts">
  <h2>Poster Abstracts</h2>
 {% assign current_talks = site.data.twentytwentyfive.conference_talks | where: "year", 2025  | where: "format", "poster" | sort: "title" %}
  {% for talk in  current_talks  %} 
@@ -40,3 +45,4 @@ permalink           : "/grading-conference/abstracts/"
 
  </div>
  {% endfor %}
+ </div>
