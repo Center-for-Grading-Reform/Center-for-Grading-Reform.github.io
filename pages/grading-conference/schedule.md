@@ -51,7 +51,7 @@ permalink           : "/grading-conference/schedule/"
     {% endfor %}
   {% else %}
   <td colspan="4" style="text-align: center; font-size:1.1em" >
-    <b>{{slot.title}}</b>
+    {{"**" | append: slot.title | append: "**" | markdownify}}
     {% if slot.keynote-title %}
       {% assign ref = "keynote" | append: slot.day %}
       {% assign href = "#" | append: ref %}
