@@ -29,6 +29,10 @@ permalink           : "/grading-conference/"
 <td>Slideshow & Poster Submission Deadline</td>
 </tr>
 <tr>
+<td>6/8/25</td>
+<td>Registration Deadline</td>
+</tr>
+<tr>
 <td>6/11/25</td>
 <td>Conference Begins!</td>
 </tr>
@@ -85,6 +89,10 @@ research related to grading in higher education.
 <tr>
 <td>6/6/25</td>
 <td>Slideshow & Poster Submission Deadline</td>
+</tr>
+<tr>
+<td>6/8/25</td>
+<td>Registration Deadline</td>
 </tr>
 <tr>
 <td>6/11/25</td>
