@@ -39,7 +39,7 @@ permalink           : "/grading-conference/abstracts/"
 {% assign current_talks = site.data.twentytwentyfive.conference_talks | where: "year", 2025  | where: "format", "poster" | sort: "title" %}
  {% for talk in  current_talks  %} 
  <div id={{talk.abstract_id}}>
-   <h4>{{ talk.title }}</h4>
+   <h4>{{ talk.title }} (#{{talk.abstract_id}})</h4>
    <p><em>{{talk.authors | join: ", "}}</em></p>
    <p>{{talk.abstract | newline_to_br}} </p>
 
