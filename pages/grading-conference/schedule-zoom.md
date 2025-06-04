@@ -32,7 +32,7 @@ permalink           : "/grading-conference/schedule-zoom/"
   {%if slot.parallel %}
     {%for track in slot.parallel %}
      <td style="font-size: 1.05em">
-        <b>{{track.title}}</b> (<a href="{{track.zoom}}">Zoom Link</a>)
+        <b>{{track.title}}</b> {% if track.zoom %}(<a href="{{track.zoom}}">Zoom Link</a>){% endif %}
         <ul class="accordion" data-accordion style="margin-left: 0px">
         {% for id in track.talks %}
         {% assign talk = site.data.twentytwentyfive.conference_talks | where: "year", 2025 | find: "abstract_id", id %} 
