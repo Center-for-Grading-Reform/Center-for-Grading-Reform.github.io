@@ -58,7 +58,7 @@ permalink           : "/grading-conference/schedule-zoom/"
     {% endif %}
 
     {% if slot.break %}
-      Join us in the <a href="">Watercooler Zoom Room</a> to hang out and chat with fellow attendees.
+      Join us in the <a href="https://calstatela.zoom.us/j/88153850073">Watercooler Zoom Room</a> to hang out and chat with fellow attendees.
     {% endif %}
 
     {% if slot.keynote-title %}
