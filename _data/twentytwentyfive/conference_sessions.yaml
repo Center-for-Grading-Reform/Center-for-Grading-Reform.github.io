@@ -26,16 +26,12 @@
   time: "2:00 --- 3:00 PM EDT"
   parallel:
     - trackA:
-      title: "Classroom Case Studies: Labor-based and Contract Grading"
+      title: "Case Study & Research: Contract and Cooperative Grading"
       zoom: "https://us06web.zoom.us/j/88967826951?pwd=xgxlxLKAouoRoifkAx7oBbIlN49bnd.1"
       talks:
-      - 69
       - 92
-    - trackB:
-      title: "Research: Student Engagement and Career Readiness"
-      zoom: "https://us06web.zoom.us/j/88051544341?pwd=brPKWyQZ2gH9uZyYp3NaTLhgVS41Kf.1"
-      talks:
       - 24
+
     - trackC: 
       title: "Special Topics: Neurodiversity"
       zoom: "https://us06web.zoom.us/j/81340644289?pwd=ntg1dJTP6gEGLUnNtUkJ3kkoHIRSro.1"
