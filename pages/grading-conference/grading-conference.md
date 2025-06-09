@@ -6,37 +6,8 @@ teaser              : ""
 permalink           : "/grading-conference/"
 ---
 
-<table align="center">
-<caption>Important Dates</caption>
-<tr>
-<td>1/13/25</td>
-<td>Abstract Submissions Open</td>
-</tr>
-<tr>
-<td>2/1/25</td>
-<td>Conference Registration Opens</td>
-</tr>
-<tr>
-<td>2/28/25</td>
-<td>Abstract Submission Deadline</td>
-</tr>
-<tr>
-<td>4/18/25</td>
-<td>Abstract Acceptance Notifications</td>
-</tr>
-<tr>
-<td>6/6/25</td>
-<td>Slideshow & Poster Submission Deadline</td>
-</tr>
-<tr>
-<td>6/8/25</td>
-<td>Registration Deadline</td>
-</tr>
-<tr>
-<td>6/11/25</td>
-<td>Conference Begins!</td>
-</tr>
-</table>
+
+{% include alert warning="Need help?  Email us at [info@thegradingconference.com](mailto:info@thegradingconference.com), message the #HelpDesk channel in the [Alternative Grading Slack](https://join.slack.com/t/alternativegrading/shared_invite/zt-21m6h9wc0-Y2xrS92vJWZIa~PUf1Jdcg), or join the [Watercooler Zoom Room](https://calstatela.zoom.us/j/88153850073) during the conference." %}
 
 
 The mission of the Grading Conference is to provide an annual meeting place to promote the use of grading practices that are focused on equity and authentic learning. We strive to: 
