@@ -32,6 +32,11 @@ Please review our <a href="/grading-conference/accessibility-guide/">accessibili
 A website containing all the zoom links will be emailed out two days before the conference. If you don’t receive it (and have double checked your spam folder), contact us at <a href="mailto:info@thegradingconference.com">info@thegradingconference.com</a>.
 </dd>
 
+<dt>What is the Watercooler Zoom Room?</dt>
+<dd>
+A place to hang out and chat with fellow conference attendees during breaks. The room will also be staffed by a volunteer to answer any questions you have about the conference.
+</dd>
+
 <dt>What is the Social Hour?</dt>
 <dd>
 Anyone and everyone is welcome to attend social hour. There is no agenda - just good fellowship! In addition to the general social hour, several volunteers are hosting social affinity groups for thematic discussions.
