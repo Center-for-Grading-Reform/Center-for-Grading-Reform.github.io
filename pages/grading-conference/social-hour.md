@@ -15,9 +15,6 @@ Dan Guberman, Purdue University
 Kimberly Hall, University of Gloucestershire
 : Artists with alternative grading practices, how drawing/image making can be used as an educational tool
 
-David L. Largent, Ball State University
-: Computer science & alternative grading
-
 Katie Mattaini, Tufts University
 : Alternative grading in biology
 
@@ -31,3 +28,5 @@ Chris Creighton, University of Colorado Colorado Springs
 Shannon Hautman, University of Cincinnati
 : Alternative grading systems & writing, including writing-heavy courses across disciplines
 
+David L. Largent, Ball State University
+: Computer science & alternative grading
