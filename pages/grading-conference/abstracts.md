@@ -36,6 +36,7 @@ permalink           : "/grading-conference/abstracts/"
  
  <div id="poster-abstracts">
  <h2>Poster Abstracts</h2>
+ <h4><a href="https://docs.google.com/presentation/d/e/2PACX-1vQNCbi9F59lSUhiMOG6ceBwacdk6CKrngLaWyMuQNIHJan8w2N-mHw5LAshsjnD4reG9Nub_l1gG85l/pub">View Poster Gallery</a></h4>
 {% assign current_talks = site.data.twentytwentyfive.conference_talks | where: "year", 2025  | where: "format", "poster" | sort: "title" %}
  {% for talk in  current_talks  %} 
  <div id={{talk.abstract_id}}>

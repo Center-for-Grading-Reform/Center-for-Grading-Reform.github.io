@@ -61,6 +61,10 @@ permalink           : "/grading-conference/schedule-zoom/"
       <p>Join us in the <a href="https://calstatela.zoom.us/j/88153850073">Watercooler Zoom Room</a> to hang out and chat with fellow attendees.</p>
     {% endif %}
 
+    {% if slot.poster-gallery %}
+      <p>View the posters in the <a href="{{slot.poster-gallery}}">poster gallery</a> anytime, and then join the <a href="{{slot.zoom}}">Zoom room</a> at this time to chat with poster presenters.</p>
+    {% endif %}
+
     {% if slot.keynote-title %}
       {% assign ref = "keynote" | append: slot.day %}
       {% assign href = "#" | append: ref %}
