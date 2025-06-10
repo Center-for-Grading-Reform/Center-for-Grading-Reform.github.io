@@ -32,7 +32,8 @@ permalink           : "/grading-conference/schedule-zoom/"
   {%if slot.parallel %}
     {%for track in slot.parallel %}
      <td style="font-size: 1.05em">
-        <b>{{track.title}}</b> {% if track.zoom %}(<a href="{{track.zoom}}">Zoom Link</a>){% endif %}
+        <b>{{track.title}}</b> {% if track.zoom %}(<a href="{{track.zoom}}">Zoom Link</a>)
+        {% endif %}{% if track.slides-static %} (<a href="{{track.slides-static}}">Slides</a>){% endif %}
         <ul class="accordion" data-accordion style="margin-left: 0px">
         {% for id in track.talks %}
         {% assign talk = site.data.twentytwentyfive.conference_talks | where: "year", 2025 | find: "abstract_id", id %} 
@@ -51,11 +52,14 @@ permalink           : "/grading-conference/schedule-zoom/"
     {% endfor %}
   {% else %}
   <td colspan="4" style="text-align: center; font-size:1.1em" >
+    {% assign title = slot.title %}
     {% if slot.zoom %}
-      {{"**" | append: slot.title | append: " ([Zoom Link](" | append: slot.zoom | append: "))**" | markdownify}} 
-    {% else %}
-      {{"**" | append: slot.title | append: "**" | markdownify}} 
+      {% assign title = title | append: " ([Zoom Link](" | append: slot.zoom | append: "))" %}
     {% endif %}
+    {% if slot.slides-static %}
+      {% assign title = title | append: " ([Slides](" | append: slot.slides | append: "))" %}
+    {% endif %}
+    {{ "**" | append: title | append: "**" | markdownify}}
 
     {% if slot.break %}
       <p>Join us in the <a href="https://calstatela.zoom.us/j/88153850073">Watercooler Zoom Room</a> to hang out and chat with fellow attendees.</p>
