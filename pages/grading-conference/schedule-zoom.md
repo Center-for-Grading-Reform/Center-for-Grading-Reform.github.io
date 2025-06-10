@@ -57,7 +57,7 @@ permalink           : "/grading-conference/schedule-zoom/"
       {% assign title = title | append: " ([Zoom Link](" | append: slot.zoom | append: "))" %}
     {% endif %}
     {% if slot.slides-static %}
-      {% assign title = title | append: " ([Slides](" | append: slot.slides | append: "))" %}
+      {% assign title = title | append: " ([Slides](" | append: slot.slides-static | append: "))" %}
     {% endif %}
     {{ "**" | append: title | append: "**" | markdownify}}
 
