@@ -62,7 +62,7 @@ permalink           : "/grading-conference/schedule-zoom/"
     <b>{{title}}</b>
 
     {% if slot.break %}
-      <p>Join us in the <a href="https://calstatela.zoom.us/j/88153850073" target="_blank">Watercooler Zoom Room</a> to hang out and chat with fellow attendees.</p>
+      <p>Join us in the <a href="https://calstatela.zoom.us/j/88153850073" target="_blank">Watercooler Zoom Room</a> to hang out and chat with fellow attendees, or engage asynchronously on the <a href="https://padlet.com/emilydonahoe/what-questions-do-you-have-about-alternative-grading-1jcrryuzzus1ga9r" target="_blank">Padlet</a>.</p>
     {% endif %}
 
     {% if slot.poster-gallery %}
