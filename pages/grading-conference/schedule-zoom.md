@@ -32,8 +32,8 @@ permalink           : "/grading-conference/schedule-zoom/"
   {%if slot.parallel %}
     {%for track in slot.parallel %}
      <td style="font-size: 1.05em">
-        <b>{{track.title}}</b> {% if track.zoom %}(<a href="{{track.zoom}}">Zoom Link</a>)
-        {% endif %}{% if track.slides-static %} (<a href="{{track.slides-static}}">Slides</a>){% endif %}
+        <b>{{track.title}}</b> {% if track.zoom %}(<a href="{{track.zoom}}" target="_blank">Zoom Link</a>)
+        {% endif %}{% if track.slides-static %} (<a href="{{track.slides-static}}" target="_blank">Slides</a>){% endif %}
         <ul class="accordion" data-accordion style="margin-left: 0px">
         {% for id in track.talks %}
         {% assign talk = site.data.twentytwentyfive.conference_talks | where: "year", 2025 | find: "abstract_id", id %} 
@@ -54,19 +54,19 @@ permalink           : "/grading-conference/schedule-zoom/"
   <td colspan="4" style="text-align: center; font-size:1.1em" >
     {% assign title = slot.title %}
     {% if slot.zoom %}
-      {% assign title = title | append: " ([Zoom Link](" | append: slot.zoom | append: "))" %}
+      {% assign title = title | append: ' (<a href="' | append: slot.zoom | append: '" target="_blank">Zoom Link</a>)' %}
     {% endif %}
     {% if slot.slides-static %}
-      {% assign title = title | append: " ([Slides](" | append: slot.slides-static | append: "))" %}
+      {% assign title = title | append: " (<a href='" | append: slot.slides-static | append: "' target='_blank'>Slides</a>)" %}
     {% endif %}
-    {{ "**" | append: title | append: "**" | markdownify}}
+    <b>{{title}}</b>
 
     {% if slot.break %}
-      <p>Join us in the <a href="https://calstatela.zoom.us/j/88153850073">Watercooler Zoom Room</a> to hang out and chat with fellow attendees.</p>
+      <p>Join us in the <a href="https://calstatela.zoom.us/j/88153850073" target="_blank">Watercooler Zoom Room</a> to hang out and chat with fellow attendees.</p>
     {% endif %}
 
     {% if slot.poster-gallery %}
-      <p>View the posters in the <a href="{{slot.poster-gallery}}">poster gallery</a> anytime, and then join the <a href="{{slot.zoom}}">Zoom room</a> at this time to chat with poster presenters.</p>
+      <p>View the posters in the <a href="{{slot.poster-gallery}}" target="_blank">poster gallery</a> anytime, and then join the <a href="{{slot.zoom}}" target="_blank">Zoom room</a> at this time to chat with poster presenters.</p>
     {% endif %}
 
     {% if slot.keynote-title %}

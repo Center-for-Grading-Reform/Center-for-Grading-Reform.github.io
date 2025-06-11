@@ -142,7 +142,7 @@
 - slot: 1.55
   day: 1
   time: "6:00 --- 7:00 PM EDT"
-  title: "[Social Hour](/grading-conference/social-hour/)"
+  title: "<a href='/grading-conference/social-hour/' target='_blank'>Social Hour</a>"
   zoom: "https://us06web.zoom.us/j/87543797648?pwd=vX9wLyTFp9qNavahPwfXl1TK5aQDUk.1"
 
 
@@ -268,14 +268,14 @@
 - slot: 2.5
   day: 2
   time: "5:00 --- 6:00 PM EDT"
-  title: "[Poster Session](https://www.centerforgradingreform.org/grading-conference/abstracts/#poster-abstracts)"
+  title: "<a href='/grading-conference/abstracts/#poster-abstracts' target='_blank'>Poster Session</a>"
   zoom: "https://us06web.zoom.us/j/88620744761?pwd=Kp5csnlvcA0aBwR6ZvtwcTBWgJef94.1"
   poster-gallery: "https://docs.google.com/presentation/d/e/2PACX-1vQNCbi9F59lSUhiMOG6ceBwacdk6CKrngLaWyMuQNIHJan8w2N-mHw5LAshsjnD4reG9Nub_l1gG85l/pub"
 
 - slot: 2.6
   day: 2
   time: "6:00 --- 7:00 PM EDT"
-  title: "[Social Hour](/grading-conference/social-hour/)"
+  title: "<a href='/grading-conference/social-hour/' target='_blank'>Social Hour</a>"
   zoom: "https://us06web.zoom.us/j/87543797648?pwd=vX9wLyTFp9qNavahPwfXl1TK5aQDUk.1"
 
 - slot: 3.1
