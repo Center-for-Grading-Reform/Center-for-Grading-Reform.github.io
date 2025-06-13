@@ -6,6 +6,7 @@ teaser              : ""
 permalink           : "/grading-conference/registration/"
 ---
 
+{% include alert warning="Registration for the 2025 Grading Conference is now closed.  See you in 2026!" %}
 
 <table align="center">
 <caption>Registration Fees</caption>
@@ -33,10 +34,3 @@ circulate among your institution, and invoice a single (discounted) fee based on
 participants.  To set this up or for more information, contact us at info@thegradingconference.com.
 
 
-### Registration Form
-<iframe src="https://forms.gle/bNkZYt64okwGJZpz8" width="100%" height="2500" onload="document.getElementById('registration-form').scrollIntoView()">
-</iframe>
-
-<script>
-  window.setTimeout(function(){window.scroll(-10,0)},1000)
-</script>
