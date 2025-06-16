@@ -58,6 +58,7 @@ jobs:
             sudo npx pagecrypt "_site/$file" "_site/$file" "$password"
             echo "Encrypted $file"
           done
+          echo "Done with encryption"
       # End encryption code.
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
