@@ -53,8 +53,6 @@ jobs:
       - name: Encrypt pages with PageCrypt
         run: |
           npm i -D pagecrypt
-          pwd
-          ls
           cat _protected_pages.txt | while read file password;
           do
             sudo npx pagecrypt "_site/$file" "_site/$file" "$password"
