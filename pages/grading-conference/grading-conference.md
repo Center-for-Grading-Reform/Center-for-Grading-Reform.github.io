@@ -7,9 +7,6 @@ permalink           : "/grading-conference/"
 ---
 
 
-{% include alert warning="Need help?  Email us at [info@thegradingconference.com](mailto:info@thegradingconference.com), message the #HelpDesk channel in the [Alternative Grading Slack](https://join.slack.com/t/alternativegrading/shared_invite/zt-21m6h9wc0-Y2xrS92vJWZIa~PUf1Jdcg), or join the [Watercooler Zoom Room](https://calstatela.zoom.us/j/88153850073) during the conference." %}
-
-
 The mission of the Grading Conference is to provide an annual meeting place to promote the use of grading practices that are focused on equity and authentic learning. We strive to: 
 - Grow and support a thriving community of practitioners, 
 - Provide professional development related to grading practices that meets the many needs of our diverse community of practitioners,
@@ -17,7 +14,7 @@ The mission of the Grading Conference is to provide an annual meeting place to p
 - Facilitate systemic change in grading practices.
 
 
-{% include alert warning="The 2025 Grading Conference will be held June 11--13, 2025. [Preview the conference schedule here!](/grading-conference/schedule/)" %}
+{% include alert warning="The 2025 Grading Conference was held June 11--13, 2025. " %}
 
 The Grading Conference is the flagship event of the Center for Grading Reform.
 Hosted virtually each June, we bring together hundreds of postsecondary educators to share innovations and

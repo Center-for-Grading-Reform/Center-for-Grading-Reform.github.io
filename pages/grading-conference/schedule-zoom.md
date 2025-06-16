@@ -52,9 +52,6 @@ permalink           : "/grading-conference/schedule-zoom/"
   {% else %}
   <td colspan="4" style="text-align: center; font-size:1.1em" >
     {% assign title = slot.title %}
-    {% if slot.zoom %}
-      {% assign title = title | append: ' (<a href="' | append: slot.zoom | append: '" target="_blank">Zoom Link</a>)' %}
-    {% endif %}
     {% if slot.slides-static %}
       {% assign title = title | append: " (<a href='" | append: slot.slides-static | append: "' target='_blank'>Slides</a>)" %}
     {% endif %}
@@ -63,12 +60,10 @@ permalink           : "/grading-conference/schedule-zoom/"
     {% endif %}
     <b>{{title}}</b>
 
-    {% if slot.break %}
-      <p>Join us in the <a href="https://calstatela.zoom.us/j/88153850073" target="_blank">Watercooler Zoom Room</a> to hang out and chat with fellow attendees, or engage asynchronously on the <a href="https://padlet.com/emilydonahoe/what-questions-do-you-have-about-alternative-grading-1jcrryuzzus1ga9r" target="_blank">Padlet</a>.</p>
-    {% endif %}
+
 
     {% if slot.poster-gallery %}
-      <p>View the posters in the <a href="{{slot.poster-gallery}}" target="_blank">poster gallery</a> anytime, and then join the <a href="{{slot.zoom}}" target="_blank">Zoom room</a> at this time to chat with poster presenters.</p>
+      <p>View the posters in the <a href="{{slot.poster-gallery}}" target="_blank">poster gallery</a> anytime.</p>
     {% endif %}
 
     {% if slot.keynote-title %}
