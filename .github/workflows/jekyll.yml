@@ -56,6 +56,7 @@ jobs:
           cat _protected_pages.txt | while read file password;
           do
             sudo npx pagecrypt "_site/$file" "_site/$file" "$password"
+            echo "Encrypted $file"
           done
       # End encryption code.
       - name: Upload artifact
