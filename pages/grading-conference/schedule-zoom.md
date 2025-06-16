@@ -59,6 +59,9 @@ permalink           : "/grading-conference/schedule-zoom/"
     {% if slot.slides-static %}
       {% assign title = title | append: " (<a href='" | append: slot.slides-static | append: "' target='_blank'>Slides</a>)" %}
     {% endif %}
+    {% if slot.keynote-title %}
+      {% assign title = title | append: " (<a href='/grading-conference/2025-keynote-resources/'>Resources</a>)" %}
+    {% endif %}
     <b>{{title}}</b>
 
     {% if slot.break %}
