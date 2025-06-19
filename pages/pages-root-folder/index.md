@@ -51,9 +51,7 @@ homepage: true
 
 The Center for Grading Reform seeks to advance education in the United States by supporting effective grading reform at all levels through conferences, educational workshops, professional development, research and scholarship, influencing public policy, and community building.
 
-<div class="button-group align-spaced text-center" >
-<a class="button radius r15" href="/grading-conference/">The 2025 Grading Conference is June 11---13!</a>
-</div>
+
 
 <!--more-->
 
