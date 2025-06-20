@@ -52,11 +52,9 @@ jobs:
       # Note: this only encrypts .html pages and not any of the corresponding assets.
       - name: Encrypt pages with PageCrypt
         run: |
-          #npm i -D pagecrypt
           pip3 install pycryptodome
           cat _private/protected_pages.txt | while read file password;
           do
-            #sudo npx pagecrypt "_site/$file" "_site/$file" "$password"
             python3 scripts/encrypt.py "_site/$file" "$password"
             echo "Encrypted $file"
           done
