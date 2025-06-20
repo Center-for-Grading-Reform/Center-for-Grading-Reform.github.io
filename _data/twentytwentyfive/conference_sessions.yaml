@@ -5,12 +5,14 @@
   zoom: "https://us06web.zoom.us/j/89614834380?pwd=RKVKQ4jWTPJTbaHLZAi0cAwkhHA62Y.1"
   slides: "https://docs.google.com/presentation/d/1ielXcUI8ok3mItisu17A_G6GPRjn8q_tcKo1qq-A5iY/edit?usp=sharing"
   slides-static: "https://docs.google.com/presentation/d/e/2PACX-1vTfWM5odXw-VaCJ085BsFX8-IKFw2Q39oxssIoPT9cOvgo4w71Uk3VbjLOc68jtmNoxRwzjFQ800NvU/pub"
+  recording: "https://youtu.be/6FiNfhW6M1E?feature=shared&t=882"
 
 - slot: 1.2
   day: 1
   time: "12:00 --- 1:00 PM EDT"
   title: "Keynote: Asao Inoue"
   zoom: "https://us06web.zoom.us/j/89614834380?pwd=RKVKQ4jWTPJTbaHLZAi0cAwkhHA62Y.1"
+  recording: "https://youtu.be/6FiNfhW6M1E?t=4181"
   keynote-title: "On Liking and Labor in Writing Assessment: A Journey Toward Labor-Based Grading"
   keynote-abstract: |
     In this keynote, Dr. Asao B. Inoue shares a personal and reflective journey toward labor-based grading in college writing classrooms, offering stories and insights that invite educators to rethink how assessment works and for whom. Rather than prescribing a method, he traces key moments from his teaching and mentoring life that reveal the deep connections between grading, languaging, and justice. Through classroom experiences, student conferences, and transformative mentorship from scholars like Peter Elbow, he explores how traditional grading often undermines the very relationships and learning conditions that help students grow.
@@ -30,6 +32,7 @@
     - trackA:
       title: "Case Study & Research: Contract and Cooperative Grading"
       zoom: "https://us06web.zoom.us/j/88967826951?pwd=xgxlxLKAouoRoifkAx7oBbIlN49bnd.1"
+      recording: "https://youtu.be/1CBn5oyx0_w?feature=shared&t=145"
       slides: "https://docs.google.com/presentation/d/17ozeFJRFbvbGE2-Rhg2aJJZVhfpgtX_HwzPpD9WHGZ0/edit?usp=sharing"
       slides-static: "https://docs.google.com/presentation/d/e/2PACX-1vS198oXc7MNGq8tveRnMPp_jtLvzSaN0b8V_HM5ji5dof7Ja0nOR_2Zc9Gxa_QN89GXqu3g2ldGcopz/pub"
       talks:
@@ -39,6 +42,7 @@
     - trackC: 
       title: "Special Topics: Neurodiversity"
       zoom: "https://us06web.zoom.us/j/81340644289?pwd=ntg1dJTP6gEGLUnNtUkJ3kkoHIRSro.1"
+      recording: "https://youtu.be/JhFB1wJytvI?feature=shared&t=121"
       slides: "https://docs.google.com/presentation/d/1ecEu4_qMDRPvzriybvbJoi3zJoHIVUkDdR9fUsOzxRg/edit?usp=sharing"
       slides-static: "https://docs.google.com/presentation/d/e/2PACX-1vTcnzKqG9vyOQn2CXllr1F637WXd0KGNoqnq8udzFkw1qOy5ysJwm8sYr1uEE-5EVME6yTWDscXAbp2/pub"
       talks: 
@@ -47,6 +51,7 @@
     - trackD:
       title: "Panel"
       zoom: "https://us06web.zoom.us/j/84085445488?pwd=U20pIMaQYat5oz6IicyDVq0SUj8rmi.1"
+      recording: "https://youtu.be/6vz6RZfSRBQ?feature=shared&t=60"
       slides: "https://docs.google.com/presentation/d/1wLrMDjfNIB9ymZsHogkqgpGmcVeR3Ys7Y48BCE5elqo/edit?usp=sharing"
       slides-static: "https://docs.google.com/presentation/d/e/2PACX-1vQ3Gt-Mf2H-bZWtdSPkVwPG93WHQP2OlIr9Wpzp1h9CetvQA_ByWNpWB1UElHIzxe3qCdax1euhjx-d/pub"
       talks:
@@ -66,6 +71,7 @@
   - trackA:
     title: "Classroom Case Studies: Standards-Based Grading 1"
     zoom: "https://us06web.zoom.us/j/83936082543?pwd=PCVfnKbAH2T3FbS2sUBKwaE61IzvFL.1"
+    recording: "https://youtu.be/Km0p9VJzySg?feature=shared&t=109"
     slides: "https://docs.google.com/presentation/d/14gP8GVJ2CTdH_nKpEsffMnb5ucW0LkohAtbSkC_dshE/edit?usp=sharing"
     slides-static: "https://docs.google.com/presentation/d/e/2PACX-1vTdlKKG7fe4h7Oh-p-tBBdQVfTQv7Kv1c2O79BGqwhE-Sd7dbRGljSgr7jegXGsUcroSYYLXTyE-Mb6/pub"
     talks:
@@ -75,6 +81,7 @@
   - trackB: 
     title: "Research: Student Perceptions"
     zoom: "https://us06web.zoom.us/j/89442446784?pwd=scsbUwYHrZWmOXxNNbqpLFJmTIFaih.1"
+    recording: "https://youtu.be/PHiDptkO8EI?feature=shared&t=110"
     slides: "https://docs.google.com/presentation/d/12CE2dTDfvU8CGU3KEkaKSkNCA2EMi7LOs92_oi480Ns/edit?usp=sharing"
     slides-static: "https://docs.google.com/presentation/d/e/2PACX-1vQlwmGZAtGkNxbXbSAQhUzh18ndK8eC-Zydt9hLeabr1p0k-I-55dwDLR-fcU7arppgnVJGhpjYIR4W/pub"
     talks:
@@ -84,6 +91,7 @@
   - trackC:
     title: "Special Topics: Writing Assessment"
     zoom: "https://us06web.zoom.us/j/88549481893?pwd=Nxtjm8zGiSyfztxIaBcyUGoj38k9sm.1"
+    recording: "https://youtu.be/Z4BkclOPxdQ?feature=shared&t=57"
     slides: "https://docs.google.com/presentation/d/13sezYMMnir9_MWqINVOVsjpko6cM-Jx4jK2Imp7HPpU/edit?usp=sharing"
     slides-static: "https://docs.google.com/presentation/d/e/2PACX-1vSJYkMV-4FTNMQ3caIVZX1v6fCZIFfSesriIb0Nv59m5YBH6ZePvftlzNBcP5lVVq6mIiCknqQEt0-t/pub"
     talks:
@@ -91,6 +99,7 @@
   - trackD:
     title: "Panel"
     zoom: "https://us06web.zoom.us/j/86849439661?pwd=LKftO9mQVKNd8vwku9j0XWdF7bs5kL.1"
+    recording: "https://youtu.be/M38cbrKRlG0?feature=shared&t=249"
     slides: "https://docs.google.com/presentation/d/1PNc2IhtYuwlO0KVXODv1BT27eEprzAW36akabkgv7hg/edit?usp=sharing"
     slides-static: "https://docs.google.com/presentation/d/e/2PACX-1vSmejiI5OrImvJyYavq-xltRWV-gaVC91Tk3kIV-TSVaos5331pmCpT7O5lGcfPhR-tuvWex9cFiQ9_/pub"
     talks:
@@ -109,6 +118,7 @@
   - trackA:
     title: "Classroom Case Studies: Specifications Grading in Math"
     zoom: "https://us06web.zoom.us/j/88298784562?pwd=MPDXq8PjqZyD2doeFEsHN6rH0jpHdj.1"
+    recording: "https://youtu.be/9sGSY77TeJA?feature=shared&t=234"
     slides: "https://docs.google.com/presentation/d/1VDKMHJTM8wojabGS-JofniT9neBsiPQmYcOewgNC7HI/edit?usp=sharing"
     slides-static: "https://docs.google.com/presentation/d/e/2PACX-1vRSatVJz6CF_Y92X-k1imvFV4jzwD2PbnfQbNhiWSebR4lWkSGsEG-rYmNxQOqJHAJJdZrl9JB0AH5P/pub"
     talks:
@@ -117,6 +127,7 @@
   - trackB:
     title: "Research: Qualitative Work on Labor-Based Grading and Other Models"
     zoom: "https://us06web.zoom.us/j/85881654464?pwd=3mqGJ6gxeSds3KbEAlwTJU16voIpm4.1"
+    recording: "https://youtu.be/7hk80RATIvw?feature=shared&t=138"
     slides: "https://docs.google.com/presentation/d/1dxrHwd6b9ogcjdidwOvGUR8hiJvmqrqSaToRG2oe7pY/edit?usp=sharing"
     slides-static: "https://docs.google.com/presentation/d/e/2PACX-1vTMnRRisw4gvmp_qxIOHWTSHiKXFpApj0v3_zsl5_FEICzUcIMv6MvFfjtP5IOxx3uZSeOiqosYwHgC/pub"
     talks:
@@ -126,6 +137,7 @@
   - trackC: 
     title: "Special Topics: Equity"
     zoom: "https://us06web.zoom.us/j/82619011315?pwd=nNiYlkSS5TpYy93SilmladubEq5N7Q.1"
+    recording: "https://youtu.be/Y7VafoEDVm8?feature=shared&t=67"
     slides: "https://docs.google.com/presentation/d/1NHeITHDFqXmkmbCwbeTm9trHYfoN-L5CwKKxBy5lPQc/edit?usp=sharing"
     slides-static: "https://docs.google.com/presentation/d/e/2PACX-1vRelRhfiAvfujF7NeEdV-y8ohP2vNrukqXhiuD1WO-WTwgE21wd-ygywuuHoccRH_Lup4MgnG6KTNbH/pub"
     talks:
@@ -134,6 +146,7 @@
   - trackD:
     title: "Panel"
     zoom: "https://us06web.zoom.us/j/82484436227?pwd=9BSzgedIswfYNj2wjw1pE02np5I61D.1"
+    recording: "https://youtu.be/Vbwf0DqNBKU?feature=shared&t=249"
     slides: "https://docs.google.com/presentation/d/1aMCV7rXKQ2gTrH-SD04zyd1VtKbbcizQJkCy8x6QDCw/edit?usp=sharing"
     slides-static: "https://docs.google.com/presentation/d/e/2PACX-1vQ2atmDO9zaqxGglpyPmtdTkXRWZa75QIvhcdT8Jwbr-GpfFEgSZLkfC60cXoOC7ur46WwoIexv_3Tr/pub"
     talks:
@@ -151,6 +164,7 @@
   time: "11:00 AM --- 12:00 PM EDT"
   title: "Welcome Back & Keynote: Eden Tanner"
   zoom: "https://us06web.zoom.us/j/81438499345?pwd=QYIo7FmhgZnwGrxwQyOveSwzNxCa0p.1"
+  recording: "https://youtu.be/kBKR8Q7z5eA?feature=shared&t=546"
   slides: "https://docs.google.com/presentation/d/1EdUXaENuS0RIs5iyN2eqe_F1u51DGKoq5yEQoy4NA80/edit?usp=sharing"
   slides-static: "https://docs.google.com/presentation/d/e/2PACX-1vRaZN0GLJK_iXKeP4Qi_boWYD7keE4HMOznizfZzXfTwIKVaPJ0kwY-s_M3MisvAbg6I2FfolwSS4Ae/pub"
   keynote-title: "General Chemistry as a Gateway Course through Alternative Grading"
@@ -170,6 +184,7 @@
   - trackA: 
     title: "Classroom Case Studies: Alternative Grading in STEM "
     zoom: "https://us06web.zoom.us/j/83549039837?pwd=yNI7jHb5CpvIBu6wWE4PAyhr4VF2s3.1"
+    recording: "https://youtu.be/OkjAbbxVO_M?feature=shared&t=114"
     slides: "https://docs.google.com/presentation/d/1_D7j_hq2fbJ850IOJm6P9TqqOOiyUK7KEpNZdEUOC8U/edit?usp=sharing"
     slides-static: "https://docs.google.com/presentation/d/e/2PACX-1vTCcbrSc5-cxkAeRbEjfm_jOXvALYGvrWobNfXEDGTWocgkLz-XVjyas58ntDY2AgflYx7Dtxvft3ut/pub"
     talks:
@@ -179,6 +194,7 @@
   - trackB:
     title: "Research and Special Topic: Student Perceptions and Pedagogical Dissonance"
     zoom: "https://us06web.zoom.us/j/83705035655?pwd=UmudS1UIcsLEsdRXfw2qwLE2cEyLC3.1"
+    recording: "https://youtu.be/DKJbkg_eYtI?feature=shared&t=92"
     slides: "https://docs.google.com/presentation/d/1RQG-fjW4ExS4qQb9gpHioyiUDwYo53pEy2IUBHJVm30/edit?usp=sharing"
     slides-static: "https://docs.google.com/presentation/d/e/2PACX-1vS3IwYlTyN-uRldj9TXkIcZz1NugxRhTuJkH5pj_uYOXL1cC2hUTtateR2pdAmZ_86PbH9nNVrSHYWX/pub"
     talks:
@@ -187,6 +203,7 @@
   - trackD:
     title: "Panel"
     zoom: "https://us06web.zoom.us/j/87878902390?pwd=XK3rdDPXonbS8fiwDXOQOsaha4BtWp.1"
+    recording: "https://youtu.be/Q_-tqoaj9Jo?feature=shared&t=13"
     slides: "https://docs.google.com/presentation/d/1zbS3eCjlPdqmJ1cEM-H00A47cIM4Mp28oC1olgeWFiw/edit?usp=sharing"
     slides-static: "https://docs.google.com/presentation/d/e/2PACX-1vTKQiGkY9eukGbgn16jSMTNkdeNnQMEWprit6m2hEhwzF7jhkPwqzGK1lxW2k_PWzR19AqIhxQJEYgT/pub"
     talks:
@@ -211,6 +228,7 @@
   - trackA:
     title: "Classroom Case Studies: Ungrading and Collaborative Grading"
     zoom: "https://us06web.zoom.us/j/82853269750?pwd=HPsH5qAMcv6CfHrGpowUvvCW9HiyWf.1"
+    recording: "https://youtu.be/fIPyCNZOuQI?feature=shared&t=66"
     slides: "https://docs.google.com/presentation/d/1Vs1BYoLs5st97rD2iNUkUgZCKSwKp0483WAXrd4UUXU/edit?usp=sharing"
     slides-static: "https://docs.google.com/presentation/d/e/2PACX-1vTwOKVSMCwyZMNOiDtkXuj4HcsQ3lbnvCyMcpVvbetn3w1ouGhcLXKDpxJONqOcpkss5NZgIXLQGB9n/pub"
     talks:
@@ -220,6 +238,7 @@
   - trackB:
     title: "Classroom Case Studies: Specifications Grading"
     zoom: "https://us06web.zoom.us/j/81644601030?pwd=LcI8CgzjlVVz5V6qrgnMPQYVqGlLOD.1"
+    recording: "https://youtu.be/hfq0t3nojdU?feature=shared&t=121"
     slides: "https://docs.google.com/presentation/d/1SsS3yO2g63z3RuOhT_Adzq7mRkd4L3h5x4j-g00VZIY/edit?usp=sharing"
     slides-static: "https://docs.google.com/presentation/d/e/2PACX-1vQEM2e9Vp_SRAqhWcB7pqTsQbqIcTOLcg1j6a-W82qKhw5z1adMRXsm6brmn2tDD5ZDW_Zfjh4zXXy4/pub"
     talks:
@@ -228,6 +247,7 @@
   - trackC:
     title: "Research: Alternative Grading in Chemistry"
     zoom: "https://us06web.zoom.us/j/85630787770?pwd=VUSFaLObkUyAL9jnCcpQXj8GanKlpp.1"
+    recording: "https://youtu.be/YPJ3dXhjML4?feature=shared&t=89"
     slides: "https://docs.google.com/presentation/d/1b8fxaHA39O8sL3Z3R8Ccgt_efNEXyYcdNGeg1_D1n6s/edit?usp=sharing"
     slides-static: "https://docs.google.com/presentation/d/e/2PACX-1vTypYnLG_nFe8lRBwIjkAkFIsnLTGuRfs40E0XhSmMa6HY-X5eLML3jnDAbeqbvDn8LPkzAAGmrutZv/pub"
     talks:
@@ -237,6 +257,7 @@
   - trackD:
     title: "Panel"
     zoom: "https://us06web.zoom.us/j/89320191296?pwd=bmMuH3bbagLwrL3WgU0b1F8TcmC38u.1"
+    recording: "https://youtu.be/Q_-tqoaj9Jo?feature=shared&t=13"
     slides: "https://docs.google.com/presentation/d/1mQ_jZqKnNScBuDqeiOaUVTjd1qEfg4cf6aSj-_l9zZ8/edit?usp=sharing"
     slides-static: "https://docs.google.com/presentation/d/e/2PACX-1vQvkoujPy_Nmo7VdWBf59qhMSPWIp4ISP7k4IwAdy1ktwgDt8cUy7zmwOTplYg5P4PrFxtGcT0mtDri/pub"
     talks:
@@ -249,6 +270,7 @@
   - trackA:
     title: "Workshop"
     zoom: "https://us06web.zoom.us/j/81552912366?pwd=4qcBqQx55ftpaDLXye8XA2FAudLEVk.1"
+    recording: "https://youtu.be/_QQ4JrF0CPw?feature=shared&t=10"
     slides: "https://docs.google.com/presentation/d/1j5IvY1NB2tpWFAM3lOvEKfforAAZg6DA9QHOFFwPtf4/edit?usp=sharing"
     slides-static: "https://docs.google.com/presentation/d/e/2PACX-1vSwIIW4rd5K06dSuTcyClx1CLYzjUi8A203eI3072Ujrm37EMoQ_r9v81jiMXyLGLv093SU8nPwrDgh/pub"
     talks:
@@ -256,6 +278,7 @@
   - trackB:
     title: "Workshop"
     zoom: "https://us06web.zoom.us/j/83441505009?pwd=8nbgriGgK4gzKsA8sVzN6EM6l7hnoX.1"
+    recording: "https://youtu.be/1sXcq5aXRf8?feature=shared&t=71"
     slides: "https://docs.google.com/presentation/d/1FVQdHgZzW7cV-sUKArf4gRIeFKikJsksaj0vTDF9M2g/edit?usp=sharing"
     slides-static: "https://docs.google.com/presentation/d/e/2PACX-1vRmUwxgPoe8GB6WSgv2E6by5Aeqoh69oXgZD60vcHoKzbgYMmVO8N_w9Ofk8A7BRZIOmfvcejoai-SE/pub"
     talks:
@@ -283,6 +306,7 @@
   time: "11:00 AM --- 12:00 PM EDT"
   title: "Welcome Back & Keynote: Jeff Anderson"
   zoom: "https://us06web.zoom.us/j/82072948359?pwd=sqcWQJk9Sd0JDj5CaCWedXJuaTX4YZ.1"
+  recording: "https://youtu.be/lzlToPYCnw8?feature=shared&t=409"
   slides: "https://docs.google.com/presentation/d/1cusfVfvKK2VALp2Arn-3zxuofy6vPHCrJk7WaJKzXr4/edit?usp=sharing"
   slides-static: "https://docs.google.com/presentation/d/e/2PACX-1vSZstufgcyu3ywvWELep10h_Fo-ZpzYm0pt1FYfi4H7WFnSYT5bXkLUTfbNRsssqI7EkvyQSR6kgFTN/pub"
   keynote-title: "Letter grades cause learning cancer… What might we do instead?"
@@ -306,6 +330,7 @@
   - trackA:
     title: "Classroom Case Studies: Standards-Based Grading 2"
     zoom: "https://us06web.zoom.us/j/88667958221?pwd=NAbA5EZNZbgbb4au8iLX1aOgDYabLK.1"
+    recording: "https://youtu.be/HkXOQKl1Ly8?feature=shared&t=218"
     slides: "https://docs.google.com/presentation/d/13Kwz6q1wqBuOoVsZ95T202OGTYKuRB6vojfHHHRkBE4/edit?usp=sharing"
     slides-static: "https://docs.google.com/presentation/d/e/2PACX-1vTvYhUWq_2wggehuXCwzZCX_s-csL2j6GZw6j8KJJOzBeK6r_HUYIAnSmYDClaF8rJ8D0g3QN87M_AT/pub"
     talks: 
@@ -314,6 +339,7 @@
   - trackB:
     title: "Special Topics: Artificial Intelligence and Grading"
     zoom: "https://us06web.zoom.us/j/84908926381?pwd=WUYgpKfOXVapJ5O6b1HAURXJw8pzbU.1"
+    recording: "https://youtu.be/GU58724XglY?feature=shared&t=43"
     slides: "https://docs.google.com/presentation/d/1dyzx4KnzRB5OMXCoj4ZQkLBib6r6WOqs_nQiZomYqV4/edit?usp=sharing"
     slides-static: "https://docs.google.com/presentation/d/e/2PACX-1vTt7cM-lFhV23MHvl8YCYKjbwUwcytqhTSULXqoLEBQJomZizmqIjpY3XI3FVIjBtvmcm7DQ2PTWGZR/pub"
     talks:
@@ -322,6 +348,7 @@
   - trackC:
     title: "Workshop"
     zoom: "https://us06web.zoom.us/j/83592128860?pwd=UZbayEv3uozb9JxrhWxakpcNwPSm4K.1"
+    recording: "https://youtu.be/OuQ69Eh5UXw?feature=shared&t=948"
     slides: "https://docs.google.com/presentation/d/13SGydz8f9Aag05-Dx-wvOX38Q_c_csMWbHlnMYpfNX0/edit?usp=sharing"
     slides-static: "https://docs.google.com/presentation/d/e/2PACX-1vRo0BzhnXoFkpz88ZhfcEPkiiAPxlngL0jUNUyR18t6VrWmI7DJgqPg8Nco4jatDlPf8MgCt0NCUlVQ/pub"
     talks:
@@ -329,6 +356,7 @@
   - trackD:
     title: "Panel"
     zoom: "https://us06web.zoom.us/j/82390664726?pwd=wEEe3EhAeEiDmRqPQl4nRJbtj09D0c.1"
+    recording: "https://youtu.be/nc2RJbN3htM?feature=shared&t=11"
     slides: "https://docs.google.com/presentation/d/1CYRRQplH9i1K6SYh-BPvoZyMlRbbhgSZGsTsHLOFqRk/edit?usp=sharing"
     slides-static: "https://docs.google.com/presentation/d/e/2PACX-1vTf-iHt534mTOx8XxIeg9SKbFvcZd4v4nzee6B4WG_bIz5TNBPcfJ8F334W2ZfHUAW6E-sl43GES7yI/pub"
     talks:
@@ -347,6 +375,7 @@
   - trackA:
     title: "Classroom Case Studies: Hybrid and Specialized Grading Models"
     zoom: "https://us06web.zoom.us/j/85911395778?pwd=h53x2Or6EqmpVuhiQitxRBHRvv4aao.1"
+    recording: "https://youtu.be/TRE7HqsGqx0?feature=shared&t=257"
     slides: "https://docs.google.com/presentation/d/1MwrDRTn0NSC2dISBLjUPjNp_UqZWdY8TvxtQqHnnsAU/edit?usp=sharing"
     slides-static: "https://docs.google.com/presentation/d/e/2PACX-1vRhKVYry0zHfEfqEg54zn78f6Ko-7-ewWyTZQf6P28xz8gbtO9PQKjMxbAOP7ZRtrWmTWyjTKZPiBwX/pub"
     talks:
@@ -355,6 +384,7 @@
   - trackB: 
     title: "Research: Standards-Based Grading (and other models) in Context"
     zoom: "https://us06web.zoom.us/j/82939211815?pwd=lMLIVszBLFGOwbjJ94Pghnpckbkvdc.1"
+    recording: "https://youtu.be/zAyjj2H8sLQ?feature=shared&t=18"
     slides: "https://docs.google.com/presentation/d/1yCGm7OcdR11xJJXL9uNcd5uBTLkLAMapjjOSwtPtWfc/edit?usp=sharing"
     slides-static: "https://docs.google.com/presentation/d/e/2PACX-1vTTmFhxx8JfWDhKELvlPk2lWRx1q0fgDvyk9nV0Ygk6E4QFMuCqwTE0Eq1lERa2jc954ZmPyWFeozaw/pub"
     talks:
@@ -364,6 +394,7 @@
   - trackC:
     title: "Panel"
     zoom: "https://us06web.zoom.us/j/83778500819?pwd=ofP3q20EyLYk5aBnARq6PsypeJYp1T.1"
+    recording: "https://youtu.be/vmaA_X7uVhk?feature=shared&t=271"
     slides: "https://docs.google.com/presentation/d/1yOrBei2xRqeGGq6Y61n_oQYUvAS-g95aEyUB0Kulj-s/edit?usp=sharing"
     slides-static: "https://docs.google.com/presentation/d/e/2PACX-1vRAje1ucLuPnuZLYOKOSB4B247lhdDiGbBRGM40In6wLJDPqxCIVov97Q1BVDqW5NnUCs2sY_utDmwM/pub"
     talks:
@@ -373,6 +404,7 @@
   day: 3
   title: "Closing Session"
   zoom: "https://us06web.zoom.us/j/89555563716?pwd=aiNDT9IHTNoOa1hbrSb3biAmuP1alh.1"
+  recording: "https://youtu.be/11tR7kfEAmU?feature=shared&t=18"
   slides: "https://docs.google.com/presentation/d/1nPZwl8UQPwuYWoziNMtewRnpghhP2wDi68w5mk15EPM/edit?usp=sharing"
   slides-static: "https://docs.google.com/presentation/d/e/2PACX-1vTAEUtk7vso1vSVw04WDCsYDVaymi5LpBwom1fNCKHwolYf2qCtLRvKNHQazSFijWNnvS8q2obaUYh0/pub"
   time: "3:30 --- 4:00 PM EDT"

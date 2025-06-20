@@ -32,7 +32,7 @@ permalink           : "/grading-conference/2025/schedule-recordings/"
   {%if slot.parallel %}
     {%for track in slot.parallel %}
      <td style="font-size: 1.05em">
-        <b>{{track.title}}</b> {% if track.slides-static %} (<a href="{{track.slides-static}}" target="_blank">Slides</a>){% endif %}
+        <b>{{track.title}}</b>  {%if track.recording %} (<a href="{{track.recording}}" target="_blank">Recording</a>){% endif %} {% if track.slides-static %} (<a href="{{track.slides-static}}" target="_blank">Slides</a>){% endif %}
         <ul class="accordion" data-accordion style="margin-left: 0px">
         {% for id in track.talks %}
         {% assign talk = site.data.twentytwentyfive.conference_talks | where: "year", 2025 | find: "abstract_id", id %} 
@@ -52,8 +52,8 @@ permalink           : "/grading-conference/2025/schedule-recordings/"
   {% else %}
   <td colspan="4" style="text-align: center; font-size:1.1em" >
     {% assign title = slot.title %}
-    {% if slot.zoom %}
-      {% assign title = title | append: ' (<a href="' | append: slot.zoom | append: '" target="_blank">Zoom Link</a>)' %}
+    {% if slot.recording %}
+      {% assign title = title | append: ' (<a href="' | append: slot.recording | append: '" target="_blank">Recording</a>)' %}
     {% endif %}
     {% if slot.slides-static %}
       {% assign title = title | append: " (<a href='" | append: slot.slides-static | append: "' target='_blank'>Slides</a>)" %}
@@ -64,11 +64,11 @@ permalink           : "/grading-conference/2025/schedule-recordings/"
     <b>{{title}}</b>
 
     {% if slot.break %}
-      <p>Join us in the <a href="https://calstatela.zoom.us/j/88153850073" target="_blank">Watercooler Zoom Room</a> to hang out and chat with fellow attendees, or engage asynchronously on the <a href="https://padlet.com/emilydonahoe/what-questions-do-you-have-about-alternative-grading-1jcrryuzzus1ga9r" target="_blank">Padlet</a>.</p>
+      <p>Join us in the Watercooler Zoom Room to hang out and chat with fellow attendees, or engage asynchronously on the <a href="https://padlet.com/emilydonahoe/what-questions-do-you-have-about-alternative-grading-1jcrryuzzus1ga9r" target="_blank">Padlet</a>.</p>
     {% endif %}
 
     {% if slot.poster-gallery %}
-      <p>View the posters in the <a href="{{slot.poster-gallery}}" target="_blank">poster gallery</a> anytime, and then join the <a href="{{slot.zoom}}" target="_blank">Zoom room</a> at this time to chat with poster presenters.</p>
+      <p>View the posters in the <a href="{{slot.poster-gallery}}" target="_blank">poster gallery</a> anytime, and then join the Zoom room at this time to chat with poster presenters.</p>
     {% endif %}
 
     {% if slot.keynote-title %}
