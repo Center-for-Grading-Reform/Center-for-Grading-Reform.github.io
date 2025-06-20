@@ -57,7 +57,7 @@ jobs:
           cat _private/protected_pages.txt | while read file password;
           do
             #sudo npx pagecrypt "_site/$file" "_site/$file" "$password"
-            sudo python3 scripts/encrypt.py "_site/$file" "$password"
+            python3 scripts/encrypt.py "_site/$file" "$password"
             echo "Encrypted $file"
           done
           echo "Done with encryption"
