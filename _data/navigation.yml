@@ -8,6 +8,8 @@
   dropdown:
   - title: "The Grading Conference"
     url: "/grading-conference/"
+  - title: "Past Events"
+    url: "/past-conferences/"
 
 - title: Professional Development
   url: "/professional-development/"
