@@ -1,8 +1,7 @@
 ---
 layout              : page
 show_meta           : false
-title               : "Spring 2025 Learning Community"
-#teaser              : "Spring 2025 Learning Community"
+title               : "Fall 2025 Learning Community"
 permalink           : "/learning-community/"
 ---
 
@@ -15,15 +14,14 @@ The Center for Grading Reform, in partnership with the [RIOS Institute](https://
 
 
 #### Meetings & Topics
-The Learning Community will meet on Wednesdays at 4 Eastern/1 Pacific
-- 3/5: Introduction, Course Learning Objectives
-- 3/12: Assessment-level Outcomes
-- 3/19: Enumerating Assessments & Marking Schemes
-- 3/26: Revisions and Reassessments
-- 4/2: Grade Tables
-- 4/9: Simplifying and Getting Feedback
+The Learning Community will meet on Wednesdays at 3 Eastern/12 Pacific
+- 10/15: Introduction, Course Learning Objectives
+- 10/22: Assessment-level Outcomes
+- 10/29: Enumerating Assessments & Marking Schemes
+- 11/5: Revisions and Reassessments
+- 11/12: Grade Tables
+- 11/19: Simplifying and Getting Feedback
 
 __Facilitators__: Drew Lewis (drew.lewis@centerforgradingreform.org) and Melanie Lenahan (melanie.lenahan@raritanval.edu)
 
-To sign up, please use [this form](https://forms.gle/dXqxkn2SuKNDzDKk8).  Participants should commit to attending each session, 
-with limited exceptions.
+For more details and to sign up, please visit the [Learning Community QUBES page](https://qubeshub.org/community/groups/rios_lc_altgrading2_s2025) 
