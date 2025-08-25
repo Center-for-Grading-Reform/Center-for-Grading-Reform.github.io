@@ -3,7 +3,7 @@ layout              : page-fullwidth
 show_meta           : false
 title               : "Alternative Grading Institute Application"
 teaser              : ""
-permalink           : "/alternative-grading-institute/application"
+permalink           : "/alternative-grading-institute/application/"
 ---
 
 {% include alert warning="Applications for the 2025 Alternative Grading Institute will open September 8, 2025" %}
