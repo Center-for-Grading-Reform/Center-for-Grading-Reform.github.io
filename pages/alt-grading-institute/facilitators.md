@@ -11,12 +11,12 @@ permalink           : "/alternative-grading-institute/facilitators/"
       University of Virginia</p>
     </div>
     <div class="columns large-4">
-      <img src="{{ site.urlimg }}people/donahoe.jpg" alt="" width="90%" class="center">
+      <img src="{{ site.urlimg }}people/donahoe-square.jpg" alt="" width="90%" class="center">
       <p align="center"><strong>Emily Pitts Donahoe</strong><br>
       University of Mississippi</p>
     </div>
     <div class="columns large-4">
-      <img src="{{ site.urlimg }}people/lewis.jpg" alt="" width="90%" class="center">
+      <img src="{{ site.urlimg }}people/lewis-square.jpg" alt="" width="90%" class="center">
       <p align="center"><strong>Drew Lewis</strong><br>
       Center for Grading Reform</p>
       </div>
