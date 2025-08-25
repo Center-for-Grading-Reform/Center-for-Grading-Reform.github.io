@@ -40,4 +40,10 @@ permalink           : "/alternative-grading-institute/facilitators/"
     </div>
 </div>
 
+- **Derek Bruff** is awesome! We will write a paragraph about him here.
+- **Emily Pitts Donahoe** is amazing! We will write a paragraph about her here.
+- **Drew Lewis** paragraph goes here.
+- **Lindsay Masland** is fabulous! We will write a paragraph about her here.
+- **Michael Palmer** is wonderful! We will write a paragraph about him here.
+- **Adriana Streifer** if superb! We will write a paragraph about her here.
 
