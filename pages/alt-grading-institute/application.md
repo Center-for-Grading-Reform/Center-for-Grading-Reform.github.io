@@ -22,6 +22,6 @@ The application will ask about your teaching context, goals, and which alternati
 You’ll select one scheme to focus on during Day 2, when you’ll design a course-ready grading plan with peer and facilitator feedback. Click on the links to learn more and guide your decision.
 
 Other details:
-- Selection emphasizes clear goals, readiness to implement, and diversity across disciplines and institutions.
+- Participants will be selected based on their articulation of clear goals, their readiness to implement an alternative grading scheme, and to provide diversity across disciplines and institutions.
 - Capacity is limited to support individualized feedback.
 - Application link will be available during the application window, beginning September 8, 2025.

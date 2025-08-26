@@ -9,7 +9,7 @@ permalink           : "/alternative-grading-institute/"
 {% include alert warning="The Alternative Grading Institute will be held online December 17--18, 2025." %}
 
 ## Overview
-The Alternative Grading Institute is an intensive, hands-on virtual experience where faculty learn core concepts of alternative grading and build a course-ready grading scheme.
+The Alternative Grading Institute is an intensive, hands-on, online experience where faculty learn core concepts of alternative grading and build a course-ready grading scheme.
 
 - **Day 1** focuses on aligning grading with your pedagogical values and context, and comparing standards-based, specifications, and collaborative grading.
 - **Day 2** is a guided design sprint in your chosen approach, with structured feedback from facilitators and peers.
@@ -27,9 +27,11 @@ Participants leave with a concrete grading plan, peer feedback, and resources fo
 The Institute is open to higher-education instructors from all institution types (2-year, 4-year, public/private, minority-serving, research-intensive, comprehensive, liberal arts).
 Participants are expected to…
 - Bring one specific course you plan to revise (syllabus or outline encouraged).
-- Have basic familiarity with learning-centered course design concepts (learning objectives, alignment, scaffolding) is expected.
+- Have basic familiarity with learning-centered course design concepts (learning objectives, alignment, scaffolding).
 - Commit to full participation across both days and light pre-work.
 
+## Cost
+The registration fee is $200. We are also pleased to offer a pay what you can option.
 
 ## Timeline
 <table align="center">
