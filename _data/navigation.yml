@@ -2,12 +2,14 @@
   url: "/"
   side: left
 
-- title: Conferences
-  url: "/conferences/"
+- title: Events
+  url: "/events/"
   side: left
   dropdown:
   - title: "The Grading Conference"
     url: "/grading-conference/"
+  - title: "Alternative Grading Institute"
+    url: "/alternative-grading-institute/"
   - title: "Past Events"
     url: "/past-conferences/"
 

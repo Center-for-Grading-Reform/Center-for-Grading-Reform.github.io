@@ -1,14 +1,14 @@
 ---
 layout              : page
-title               : "Community Events"
-permalink           : "/community-events/"
+show_meta           : false
+title               : "Events"
+teaser              : "Conferences and workshops hosted by the Center."
+#header:
+   #image_fullwidth  : "header_homepage_13.jpg"
+permalink           : "/events/"
 ---
 
+[The Grading Conference](/grading-conference/) is the flagship event of the Center for Grading Reform.
+Hosted virtually each June, we bring together hundreds of postsecondary educators to share innovations and
+research related to grading in higher education.
 
-The list below contains public alternative grading events brought to our attention by community members. 
-Events on this list are for informational purposes, and are not necessarily affiliated with the Center for Grading Reform.
-
-- June 16--18, 2026.  [The Grading Conference](https://thegradingconference.com)
-
-
-If you have other conferences or events you would like shared on this list, please use [this form](https://forms.gle/JgKMSQZKcsU6ki957).

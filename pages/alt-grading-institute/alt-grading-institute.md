@@ -6,7 +6,7 @@ teaser              : ""
 permalink           : "/alternative-grading-institute/"
 ---
 
-{% include alert warning="The Alternative Grading Institute will be held online December 17--18, 2025." %}
+{% include alert warning="The Alternative Grading Institute will be held online December 17--18, 2025. [Apply now!](https://forms.gle/vUGFe2JdG8CRv5uT6)" %}
 
 ## Overview
 The Alternative Grading Institute is an intensive, hands-on, online experience where faculty learn core concepts of alternative grading and build a course-ready grading scheme.
@@ -77,5 +77,5 @@ The Institute is led by a team of experienced educational developers and faculty
 </div>
 
 
-{% include alert warning="Questions?  Email the [facilitation team](mailto:drew.lewis@centerforgradingreform.org?subject=Alternative Grading Institute)" %}
+{% include alert warning="Questions?  Email the [facilitation team](mailto:alternative-grading-institute@centerforgradingreform.org?subject=Alternative Grading Institute)." %}
 

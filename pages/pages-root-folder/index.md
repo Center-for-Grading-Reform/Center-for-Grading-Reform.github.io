@@ -8,8 +8,8 @@ layout: frontpage
 header:
   image_fullwidth: landscape-header.jpg
 widget1:
-  title: "Conferences"
-  url: '/conferences/'
+  title: "Events"
+  url: '/events/'
   image: virtual-conference.jpg
   text: 'The flagship program of our center is the annual Grading Conference, held virtually each June.'
 widget2:
@@ -51,6 +51,7 @@ homepage: true
 
 The Center for Grading Reform seeks to advance education in the United States by supporting effective grading reform at all levels through conferences, educational workshops, professional development, research and scholarship, influencing public policy, and community building.
 
+<a class="button radius r15 info expand"  href="/alternative-grading-institute/">Applications are open for the inaugural Alternative Grading Institute, December 17--18, 2025</a>
 
 
 <!--more-->

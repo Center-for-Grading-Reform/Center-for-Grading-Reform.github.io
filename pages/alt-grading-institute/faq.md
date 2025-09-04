@@ -31,6 +31,6 @@ Optional: Continued engagement with peers and facilitators afterward.</dd>
 <dd>The 2025 Institute will be fully online. Future years may rotate between online and in-person formats.</dd>
 
 <dt>I have a question that's not answered here.</dt>
-<dd>Email the <a href="mailto:drew.lewis@centerforgradingreform.org?subject=Alternative Grading Institute">facilitation team</a>.</dd>
+<dd>Email the <a href="mailto:alternative-grading-institute@centerforgradingreform.org?subject=Alternative Grading Institute">facilitation team</a>.</dd>
 </dl>
 
