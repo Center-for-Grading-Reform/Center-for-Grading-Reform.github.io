@@ -15,9 +15,9 @@ The Center for Grading Reform, in partnership with the [RIOS Institute](https://
 
 #### Meetings & Topics
 The Learning Community will meet on Wednesdays at 3 Eastern/12 Pacific
-- 10/15: Introduction, Course Learning Objectives
-- 10/22: Assessment-level Outcomes
-- 10/29: Enumerating Assessments & Marking Schemes
+- 10/8: Introduction, Course Learning Objectives
+- 10/15: Assessment-level Outcomes
+- 10/22: Enumerating Assessments & Marking Schemes
 - 11/5: Revisions and Reassessments
 - 11/12: Grade Tables
 - 11/19: Simplifying and Getting Feedback
