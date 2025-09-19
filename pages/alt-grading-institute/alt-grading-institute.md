@@ -41,7 +41,7 @@ The registration fee is $200. We are also pleased to offer a pay what you can op
 </tr>
 <tr>
 <td>Oct 15, 2025</td>
-<td>Applications Close (11:59 p.m. ET)</td>
+<td>Applications Close</td>
 </tr>
 <tr>
 <td> Oct 31, 2025</td>
