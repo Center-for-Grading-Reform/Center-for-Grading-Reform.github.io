@@ -10,32 +10,33 @@ permalink           : "/grading-conference/submission-information/"
 <table align="center">
 <caption>Important Dates and Deadlines</caption>
 <tr>
-<td>1/13/25</td>
+<td>1/5/26</td>
 <td>Abstract Submissions Open</td>
 </tr>
 <tr>
-<td>2/1/25</td>
+<td>2/1/26</td>
 <td>Conference Registration Opens</td>
 </tr>
 <tr>
-<td>2/28/25</td>
+<td>2/13/26</td>
 <td>Abstract Submission Deadline</td>
 </tr>
 <tr>
-<td>4/18/25</td>
+<td>3/30/26</td>
 <td>Abstract Acceptance Notifications</td>
 </tr>
 <tr>
-<td>6/6/25</td>
+<td>6/12/26</td>
 <td>Slideshow & Poster Submission Deadline</td>
 </tr>
 <tr>
-<td>6/11/25</td>
+<td>6/16/26</td>
 <td>Conference Begins!</td>
 </tr>
 </table>
 
-The abstract submission deadline has passed, but you can still [access your submission](https://cmt3.research.microsoft.com/GRADINGCONFERENCE2025/) if needed.
+### Where To Submit
+The CMT submission link will be posted here when available.
 
 
 ### How To Submit
@@ -44,9 +45,9 @@ In order to submit an abstract, you will need to create an account with CMT if y
 Please read the below details carefully, different submission types require different kinds of information.
 
 
-### Call For Abstracts
+### Submission Guidelines
 
-The Grading Conference will support four presentation formats in 2025 (posters, talks, workshops, and panel discussions). With the exception of panel discussions, each presentation format includes several different _types_ of papers that we encourage for submission.
+The Grading Conference will support four presentation formats in 2026 (posters, talks, workshops, and panel discussions). With the exception of panel discussions, each presentation format includes several different _types_ of papers that we encourage for submission.
 
 <table>
 <tr>
@@ -123,7 +124,7 @@ Panel Discussion
 Workshops
 : Interactive sessions providing attendees an opportunity to learn about a topic in depth and find ways to apply the knowledge to their own settings. Abstracts should describe the target audience, including any prior experience/knowledge needed, the learning outcomes, and what participants will do during the workshop. Highlight interactive components (e.g., group work, interactive exercises). These sessions will run as a zoom meeting with breakout room capability.
 
-### Evaluation Criteria
+### Author Guidelines
 
 Abstracts will be reviewed by a committee according to the following criteria:  
 
@@ -177,4 +178,4 @@ For __Faculty Development__ submissions:
 
 
 
-The [Microsoft CMT service](https://cmt3.research.microsoft.com/) was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
+The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.

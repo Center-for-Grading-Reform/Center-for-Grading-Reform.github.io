@@ -26,8 +26,8 @@ research related to grading in higher education.
         <!--<a class="button small radius r15" href="/grading-conference/schedule/">Schedule</a>-->
         <!--<a class="button small radius r15" href="/grading-conference/keynotes/">Keynote Speakers</a>-->
         <!--<a class="button small radius r15" href="/grading-conference/abstracts/">Presentation Abstracts</a>-->
+        <a class="button small radius r15" href="/grading-conference/submission-information/">Abstract Submission</a>
         <a class="button small radius r15" href="/grading-conference/conference-faq/">FAQ</a>
-        <!--<a class="button small radius r15" href="/grading-conference/submission-information/">Abstract Submission</a>-->
         <!--<a class="button small radius r15" href="/grading-conference/accessibility-guide/">Accessibility Guide</a>-->
         <a class="button small radius r15" href="/past-conferences/">Past Conferences</a>
         <a class="button small radius r15" href="/grading-conference/organizing-team/">Organizing Team</a>
@@ -35,37 +35,33 @@ research related to grading in higher education.
 
 
 
-<!--<table align="center">
-<caption>Important Dates</caption>
+<table align="center">
+<caption>Important Dates and Deadlines</caption>
 <tr>
-<td>1/13/25</td>
+<td>1/5/26</td>
 <td>Abstract Submissions Open</td>
 </tr>
 <tr>
-<td>2/1/25</td>
+<td>2/1/26</td>
 <td>Conference Registration Opens</td>
 </tr>
 <tr>
-<td>2/28/25</td>
+<td>2/13/26</td>
 <td>Abstract Submission Deadline</td>
 </tr>
 <tr>
-<td>4/18/25</td>
+<td>3/30/26</td>
 <td>Abstract Acceptance Notifications</td>
 </tr>
 <tr>
-<td>6/6/25</td>
+<td>6/12/26</td>
 <td>Slideshow & Poster Submission Deadline</td>
 </tr>
 <tr>
-<td>6/8/25</td>
-<td>Registration Deadline</td>
-</tr>
-<tr>
-<td>6/11/25</td>
+<td>6/16/26</td>
 <td>Conference Begins!</td>
 </tr>
-</table>-->
+</table>
 
 {% include alert warning="Questions?  Email us at [info@thegradingconference.com](mailto:info@thegradingconference.com)" %}
 
