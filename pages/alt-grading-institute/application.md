@@ -6,14 +6,13 @@ teaser              : ""
 permalink           : "/alternative-grading-institute/application/"
 ---
 
-<a class="button radius r15 warning expand"  href="https://forms.gle/vUGFe2JdG8CRv5uT6">Click here to apply!</a>
 
 
 ## Cost
 The registration fee is $200. We are also pleased to offer a pay what you can option.
 
 ## Deadline
-The application deadline is October 15, 2025.
+Applications are now closed. The application deadline is October 15, 2025.
 
 ## Application
 The application will ask about your teaching context, goals, and which alternative grading approach you plan to explore:
@@ -27,4 +26,3 @@ You’ll select one scheme to focus on during Day 2, when you’ll design a cour
 Other details:
 - Participants will be selected based on their articulation of clear goals, their readiness to implement an alternative grading scheme, and to provide diversity across disciplines and institutions.
 - Capacity is limited to support individualized feedback.
-- Access the [application form here](https://forms.gle/vUGFe2JdG8CRv5uT6).

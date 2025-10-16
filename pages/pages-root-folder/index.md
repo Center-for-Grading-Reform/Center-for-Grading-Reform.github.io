@@ -51,7 +51,6 @@ homepage: true
 
 The Center for Grading Reform seeks to advance education in the United States by supporting effective grading reform at all levels through conferences, educational workshops, professional development, research and scholarship, influencing public policy, and community building.
 
-<a class="button radius r15 info expand"  href="/alternative-grading-institute/">Applications are open for the inaugural Alternative Grading Institute, December 17--18, 2025</a>
 
 
 <!--more-->

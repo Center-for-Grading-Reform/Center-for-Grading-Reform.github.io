@@ -6,7 +6,7 @@ teaser              : ""
 permalink           : "/alternative-grading-institute/"
 ---
 
-{% include alert warning="The Alternative Grading Institute will be held online December 17--18, 2025 from 11:30 AM-5:30 PM (EST)/8:30 AM-2:30 PM (PST). [Apply now!](https://forms.gle/vUGFe2JdG8CRv5uT6)" %}
+{% include alert warning="The Alternative Grading Institute will be held online December 17--18, 2025 from 11:30 AM-5:30 PM (EST)/8:30 AM-2:30 PM (PST)." %}
 
 ## Overview
 The Alternative Grading Institute is an intensive, hands-on, online experience where faculty learn core concepts of alternative grading and build a course-ready grading scheme.
