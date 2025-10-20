@@ -22,14 +22,25 @@ permalink           : "/grading-conference/organizing-team/"
       Community College of Allegheny County</p>
     </div>
     <div class="columns large-3">
+      <img src="{{ site.urlimg }}people/guberman.jpg" alt="" width="90%" class="center">
+      <p align="center"><strong>Dan Guberman</strong><br>
+      Purdue University</p>
+    </div>
+
+</div>
+
+<div class="row">
+    <div class="columns large-3">
+      <img src="{{ site.urlimg }}people/hall.jpg" alt="" width="90%" class="center">
+      <p align="center"><strong>Kimberly Hall</strong><br>
+      University of Gloucestershire</p>
+    </div>
+    <div class="columns large-3">
       <img src="{{ site.urlimg }}people/krinsky.jpg" alt="" width="90%" class="center">
       <p align="center"><strong>Sharona Krinsky</strong><br>
       Center for Grading Reform<br>
       California State University, Los Angeles</p>
     </div>
-</div>
-
-<div class="row">
     <div class="columns large-3">
       <img src="{{ site.urlimg }}people/lenahan.jpg" alt="" width="90%" class="center">
       <p align="center"><strong>Melanie Lenahan</strong><br>
@@ -40,6 +51,12 @@ permalink           : "/grading-conference/organizing-team/"
       <p align="center"><strong>Drew Lewis</strong><br>
       Center for Grading Reform</p>
     </div>
+</div>
+
+<div class="row">
+    <div class="columns large-3">
+    <p></p>
+    </div>
     <div class="columns large-3">
       <img src="{{ site.urlimg }}people/mattaini.png" alt="" width="90%" class="center">
       <p align="center"><strong>Katie Mattaini</strong><br>
@@ -49,6 +66,9 @@ permalink           : "/grading-conference/organizing-team/"
       <img src="{{ site.urlimg }}people/momsen.jpg" alt="" width="90%" class="center">
       <p align="center"><strong>Jenni Momsen</strong><br>
       North Dakota State University</p>
+    </div>
+    <div class="columns large-3">
+    <p></p>
     </div>
 </div>
 
