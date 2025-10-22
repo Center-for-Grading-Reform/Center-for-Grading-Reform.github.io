@@ -62,7 +62,7 @@ The Grading Conference will support four presentation formats in 2026 (posters, 
 <li>Work-in-Progress </li>
 <li>Classroom practices </li>
 <li>Research </li>
-<li>Faculty Development</li>
+<li>Instructor Development</li>
 </ul></td>
 <td>Poster sessions run in Zoom meeting format with individual presenters in their own breakout rooms.</td>
 </tr>
@@ -71,7 +71,7 @@ The Grading Conference will support four presentation formats in 2026 (posters, 
 <td> <ul>
 <li>Classroom practices</li>
 <li>Research</li>
-<li>Faculty Development</li>
+<li>Instructor Development</li>
 </ul>
 *We will also support organized sessions centered on a theme. In these sessions, the organizer will be responsible for curating the presenters.
 </td>
@@ -81,7 +81,7 @@ The Grading Conference will support four presentation formats in 2026 (posters, 
 <td>Workshop (90 minutes)</td>
 <td><ul>
 <li>Classroom practices</li>
-<li>Faculty Development</li>
+<li>Instructor Development</li>
 </ul></td>
 <td> These sessions run in Zoom meeting format and have breakout rooms available.</td>
 </tr>
@@ -115,7 +115,7 @@ Research
 *Literature reviews* describe the motivation, methods, and findings. These include both scoping reviews and meta-analyses.<br/>
 *Theoretical explorations* investigate elements of alternative grading in relation to one or more theoretical frameworks.
 
-Faculty Development
+Instructor Development
 : These papers can include descriptions of training programs, best practices, theoretical models, and exploratory work that brings forward or synthesizes a new idea relevant to faculty or the faculty development profession and/or practice. Abstracts should describe the practice or program, lessons learned, implementation, recommendations, and any results or outcomes.
 
 Panel Discussion 
@@ -152,7 +152,7 @@ For __Research__ submissions:
 1. Are results or findings (or status of research) clearly described?
 1. Are implications of the work clearly described?
 
-For __Faculty Development__ submissions:
+For __Instructor Development__ submissions:
 1. Does the abstract describe the context and/or target audience?
 1. Does the abstract describe the program, practice, model or exploration?
 1. Does the abstract describe the implementation (prior or proposed)?
