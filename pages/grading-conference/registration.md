@@ -12,7 +12,7 @@ permalink           : "/grading-conference/registration/"
 <caption>Registration Fees</caption>
 <tr>
 <td>Faculty & Staff </td>
-<td>$50</td>
+<td>$75</td>
 </tr>
 <tr>
 <td>Student</td>
@@ -25,6 +25,9 @@ permalink           : "/grading-conference/registration/"
 </table>
 
 We are also proud to once again offer a pay-what-you-can option to provide access to the conference. If the above fees will impose a burden on you, choose "Pay what you can" on the registration form.
+
+This year, the registration fee for The Grading Conference has increased from $50 (or pay what you can) to $75 (or pay what you can). This change helps us provide fair stipends for our keynote speakers and our growing organizing team as well as cover the increasing zoom costs of running a high-quality, community-driven virtual conference experience for all participants.
+
 
 
 #### Institutional Registrations
