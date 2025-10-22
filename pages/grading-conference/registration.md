@@ -16,7 +16,7 @@ permalink           : "/grading-conference/registration/"
 </tr>
 <tr>
 <td>Student</td>
-<td>$25</td>
+<td>$35</td>
 </tr>
 <tr>
 <td>Institutional Registration</td>
