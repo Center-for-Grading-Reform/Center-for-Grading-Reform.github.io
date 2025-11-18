@@ -42,7 +42,7 @@ The CMT submission link will be posted here when available.
 ### How To Submit
 In order to submit an abstract, you will need to create an account with CMT if you don't already have one. Instructions for creating a CMT account are available [here](https://cmt3.research.microsoft.com/docs/help/general/account-creation.html). Once you've created an account click the button above to go to the submission site.
 
-Please read the below details carefully, different submission types require different kinds of information.
+Please read the below details carefully, different submission types require different kinds of information.  If you have questions, reach out to us at [info@thegradingconference.com](mailto:info@thegradingconference.com)
 
 
 ### Submission Guidelines
@@ -67,18 +67,20 @@ The Grading Conference will support four presentation formats in 2026 (posters, 
 <td>Poster sessions run in Zoom meeting format with individual presenters in their own breakout rooms.</td>
 </tr>
 <tr>
-<td>Talk (20 minutes per talk, 60 minute sessions)</td>
+<td>Talk (20 minutes per talk, 75 minute sessions)</td>
 <td> <ul>
 <li>Classroom practices</li>
 <li>Research</li>
 <li>Instructor Development</li>
 </ul>
+Talks will be organized with three 20 minute talks in a session, followed by a 15 minute Q&A with the presenters.
+
 *We will also support organized sessions centered on a theme. In these sessions, the organizer will be responsible for curating the presenters.
 </td>
 <td>These talks run in Zoom webinar format with Q&A capability but no breakout rooms are available.</td>
 </tr>
 <tr>
-<td>Workshop (90 minutes)</td>
+<td>Workshop (75 minutes)</td>
 <td><ul>
 <li>Classroom practices</li>
 <li>Instructor Development</li>
@@ -116,7 +118,7 @@ Research
 *Theoretical explorations* investigate elements of alternative grading in relation to one or more theoretical frameworks.
 
 Instructor Development
-: These papers can include descriptions of training programs, best practices, theoretical models, and exploratory work that brings forward or synthesizes a new idea relevant to faculty or the faculty development profession and/or practice. Abstracts should describe the practice or program, lessons learned, implementation, recommendations, and any results or outcomes.
+: These presentations can include descriptions of training programs, best practices, theoretical models, and exploratory work that brings forward or synthesizes a new idea relevant to instructors or the educational development profession and/or practice. Abstracts should describe the practice or program, lessons learned, implementation, recommendations, and any results or outcomes.
 
 Panel Discussion 
 : This should be of broad interest to the alternative grading community. Proposer will host the session, develop initial Q&A questions for the panel and will secure an additional 3-6 panelists. Abstracts should describe the theme or objective, as well as the relevance and individuals served. List potential panelists (names and affiliations), as well as sample potential questions.
