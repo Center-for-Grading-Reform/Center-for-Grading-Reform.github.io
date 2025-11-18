@@ -67,13 +67,15 @@ The Grading Conference will support four presentation formats in 2026 (posters, 
 <td>Poster sessions run in Zoom meeting format with individual presenters in their own breakout rooms.</td>
 </tr>
 <tr>
-<td>Talk (20 minutes per talk, 75 minute sessions)</td>
+<td>Talk (20 minutes per talk, 75 minute sessions)
+<br/><br/>Talks will be organized with three 20 minute talks in a session, followed by a 15 minute Q&A with the presenters.
+
+</td>
 <td> <ul>
 <li>Classroom practices</li>
 <li>Research</li>
 <li>Instructor Development</li>
 </ul>
-Talks will be organized with three 20 minute talks in a session, followed by a 15 minute Q&A with the presenters.
 
 *We will also support organized sessions centered on a theme. In these sessions, the organizer will be responsible for curating the presenters.
 </td>
