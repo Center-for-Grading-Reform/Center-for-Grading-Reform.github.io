@@ -1,53 +1,48 @@
 ---
 layout              : page-fullwidth
-title               : "2025 Keynote Speakers"
+title               : "2026 Keynote Speakers"
 permalink           : "/grading-conference/keynotes/"
 ---
 
 <div class="row">
     <div class="columns small-3">
-      <img src="{{ site.urlimg }}keynotes/inoue.jpg" alt="">
-      <p align="center"><strong>Asao B. Inoue</strong> 
+      <img src="{{ site.urlimg }}keynotes/2026/silverman.jpg" alt="Headshot of Sarah Silverman: White woman with brown and blond hair, wearing a black shirt and brown glasses frames.">
+      <p align="center"><strong>Sarah Silverman</strong> 
       </p>
     </div>
 
     <div class="columns small-9">
-    <p>Asao B. Inoue is Professor of Rhetoric and Composition in the College of Integrative Sciences and Arts at Arizona State University. He is the 2019 Chair of the Conference on College Composition and Communication. Among his many articles and chapters on writing assessment, race, and racism, his article, “Theorizing Failure in U.S. Writing Assessments” in <em>Research in the Teaching of English</em>, won the 2014 CWPA Outstanding Scholarship Award. His co-edited collection, Race and Writing Assessment (2012), won the 2014 NCTE/CCCC Outstanding Book Award for an edited collection. His book, <em>Antiracist Writing Assessment Ecologies: Teaching and Assessing for a Socially Just Future</em> (2015) won the 2017 NCTE/CCCC Outstanding Book Award for a monograph and the 2015 CWPA Outstanding Book Award. He also has published numerous other co-edited collections on antiracist writing assessment, as well as other books, such as <em>Labor-Based Grading Contracts: Building Equity and Inclusion in the Compassionate Writing Classroom</em> (2019/2022); <em>Above the Well: An Antiracist Argument from A Boy of Color</em> (2021); and <em>Cripping Labor-Based Grading for More Equity in Literacy Courses</em> (2023). Additionally, he and his wife initiated the <a href="http://asaobinoue.blogspot.com/p/antiracist-teaching-endowment.html">Asao and Kelly Inoue Antiracist Teaching Endowment</a> at their alma mater, Oregon State University, which supports antiracist teaching and research by secondary and post-secondary teachers.
+    <p>Sarah Silverman, Ph.D., is an independent faculty developer and instructor of Disability Studies. Sarah's work focuses on bringing neurodiversity perspectives to the world of college teaching and instructional design. As an autistic educator, she has a personal stake in neurodiversity as well as extensive college teaching and faculty development experience. Her work includes consulting, guest speaking, and teaching on the topics of accessibility, UDL, and neurodivergence. Her writings appear in <em>To Improve the Academy</em>, the <em>Journal of Interactive Technology and Pedagogy</em>, the blog <em>Feminist Pedagogy for Teaching Online</em>, <em>New Directions for Teaching and Learning</em>, on her <a href="https://sarahemilysilverman.com/">website</a> and on her newsletter <a href="https://beyondthescope.substack.com/"><em>Beyond the Scope</em></a>. Her book <em>Classroom Mindscapes: An Introduction to Neurodiversity for Educators</em> is forthcoming from the University of Oklahoma Press.
     </p>
     </div>
 </div>
 
 <div class="row" style="margin-top: 20px;">
     <div class="columns small-3">
-      <img src="{{ site.urlimg }}keynotes/anderson.jpg" alt="">
-      <p align="center"><strong>Jeff Anderson</strong> 
+      <img src="{{ site.urlimg }}keynotes/2026/tripp.jpg" alt="Headshot of Brie Tripp: White woman with brown hair, wearing a black shirt and glasses.">
+      <p align="center"><strong>Brie Tripp</strong> 
       </p>
     </div>
 
     <div class="columns small-9">
-    <p>Jeff Anderson is an Instructor in the Department of Mathematics at Foothill College.  Jeff's <a href="http://www.appliedlinearalgebra.com/blog/jeffs-professional-vision">top-level professional goal</a> is to use antiracist learning science to help people thrive. Jeff hopes also to empower people in his life to leverage their own sense of democratic engagement in our communities and to think deeply about how they might use their learning skills as tools to serve and empower other people, especially those folks who have the least systemic power in our society. Jeff does work towards this goal as a research educator, a research mathematician, an educational consultant, an author, a content creator, a learning skills mentor, and a scholarship coach.
+    <p>
+    Brie Tripp, Ph.D., is an Associate Professor of Teaching in Neurobiology, Physiology, and Behavior at the University of California, Davis. She leads a team of undergraduate researchers dedicated to creating more equitable and justice-centered STEM classrooms. Together, they explore how teaching practices and course design can support diverse learners, uplift underserved student voices, and promote social and racial justice in STEM education.
+    </p><p>
+    Dr. Tripp’s work focuses on developing science curricula that connect biological concepts to real-world contexts and community experiences, as well as rethinking traditional grading systems to better reflect student growth, learning, and well-being. Her commitment to student-centered and justice-focused teaching aims to support the next generation of scientists and healthcare professionals in becoming thoughtful, socially conscious leaders.
     </p>
     </div>
 </div>
 
 <div class="row" style="margin-top: 20px;">
     <div class="columns small-3">
-      <img src="{{ site.urlimg }}keynotes/tanner.jpg" alt="">
-      <p align="center"><strong>Eden Tanner</strong> 
+      <img src="{{ site.urlimg }}keynotes/2026/stommel.jpg" alt="Headshot of Jesse Stommel: White man with brown hair and a beard.">
+      <p align="center"><strong>Jesse Stommel</strong> 
       </p>
     </div>
 
     <div class="columns small-9">
-    <p>Dr. Eden E. L. Tanner completed her undergraduate degree in Advanced Science (Chemistry) at
-the University of New South Wales, Sydney, Australia. She earned her doctorate in Physical and
-Theoretical Chemistry at the University of Oxford with Prof Richard G. Compton, and moved to
-Harvard University in 2017 as a Postdoctoral Research Fellow with Samir Mitragotri. As of
-August 2020, Dr. Tanner is an Assistant Professor of Chemistry and Biochemistry at the
-University of Mississippi. The Tanner Lab works at the interface of Chemistry and
-Bioengineering with a focus on using ionic liquids to solve problems in nanoparticle drug
-delivery. Dr. Tanner believes everyone is a “science person” and has been experimenting with
-alternative grading models in General Chemistry to create equitable and growth-oriented
-educational spaces.
+    <p>Jesse Stommel, Ph.D., is a faculty member in the Writing Program at University of
+Denver. He is co-founder of <a href="https://www.digitalpedagogylab.com/">Digital Pedagogy Lab</a> and <em><a href="(https://hybridpedagogy.org/">Hybrid Pedagogy</a></em>: the journal of critical digital pedagogy, and he earned his Ph.D. from University of Colorado Boulder. Stommel is co-author of <em>An Urgency of Teachers: The Work of Critical Digital Pedagogy</em>, co-editor of <em>Disrupting the Digital Humanities</em>, and co-editor of <em>Critical Digital Pedagogy: a Collection</em>. He is best known for his work as a champion of teachers and students in higher education. He is Executive Director of Hybrid Pedagogy: the journal of critical digital pedagogy, and he earned his Ph.D. from University of Colorado Boulder. Stommel is a documentary filmmaker and teaches courses about pedagogy, film, and new media. He experiments relentlessly with learning interfaces, both digital and analog, and his research focuses on higher education pedagogy, critical digital pedagogy, and assessment. Stommel was most previously a faculty member at University of Wisconsin-Madison. He has a rascal pup, Emily, a clever cat, Loki, and a badass daughter, Hazel.
     </p>
     </div>
 </div>
