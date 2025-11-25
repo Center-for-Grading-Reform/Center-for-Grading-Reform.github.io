@@ -8,4 +8,4 @@ permalink           : "/contact/"
 
 Contact us at [info@centerforgradingreform.org](mailto:info@centerforgradingreform.org)
 
-Use [this form](https://forms.gle/76En2Hf52Cn4wdsm6) to sign up for our email announcement list.
+Use [this form](https://forms.gle/x2oKnQmczY8uzcD19) to sign up for our email announcement list.
