@@ -90,7 +90,7 @@ The Grading Conference will support four presentation formats in 2026 (posters, 
 <td> These sessions run in Zoom meeting format and have breakout rooms available.</td>
 </tr>
 <tr>
-<td>Panel Discussion (60 minutes)</td>
+<td>Panel Discussion (75 minutes)</td>
 <td>
 Session where the proposer hosts several panelists in an interactive question and answer format. Audience can also ask questions of the panel.
 
