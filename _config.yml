@@ -38,7 +38,7 @@ improve_content: https://github.com/Center-For-Grading-Reform/Center-For-Grading
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://center-for-grading-reform.github.io/images/'
+urlimg: 'https://centerforgradingreform.org/images/'
 
 
 # Logo size is 600x80 pixels
