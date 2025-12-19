@@ -36,7 +36,9 @@ permalink           : "/grading-conference/submission-information/"
 </table>
 
 ### Where To Submit
-The CMT submission link will be posted here when available.
+
+<a class="button radius r15 warning expand"  href="https://cmt3.research.microsoft.com/GRADINGCONFERENCE2026/">Access the abstract submission site here</a>
+
 
 
 ### How To Submit
@@ -128,7 +130,7 @@ Panel Discussion
 Workshops
 : Interactive sessions providing attendees an opportunity to learn about a topic in depth and find ways to apply the knowledge to their own settings. Abstracts should describe the target audience, including any prior experience/knowledge needed, the learning outcomes, and what participants will do during the workshop. Highlight interactive components (e.g., group work, interactive exercises). These sessions will run as a zoom meeting with breakout room capability.
 
-### Author Guidelines
+### Evaluation Criteria
 
 Abstracts will be reviewed by a committee according to the following criteria:  
 
@@ -180,18 +182,6 @@ For __Instructor Development__ submissions:
 1. Does the abstract describe workshop activities that are aligned with the proposed learning outcomes?
 1. Does the abstract incorporate elements of interactivity with materials and fellow participants, and use additional evidence-based approaches to facilitate learning?
 
-### Committee
-
-- Robert Bosley, Los Angeles Unified School District
-- Emily Pitts Donahoe, University of Mississippi
-- Ashleigh Fox, Community College of Allegheny County
-- Dan Guberman, Purdue University
-- Kimberly Hall, University of Gloucestershire
-- Sharona Krinsky, California State University, Los Angeles
-- Melanie Lenahan, Raritan Valley Community College
-- Drew Lewis, Center for Grading Reform
-- Katie Mattaini, Tufts University
-- Jenni Momsen, North Dakota State University
 
 
 The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
