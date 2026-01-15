@@ -39,8 +39,9 @@ participants.  To set this up or for more information, contact us at info@thegra
 <iframe src="https://forms.gle/rfBzx2zBseKiBU6k9" width="100%" height="2500" onload="document.getElementById('registration-form').scrollIntoView()">
 </iframe>
 
-[Open registration form in new window](https://forms.gle/rfBzx2zBseKiBU6k9){:target="_blank"}
 
 <script>
-  window.setTimeout(function(){window.scroll(-10,0)},1000)
+  window.setTimeout(function(){window.scroll(-50,0)},1000)
 </script>
+
+[Open registration form in new window](https://forms.gle/rfBzx2zBseKiBU6k9){:target="_blank"}
