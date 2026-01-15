@@ -43,3 +43,4 @@ participants.  To set this up or for more information, contact us at info@thegra
 
 <script>
   window.setTimeout(function(){window.scroll(-10,0)},1000)
+</script>
