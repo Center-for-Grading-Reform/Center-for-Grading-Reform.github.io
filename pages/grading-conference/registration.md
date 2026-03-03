@@ -41,7 +41,7 @@ participants.  To set this up or for more information, contact us at info@thegra
 
 
 <script>
-  window.setTimeout(function(){window.scroll(-50,0)},1000)
+  window.setTimeout(function(){window.scroll(-50,0)},2000)
 </script>
 
 [Open registration form in new window](https://forms.gle/rfBzx2zBseKiBU6k9){:target="_blank"}
