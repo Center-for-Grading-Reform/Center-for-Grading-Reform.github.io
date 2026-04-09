@@ -1,0 +1,265 @@
+- slot: 1.1
+  day: 1
+  time: "11:00 AM --- 11:30 AM EDT"
+  title: "Welcome and Conference Orientation"
+
+- slot: 1.2
+  day: 1
+  time: "11:30 AM --- 12:30 PM EDT"
+  keynote-title: "Keynote: Sarah Silverman"
+
+- slot: 1.25
+  day: 1
+  time: "12:30 --- 1:00 PM EDT"
+  title: "Break"
+  break: True
+
+- slot: 1.3
+  day: 1
+  time: "1:00 --- 2:15 PM EDT"
+  parallel:
+    - trackA:
+      title: "TBD"
+      talks:
+      - 16
+      - 23
+      - 68
+    - trackB:
+      title: "TBD"
+      talks:
+      - 22
+      - 78
+      - 64
+    - trackC:
+      title: "Panel"
+      talks:
+      - 27
+
+- slot: 1.35
+  day: 1
+  time: "2:15 --- 2:45 PM EDT"
+  title: "Break"
+  break: True
+
+- slot: 1.4
+  day: 1
+  time: "2:45 --- 4:00 PM EDT"
+  parallel:
+    - trackA:
+      title: "Workshop"
+      talks:
+      - 81
+    - trackB:
+      title: "TBD"
+      talks:
+      - 30
+      - 80
+      - 33
+    - trackC:
+      title: "Panel"
+      talks:
+      - 47
+
+- slot: 1.45
+  day: 1
+  time: "4:00 --- 4:30 PM EDT"
+  title: "Break"
+  break: True
+
+- slot: 1.5
+  day: 1
+  time: "4:30 --- 5:45 PM EDT"
+  parallel:
+    - trackA:
+      title: "Workshop"
+      talks:
+      - 48
+    - trackB:
+      title: "Organized Session"
+      talks:
+      - 29
+    - trackC:
+      title: "Panel"
+      talks:
+      - 7
+    - trackD:
+      title: "Workshop"
+      talks:
+      - 6
+
+- slot: 1.55
+  day: 1
+  time: "5:45 --- 7:00 PM EDT"
+  title: "<a href='/grading-conference/social-hour/' target='_blank'>Social Hour</a>"
+ 
+- slot: 2.1
+  day: 2
+  time: "11:00 AM --- 12:00 PM EDT"
+  title: "Welcome Back & Keynote: Brie Tripp"
+  keynote-title: "From Gatekeeping to Growth: How Quiz Retakes Reshape Student Learning and Motivation"
+  keynote-abstract: |
+    Stretching back to the 18th century, grades have long served as both a cornerstone of education and a gateway to future career opportunities. Yet, in practice, grading practices can (re)produce inequities and cause students to feel inadequate and unmotivated. While alternative grading approaches offer promise, they are often time intensive and impractical in larger classroom settings. 
+
+    In this keynote, Dr. Brie Tripp draws on her team’s recent research to example a simple, scalable intervention: in-class quiz retakes. Grounded in self-determination theory, this work integrates semistructured interviews with undergraduate students across multiple STEM course offerings alongside quantitative analyses of student outcomes. 
+
+    Findings indicate that retakes largely improved students’ perceptions of their competence, autonomy over their grades, and sense of relatedness with their instructors, which strengthened their motivation to learn. 
+
+    This work invites educators to reconsider the role of grading practices in STEM education, illustrating how small, intentional shifts in assessment design can foster more equitable and motivating learning environments.
+
+- slot: 2.15
+  day: 2
+  time: "12:00 --- 12:30 PM EDT"
+  title: "Break"
+  break: True 
+
+- slot: 2.2
+  day: 2
+  time: "12:30 --- 1:30 PM EDT"
+  title: "<a href='/grading-conference/abstracts/#poster-abstracts' target='_blank'>Poster Session</a>"
+
+
+- slot: 2.25
+  day: 2
+  time: "1:30 --- 2:00 PM EDT"
+  title: "Break"
+  break: True 
+
+- slot: 2.3
+  day: 2
+  time: "2:00 --- 3:15 PM EDT"
+  parallel:
+    - trackA:
+      title: "TBD"
+      talks:
+      - 18
+      - 69
+      - 8
+    - trackB:
+      title: "TBD"
+      talks:
+      - 37
+      - 54
+      - 73
+    - trackC:
+      title: "Panel"
+      talks:
+      - 52
+  
+- slot: 2.35
+  day: 2
+  time: "3:15 --- 3:45 PM EDT"
+  title: "Break"
+  break: True 
+
+- slot: 2.4
+  day: 2
+  time: "3:45 --- 5:00 PM EDT"
+  parallel: 
+  - trackA:
+    title: "Workshop"
+    talks:
+    - 72
+  - trackB:
+    title: "Workshop"
+    talks:
+    - 45
+  - trackC:
+    title: "Panel"
+    talks:
+    - 25
+  
+- slot: 2.45
+  day: 2
+  time: "5:00 --- 6:00 PM EDT"
+  title: "<a href='/grading-conference/social-hour/' target='_blank'>Social Hour</a>"
+ 
+- slot: 3.1
+  day: 3
+  time: "11:00 AM --- 12:00 PM EDT"
+  title: "Welcome Back & Keynote: Jesse Stommel"
+
+- slot: 3.15
+  day: 3
+  time: "12:00 --- 12:30 PM EDT"
+  title: "Break"
+  break: True 
+
+- slot: 3.2
+  day: 3
+  time: "12:30 PM --- 1:45 PM EDT"
+  parallel:
+  - trackA:
+    title: "TBD"
+    talks:
+    - 13
+    - 26
+    - 60
+  - trackB:
+    title: "TBD"
+    talks:
+    - 28
+    - 43
+    - 44
+  - trackC:
+    title: "Workshop"
+    talks:
+    - 49
+
+- slot: 3.25
+  day: 3
+  time: "1:45 --- 2:15 PM EDT"
+  title: "Break"
+  break: True 
+
+- slot: 3.3
+  day: 3
+  time: "2:15 --- 3:30 PM EDT"
+  parallel:
+  - trackA:
+    title: "TBD"
+    talks:
+    - 3
+    - 71
+    - 15
+  - trackB:
+    title: "TBD"
+    talks:
+    - 77
+    - 5
+    - 17
+  - trackC:
+    title: "Panel"
+    talks: 
+    - 46
+  
+- slot: 3.35
+  day: 3
+  time: "3:30 --- 4:00 PM EDT"
+  title: "Break"
+  break: True 
+  
+- slot: 3.4
+  day: 3
+  time: "4:00 --- 5:15 PM EDT"
+  parallel:
+  - trackA:
+    title: "TBD"
+    talks:
+    - 31
+    - 34
+    - 76
+  - trackB:
+    title: "TBD"
+    talks:
+    - 75
+    - 50
+    - 66
+  - trackC:
+    title: "Workshop"
+    talks:
+    - 40
+  
+- slot: 3.5
+  day: 3
+  time: "5:15 --- 5:45 PM EDT"
+  title: "Closing Session"

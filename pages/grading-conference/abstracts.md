@@ -5,16 +5,19 @@ title               : "The Grading Conference"
 teaser              : ""
 permalink           : "/grading-conference/abstracts/"
 ---
-{% assign dates = "Null; Wednesday, June 11; Thursday, June 12; Friday, June 13" | split: "; "%}
+{% assign dates = "Null; Tuesday, June 16; Wednesday, June 17; Thursday, June 18" | split: "; "%}
 
 - [Presentation Abstracts](#poster-abstracts) 
 - [Poster Abstracts](#poster-abstracts) 
 
 
 <h2>Presentation Abstracts</h2>
-{% assign current_talks = site.data.twentytwentyfive.conference_talks | where: "year", 2025  | where: "format", "presentation" | sort: "title" %}
+{% assign current_talks = site.data.twentytwentysix.conference_talks |  where: "format", "presentation" | sort: "title" %}
   {% for talk in  current_talks  %} 
-    {% assign sessions = site.data.twentytwentyfive.conference_sessions | has: "parallel" %}
+    {% assign sessions = site.data.twentytwentysix.conference_sessions | has: "parallel" %}
+    {% assign time = "" %}
+    {% assign day = "" %}
+    {% assign session_title = "" %}
     {% for s in sessions %}
       {% for track in s.parallel %}
         {% if track.talks contains talk.abstract_id %}
@@ -36,8 +39,8 @@ permalink           : "/grading-conference/abstracts/"
  
  <div id="poster-abstracts">
  <h2>Poster Abstracts</h2>
- <h4><a href="https://docs.google.com/presentation/d/e/2PACX-1vQNCbi9F59lSUhiMOG6ceBwacdk6CKrngLaWyMuQNIHJan8w2N-mHw5LAshsjnD4reG9Nub_l1gG85l/pub">View Poster Gallery</a></h4>
-{% assign current_talks = site.data.twentytwentyfive.conference_talks | where: "year", 2025  | where: "format", "poster" | sort: "title" %}
+ <h4><a href="">View Poster Gallery</a></h4>
+{% assign current_talks = site.data.twentytwentysix.conference_talks |  where: "format", "poster" | sort: "title" %}
  {% for talk in  current_talks  %} 
  <div id={{talk.abstract_id}}>
    <h4>{{ talk.title }} (#{{talk.abstract_id}})</h4>

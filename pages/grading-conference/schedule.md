@@ -11,7 +11,7 @@ permalink           : "/grading-conference/schedule/"
 
  Please note that all times are Eastern Daylight Time (UTC-4).
 
-{% assign dates = "Wednesday, June 11; Thursday, June 12; Friday, June 13" | split: "; "%}
+{% assign dates = "Tuesday, June 16; Wednesday, June 17; Thursday, June 18" | split: "; "%}
 {% assign days = "1,2,3" | split: "," | to_i %}
 
 
@@ -25,7 +25,7 @@ permalink           : "/grading-conference/schedule/"
  <div id="{{ref}}" class="content">
 <table class="schedule">
 
-{% assign conference_day = site.data.twentytwentyfive.conference_sessions | where: "day", day  | sort: "slot" %}
+{% assign conference_day = site.data.twentytwentysix.conference_sessions | where: "day", day  | sort: "slot" %}
 {% for slot in conference_day %}
 <tr>
   <td markdown="span" > {{slot.time}} </td>
@@ -35,7 +35,7 @@ permalink           : "/grading-conference/schedule/"
         <b>{{track.title}}</b>
         <ul class="accordion" data-accordion style="margin-left: 0px">
         {% for id in track.talks %}
-        {% assign talk = site.data.twentytwentyfive.conference_talks | where: "year", 2025 | find: "abstract_id", id %} 
+        {% assign talk = site.data.twentytwentysix.conference_talks  | find: "abstract_id", id %} 
         {% assign ref = "paper_" | append: id %}
         {% assign href = "#" | append: ref %}
         <li class="accordion-navigation" >
