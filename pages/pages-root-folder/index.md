@@ -55,6 +55,10 @@ The Center for Grading Reform seeks to advance education in the United States by
 <a class="button radius r15" href="/grading-conference/registration/">Register for the 2026 Grading Conference, held June 16&ndash;18</a>
 </div>
 
+<div class="button-group align-spaced text-center" >
+<a class="button radius r15" href="/learning-community/">Sign up for our spring Learning Community</a>
+</div>
+
 
 <!--more-->
 
