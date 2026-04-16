@@ -6,7 +6,10 @@
 - slot: 1.2
   day: 1
   time: "11:30 AM --- 12:30 PM EDT"
-  keynote-title: "Keynote: Sarah Silverman"
+  title: "Keynote: Sarah Silverman"
+  keynote-title: "Access friction in grading: Navigating conflicting student (and instructor) needs in student assessment"
+  keynote-abstract: |
+    Many instructors who opt for alternative grading methods do so because they believe that they are choosing a more inclusive, student centered approach to assessment. However, there are a variety of differences among students and instructors that may cause friction after the selection of any alternative grading approach: How should we balance differing student needs for the external motivation of due dates with the benefits for many students of flexibility and autonomy around when they submit assignments? If we use alternative grading or assessment approaches which emphasize process rather than final product, can differences in communication and executive functioning between students and faculty related to neurodiversity be addressed to ensure equity? This keynote talk brings the framework of "access friction" to bear on these questions and others. Derived from disability community and scholarship, access friction describes a situation in which access needs come into conflict, such as when a space chosen for its accessibility to one group is not accessible to another. Teaching methods, including grading and assessment methods, are also sites of access friction. This talk will offer several case studies in grading access friction, representing a range of student and instructor disabilities and access needs, for discussion as well as opportunity for participants to share their own experiences with and approach to navigating access friction in grading.
 
 - slot: 1.25
   day: 1
