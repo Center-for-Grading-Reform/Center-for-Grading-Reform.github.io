@@ -66,6 +66,10 @@
       title: "Panel"
       talks:
       - 47
+    - trackD:
+      title: Presentation
+      talks:
+      - 1002
 
 - slot: 1.45
   day: 1
