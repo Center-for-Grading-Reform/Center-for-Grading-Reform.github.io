@@ -22,13 +22,13 @@
   time: "1:00 --- 2:15 PM EDT"
   parallel:
     - trackA:
-      title: "TBD"
+      title: "Student Motivation"
       talks:
       - 16
       - 23
       - 68
     - trackB:
-      title: "TBD"
+      title: "Scaling Implementation"
       talks:
       - 22
       - 78
@@ -57,7 +57,7 @@
       talks:
       - 81
     - trackB:
-      title: "TBD"
+      title: "Integrating Peers and Social Media"
       talks:
       - 30
       - 80
@@ -67,7 +67,7 @@
       talks:
       - 47
     - trackD:
-      title: Presentation
+      title: "Presentation"
       talks:
       - 1002
 
@@ -140,13 +140,13 @@
   time: "2:00 --- 3:15 PM EDT"
   parallel:
     - trackA:
-      title: "TBD"
+      title: "Impacts on Faculty and Students"
       talks:
       - 18
       - 69
       - 26 
     - trackB:
-      title: "TBD"
+      title: "Novel Implementations"
       talks:
       - 37
       - 54
@@ -205,13 +205,13 @@
   time: "12:30 PM --- 1:45 PM EDT"
   parallel:
   - trackA:
-    title: "TBD"
+    title: "Integrating Teaching Teams"
     talks:
     - 13
     - 8
     - 60
   - trackB:
-    title: "TBD"
+    title: "Systems of Scale"
     talks:
     - 28
     - 43
@@ -232,13 +232,13 @@
   time: "2:15 --- 3:30 PM EDT"
   parallel:
   - trackA:
-    title: "TBD"
+    title: "Supporting STudent Identity Development"
     talks:
     - 3
     - 71
     - 15
   - trackB:
-    title: "TBD"
+    title: "Novel Implementations in Math Courses"
     talks:
     - 77
     - 5
@@ -259,13 +259,13 @@
   time: "4:00 --- 5:15 PM EDT"
   parallel:
   - trackA:
-    title: "TBD"
+    title: "Finding Flexibility, Equity, and Joy"
     talks:
     - 31
     - 34
     - 76
   - trackB:
-    title: "TBD"
+    title: "Enhancing Feedback and Communication"
     talks:
     - 75
     - 50
