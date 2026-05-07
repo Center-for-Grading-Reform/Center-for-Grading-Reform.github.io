@@ -30,7 +30,6 @@ permalink           : "/grading-conference/abstracts/"
  <div id={{talk.abstract_id}}>
    <h4>{{ talk.title }}</h4>
    <p style="margin-bottom:0"><em>{{talk.authors | join: ", "}}</em></p>
-   <b>{{session_title}}</b>
    {{ dates[day] | append: ", " | append: time | markdownify }}
    <p>{{talk.abstract | newline_to_br}} </p>
 
@@ -39,7 +38,7 @@ permalink           : "/grading-conference/abstracts/"
  
  <div id="poster-abstracts">
  <h2>Poster Abstracts</h2>
- <h4><a href="">View Poster Gallery</a></h4>
+ <!--<h4><a href="">View Poster Gallery</a></h4>-->
 {% assign current_talks = site.data.twentytwentysix.conference_talks |  where: "format", "poster" | sort: "title" %}
  {% for talk in  current_talks  %} 
  <div id={{talk.abstract_id}}>
