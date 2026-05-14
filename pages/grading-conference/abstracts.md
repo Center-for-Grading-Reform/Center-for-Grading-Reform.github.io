@@ -29,7 +29,9 @@ permalink           : "/grading-conference/abstracts/"
     {% endfor %}
  <div id={{talk.abstract_id}}>
    <h4>{{ talk.title }}</h4>
-   <p style="margin-bottom:0"><em>{{talk.authors | join: ", "}}</em></p>
+   <p style="margin-bottom:0"><em>{{talk.authors | join: ", "}}</em>
+   {% if talk.panelists.size > 0 %}<br><em>Panelists: {{talk.panelists | join: ", "}}</em>{% endif %}
+   </p>
    {{ dates[day] | append: ", " | append: time | markdownify }}
    <p>{{talk.abstract | newline_to_br}} </p>
 

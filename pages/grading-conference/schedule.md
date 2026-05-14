@@ -41,7 +41,10 @@ permalink           : "/grading-conference/schedule/"
         <li class="accordion-navigation" >
                 <a href="{{href}}" style="font-size: 0.8em"> {{ talk.title }} </a> {% if talk.authors.size > 1 %} ({{talk.authors[0]}} et al.) {% elsif talk.authors.size == 1 %} ({{talk.authors[0]}})  {% endif %} 
                 <div id={{ref}} class="content">
-                <p><em>{{talk.authors | join: ", "}}</em></p>
+                <p><em>{{talk.authors | join: ", "}}</em>
+                {% if talk.panelists.size > 0 %}<br><em>Panelists: {{talk.panelists | join: ", "}}</em>{% endif %}
+                </p>
+
                 <p>{{talk.abstract}}</p>
                 </div>
                 </li>
