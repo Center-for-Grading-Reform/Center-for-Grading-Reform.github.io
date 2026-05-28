@@ -1,0 +1,11 @@
+---
+layout: page
+format: post
+---
+{% if page.author %}
+<p><em>By {{page.author}}</em></p>
+{% endif %}
+
+<div itemprop="articleSection">
+{{ content }}
+</div>
