@@ -21,23 +21,23 @@
   day: 1
   time: "1:00 --- 2:15 PM EDT"
   parallel:
-    - trackA:
+    - trackA: "A"
       title: "Student Motivation"
       talks:
       - 16
       - 23
       - 68
-    - trackB:
+    - trackB: "B"
       title: "Scaling Implementation"
       talks:
       - 22
       - 78
       - 64
-    - trackC:
+    - trackC: "C"
       title: "Panel"
       talks:
       - 27
-    - trackD:
+    - trackD: "D"
       title: "Presentation"
       talks:
       - 1001
@@ -52,21 +52,21 @@
   day: 1
   time: "2:45 --- 4:00 PM EDT"
   parallel:
-    - trackA:
+    - trackA: "A"
       title: "Workshop"
       talks:
       - 81
-    - trackB:
+    - trackB: "B"
       title: "Integrating Peers and Social Media"
       talks:
       - 30
       - 80
       - 33
-    - trackC:
+    - trackC: "C"
       title: "Panel"
       talks:
       - 47
-    - trackD:
+    - trackD: "D"
       title: "Presentation"
       talks:
       - 1002
@@ -81,19 +81,19 @@
   day: 1
   time: "4:30 --- 5:45 PM EDT"
   parallel:
-    - trackA:
+    - trackA: "A"
       title: "Workshop"
       talks:
       - 48
-    - trackB:
+    - trackB: "B"
       title: "Organized Session"
       talks:
       - 29
-    - trackC:
+    - trackC: "C"
       title: "Panel"
       talks:
       - 7
-    - trackD:
+    - trackD: "D"
       title: "Workshop"
       talks:
       - 6
@@ -139,19 +139,19 @@
   day: 2
   time: "2:00 --- 3:15 PM EDT"
   parallel:
-    - trackA:
+    - trackA: "A"
       title: "Impacts on Faculty and Students"
       talks:
       - 18
       - 69
       - 26 
-    - trackB:
+    - trackB: "B"
       title: "Novel Implementations"
       talks:
       - 37
       - 54
       - 73
-    - trackC:
+    - trackC: "C"
       title: "Panel"
       talks:
       - 52
@@ -166,15 +166,15 @@
   day: 2
   time: "3:45 --- 5:00 PM EDT"
   parallel: 
-  - trackA:
+  - trackA: "A"
     title: "Workshop"
     talks:
     - 72
-  - trackB:
+  - trackB: "B"
     title: "Workshop"
     talks:
     - 45
-  - trackC:
+  - trackC: "C"
     title: "Panel"
     talks:
     - 25
@@ -204,19 +204,19 @@
   day: 3
   time: "12:30 PM --- 1:45 PM EDT"
   parallel:
-  - trackA:
+  - trackA: "A"
     title: "Integrating Teaching Teams"
     talks:
     - 13
     - 75
     - 60
-  - trackB:
+  - trackB: "B"
     title: "Systems of Scale"
     talks:
     - 28
     - 43
     - 44
-  - trackC:
+  - trackC: "C"
     title: "Panel"
     talks:
     - 49
@@ -231,19 +231,19 @@
   day: 3
   time: "2:15 --- 3:30 PM EDT"
   parallel:
-  - trackA:
+  - trackA: "A"
     title: "Supporting Student Identity Development"
     talks:
     - 3
     - 71
     - 15
-  - trackB:
+  - trackB: "B"
     title: "Novel Implementations in Math Courses"
     talks:
     - 77
     - 5
     - 17
-  - trackC:
+  - trackC: "C"
     title: "Panel"
     talks: 
     - 46
@@ -258,19 +258,19 @@
   day: 3
   time: "4:00 --- 5:15 PM EDT"
   parallel:
-  - trackA:
+  - trackA: "A"
     title: "Finding Flexibility, Equity, and Joy"
     talks:
     - 31
     - 34
     - 76
-  - trackB:
+  - trackB: "B"
     title: "Enhancing Feedback and Communication"
     talks:
     - 66
     - 50
     - 8
-  - trackC:
+  - trackC: "C"
     title: "Workshop"
     talks:
     - 40

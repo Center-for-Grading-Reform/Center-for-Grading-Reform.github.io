@@ -32,7 +32,8 @@ permalink           : "/grading-conference/schedule/"
   {%if slot.parallel %}
     {%for track in slot.parallel %}
      <td style="font-size: 1.05em">
-        <b>{{track.title}}</b>
+        {% assign track_letter = track.first.last %}
+        <b>{{slot.slot}}{{track_letter}} {{track.title}}</b>
         <ul class="accordion" data-accordion style="margin-left: 0px">
         {% for id in track.talks %}
         {% assign talk = site.data.twentytwentysix.conference_talks  | find: "abstract_id", id %} 
@@ -54,7 +55,11 @@ permalink           : "/grading-conference/schedule/"
     {% endfor %}
   {% else %}
   <td colspan="4" style="text-align: center; font-size:1.1em" >
-    {{"**" | append: slot.title | append: "**" | markdownify}}
+    {% if slot.title == "Break" or slot.title contains "Social Hour" %}
+      {{"**" | append: slot.title | append: "**" | markdownify}}
+    {% else %}
+      {{"**" | append: slot.slot | append: " " | append: slot.title | append: "**" | markdownify}}
+    {% endif %}
     {% if slot.keynote-title %}
       {% assign ref = "keynote" | append: slot.day %}
       {% assign href = "#" | append: ref %}
