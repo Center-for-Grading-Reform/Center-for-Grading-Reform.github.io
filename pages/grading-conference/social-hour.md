@@ -8,8 +8,8 @@ permalink           : "/grading-conference/social-hour/"
 
 Anyone and everyone is welcome to attend social hour. There is no agenda---just good fellowship! In addition to the general social hour, several volunteers are hosting social affinity groups for thematic discussions, described below. To join one of the social affinity groups, just join the general Zoom link, and from there you can join the appropriate breakout room. 
 
-#### Tuesday, June 16, 6:00 pm-7:00 pm EDT:
-
+#### Tuesday, June 16, 6:00 pm-7:00 pm EDT
+<br/>
 New to Alt Grading, STEM
 : Melissa Haswell and Ariel Vaughn
 
@@ -29,8 +29,8 @@ Designing Syllabi in Alt Grading
 : Emily Rude
 
 
-#### Wednesday, June 17, 5:00-6:00 pm EDT:
-
+#### Wednesday, June 17, 5:00-6:00 pm EDT
+<br/>
 New to Alt Grading, STEM
 : Christin Monroe and Kavy Pathirana
 
