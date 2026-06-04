@@ -1,11 +1,12 @@
 ---
 layout              : page
 show_meta           : false
-title               : "The Grading Conference"
+title               : "Past Events"
 teaser              : ""
 permalink           : "past-conferences/"
 ---
 
+## The Grading Conference
 
 - [2025 Grading Conference](2025-grading-conference)
 - [2024 Grading Conference](2024-grading-conference)
@@ -14,3 +15,8 @@ permalink           : "past-conferences/"
 - [2021 Grading Conference (Higher Ed Focus)](2021-grading-conference-higher-ed)
 - [2021 Grading Conference (7--12 Focus)](2021-grading-conference-secondary)
 - [2020 Grading Conference](2020-grading-conference)
+
+## Alternative Grading Instittue
+- [2025 Alternative Grading Institute](2025-alternative-grading-institute)
+
+
