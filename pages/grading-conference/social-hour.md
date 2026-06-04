@@ -48,3 +48,6 @@ Misuse of Math in Grading
 
 Alt Grading in Interdisciplinary Fields
 : Mariah Birgen
+
+Making Alternative Grading Work in Practice with TeachFront
+: Stephanie Valentine, Kate Wiig
