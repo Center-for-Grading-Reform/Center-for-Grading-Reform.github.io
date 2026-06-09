@@ -8,7 +8,7 @@ category:
 tags:
   - Grading Conference
   - events
-permalink: conference-2026/day1-preview
+permalink: blog/conference-2026/day1-preview
 ---
 
 The 2026 Grading Conference is only a week away, and we’re excited for another great year of sharing knowledge and building community around alternative grading. Here’s a preview of what you can expect on day 1:
