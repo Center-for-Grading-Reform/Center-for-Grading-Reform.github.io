@@ -2,11 +2,13 @@
   day: 1
   time: "11:00 AM --- 11:30 AM EDT"
   title: "Welcome and Conference Orientation"
+  zoom: https://us06web.zoom.us/j/82413435537?pwd=oezbw6nqa0IsRcP9TaGaO7N5wHZZvb.1
 
 - slot: 1.2
   day: 1
   time: "11:30 AM --- 12:30 PM EDT"
   title: "Keynote: Sarah Silverman"
+  zoom: https://us06web.zoom.us/j/82413435537?pwd=oezbw6nqa0IsRcP9TaGaO7N5wHZZvb.1
   keynote-title: "Access friction in grading: Navigating conflicting student (and instructor) needs in student assessment"
   keynote-abstract: |
     Many instructors who opt for alternative grading methods do so because they believe that they are choosing a more inclusive, student centered approach to assessment. However, there are a variety of differences among students and instructors that may cause friction after the selection of any alternative grading approach: How should we balance differing student needs for the external motivation of due dates with the benefits for many students of flexibility and autonomy around when they submit assignments? If we use alternative grading or assessment approaches which emphasize process rather than final product, can differences in communication and executive functioning between students and faculty related to neurodiversity be addressed to ensure equity? This keynote talk brings the framework of "access friction" to bear on these questions and others. Derived from disability community and scholarship, access friction describes a situation in which access needs come into conflict, such as when a space chosen for its accessibility to one group is not accessible to another. Teaching methods, including grading and assessment methods, are also sites of access friction. This talk will offer several case studies in grading access friction, representing a range of student and instructor disabilities and access needs, for discussion as well as opportunity for participants to share their own experiences with and approach to navigating access friction in grading.
@@ -23,22 +25,26 @@
   parallel:
     - trackA: "A"
       title: "Student Motivation"
+      zoom: https://us06web.zoom.us/j/89693371975?pwd=WUs9iFeVA71wI4oAuCJIDpttyVrRG0.1
       talks:
       - 16
       - 23
       - 68
     - trackB: "B"
       title: "Scaling Implementation"
+      zoom: https://us06web.zoom.us/j/84182363533?pwd=CxhB4dZwAgFlrmjzpZTmnrKBGE9qEv.1
       talks:
       - 22
       - 78
       - 64
     - trackC: "C"
       title: "Panel"
+      zoom: https://us06web.zoom.us/j/81088970152?pwd=61ioYWkUVTYNJsoj8VTSnDQEQaKwNl.1
       talks:
       - 27
     - trackD: "D"
       title: "Presentation"
+      zoom: https://us06web.zoom.us/j/87129858072?pwd=5ArZjENatTm0uPJmB1bTpqL2v5rhL5.1
       talks:
       - 1001
 
@@ -54,20 +60,24 @@
   parallel:
     - trackA: "A"
       title: "Workshop"
+      zoom: https://us06web.zoom.us/j/87056076507?pwd=GnSbFaJIvmbFlx84OwrCJAbIv2zwTX.1
       talks:
       - 81
     - trackB: "B"
       title: "Integrating Peers and Social Media"
+      zoom: https://us06web.zoom.us/j/87292584381?pwd=T9tY8mpXylna4LuV7GNVK5KAE4deLM.1
       talks:
       - 30
       - 80
       - 33
     - trackC: "C"
       title: "Panel"
+      zoom: https://us06web.zoom.us/j/81606695471?pwd=7aV96KhKktG6W6btGI3phC7fmHsvhd.1
       talks:
       - 47
     - trackD: "D"
       title: "Presentation"
+      zoom: https://us06web.zoom.us/j/86351736869?pwd=NIbnzQZyabSG1ACOOzmLe0YsNOofuL.1
       talks:
       - 1002
 
@@ -83,9 +93,11 @@
   parallel:
     - trackA: "A"
       title: "Workshop"
+      zoom: https://us06web.zoom.us/j/85282276498?pwd=2evfwgiqRkUeazL4kCU1iAlRfsyPIX.1
       talks:
       - 48
     - trackB: "B"
+      zoom: https://us06web.zoom.us/j/89338501578?pwd=75oFMSacSD4FXHBx5f8rwb3vZu324b.1
       title: "Organized Session"
       talks:
       - 29
@@ -94,6 +106,7 @@
       talks:
       - 7
     - trackD: "D"
+      zoom: https://us06web.zoom.us/j/88556297408?pwd=yg2t31hVR9D9vGUgcUvI9WGfhkJaFx.1
       title: "Workshop"
       talks:
       - 6
@@ -102,11 +115,13 @@
   day: 1
   time: "6:00 --- 7:00 PM EDT"
   title: "<a href='/grading-conference/social-hour/' target='_blank'>Social Hour</a>"
+  zoom: https://us06web.zoom.us/j/86153857467?pwd=yM9d4AvN16rPb7aOJXdOlJvZRMJkCu.1
  
 - slot: 2.1
   day: 2
   time: "11:00 AM --- 12:00 PM EDT"
   title: "Welcome Back & Keynote: Brie Tripp"
+  zoom: https://us06web.zoom.us/j/89079868469?pwd=QW1iNEZfbDH2k2poaPiYBpkKDNwacj.1
   keynote-title: "From Gatekeeping to Growth: How Quiz Retakes Reshape Student Learning and Motivation"
   keynote-abstract: |
     Stretching back to the 18th century, grades have long served as both a cornerstone of education and a gateway to future career opportunities. Yet, in practice, grading practices can (re)produce inequities and cause students to feel inadequate and unmotivated. While alternative grading approaches offer promise, they are often time intensive and impractical in larger classroom settings. 
@@ -127,6 +142,7 @@
   day: 2
   time: "12:30 --- 1:30 PM EDT"
   title: "<a href='/grading-conference/abstracts/#poster-abstracts' target='_blank'>Poster Session</a>"
+  zoom: https://us06web.zoom.us/j/83582674451?pwd=NBzWqWm16T41lxdGIg9iFla1XMESyi.1
 
 
 - slot: 2.25
@@ -141,18 +157,21 @@
   parallel:
     - trackA: "A"
       title: "Impacts on Faculty and Students"
+      zoom: https://us06web.zoom.us/j/88181983422?pwd=Uyeskd5QezbFyXjgAaaUnxcgLZYv67.1
       talks:
       - 18
       - 69
       - 26 
     - trackB: "B"
       title: "Novel Implementations"
+      zoom: https://us06web.zoom.us/j/87640175614?pwd=Oa4laZRSoOtTNxD9jL8ap0qMXJbcaM.1
       talks:
       - 37
       - 54
       - 73
     - trackC: "C"
       title: "Panel"
+      zoom: https://us06web.zoom.us/j/81315831195?pwd=kwQ4KYcu5h5TuIlEvv7Il4OQZ1Y8Ja.1
       talks:
       - 52
   
@@ -168,14 +187,17 @@
   parallel: 
   - trackA: "A"
     title: "Workshop"
+    zoom: https://us06web.zoom.us/j/81490527519?pwd=QTAgM96HK7AeENooNrXvR2RY4TSEqM.1
     talks:
     - 72
   - trackB: "B"
     title: "Workshop"
+    zoom: https://us06web.zoom.us/j/83177240731?pwd=Vh7tgLgHQreJ3CTKeVq8znS1v9o2FU.1
     talks:
     - 45
   - trackC: "C"
     title: "Panel"
+    zoom: https://us06web.zoom.us/j/82306211335?pwd=0U1B7csH2OjCwNTxVZ2ya8ACl7Yrau.1
     talks:
     - 25
   
@@ -183,11 +205,13 @@
   day: 2
   time: "5:00 --- 6:00 PM EDT"
   title: "<a href='/grading-conference/social-hour/' target='_blank'>Social Hour</a>"
+  zoom: https://us06web.zoom.us/j/89215812308?pwd=XfvYiB0GBMIuSlV0zGIsVNj1GJaFbT.1
  
 - slot: 3.1
   day: 3
   time: "11:00 AM --- 12:00 PM EDT"
   title: "Welcome Back & Keynote: Jesse Stommel"
+  zoom: https://us06web.zoom.us/j/85364314767?pwd=1iAZX7lvOiQmiivqPIGkZeKkLoMl5H.1
   keynote-title: 'Do We Need the Word "Ungrading"?'
   keynote-abstract: |
     I started ungrading in 2001, my first semester as instructor of record. Over the last 26 years, I have never put a grade on a piece of student work. While I’d used the word in workshops and talks as early as 2003, I first explicitly published about “ungrading” in an October 2017 piece titled <a href="https://www.jessestommel.com/why-i-dont-grade/">“Why I Don’t Grade,”</a> where I wrote, “Grades are currency for a capitalist system that reduces teaching and learning to a mere transaction. Grading is a massive co-ordinated effort to take humans out of the educational process.” In that piece, I “withheld the mechanics of ungrading deliberately, because I agree with <a href="https://www.alfiekohn.org/article/trouble-rubrics/">Alfie Kohn</a> who writes, ‘When the how’s of assessment preoccupy us, they tend to chase the why’s back into the shadows.’”
@@ -206,18 +230,21 @@
   parallel:
   - trackA: "A"
     title: "Integrating Teaching Teams"
+    zoom: https://us06web.zoom.us/j/89700792737?pwd=b9ynLU5Gf9PJyAbpsZWbmamXi4Glpz.1
     talks:
     - 13
     - 75
     - 60
   - trackB: "B"
     title: "Systems of Scale"
+    zoom: https://us06web.zoom.us/j/81129860556?pwd=XD7av9sAIadWhGqibtQN2oKw1QJpaX.1
     talks:
     - 28
     - 43
     - 44
   - trackC: "C"
     title: "Panel"
+    zoom: https://us06web.zoom.us/j/81504405632?pwd=BZ0pbjKi4tR8UgpdvyG2yZiQXn2gwL.1
     talks:
     - 49
 
@@ -233,18 +260,21 @@
   parallel:
   - trackA: "A"
     title: "Supporting Student Identity Development"
+    zoom: https://us06web.zoom.us/j/84749228136?pwd=gG6FlYG4zJju0izJmhbR03oRjvycDa.1
     talks:
     - 3
     - 71
     - 15
   - trackB: "B"
     title: "Novel Implementations in Math Courses"
+    zoom: https://us06web.zoom.us/j/89727243224?pwd=I8Se5bucI4gTL0MRtrHDkfDnHl668f.1
     talks:
     - 77
     - 5
     - 17
   - trackC: "C"
     title: "Panel"
+    zoom: https://us06web.zoom.us/j/88005755932?pwd=abTcRIC0NRteKdDvtKqy0nzyyzR4R8.1
     talks: 
     - 46
   
@@ -260,18 +290,21 @@
   parallel:
   - trackA: "A"
     title: "Finding Flexibility, Equity, and Joy"
+    zoom: https://us06web.zoom.us/j/85195696080?pwd=FJXfToa9dfigehoJ9Cn3yPm19pVbOt.1
     talks:
     - 31
     - 34
     - 76
   - trackB: "B"
     title: "Enhancing Feedback and Communication"
+    zoom: https://us06web.zoom.us/j/84376411675?pwd=Xv3ThOfW8wabvblKqaBTb0hjkQa7ZM.1
     talks:
     - 66
     - 50
     - 8
   - trackC: "C"
     title: "Workshop"
+    zoom: https://us06web.zoom.us/j/82149747820?pwd=8d6MhzFomYuFVUQZq45W0KlCVZrob3.1
     talks:
     - 40
   
@@ -279,3 +312,4 @@
   day: 3
   time: "5:15 --- 5:45 PM EDT"
   title: "Closing Session"
+  zoom: https://us06web.zoom.us/j/82244305566?pwd=xgYuia7X9BDabDtEC3rtqbN7Xwofkg.1

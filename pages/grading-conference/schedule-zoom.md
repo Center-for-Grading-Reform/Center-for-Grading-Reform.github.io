@@ -11,7 +11,7 @@ permalink           : "/grading-conference/schedule-zoom/"
 
  Please note that all times are Eastern Daylight Time (UTC-4).
 
-{% assign dates = "Wednesday, June 11; Thursday, June 12; Friday, June 13" | split: "; "%}
+{% assign dates = "Tuesday, June 16; Wednesday, June 17; Thursday, June 18" | split: "; "%}
 {% assign days = "1,2,3" | split: "," | to_i %}
 
 
@@ -25,17 +25,19 @@ permalink           : "/grading-conference/schedule-zoom/"
  <div id="{{ref}}" class="content">
 <table class="schedule">
 
-{% assign conference_day = site.data.twentytwentyfive.conference_sessions | where: "day", day  | sort: "slot" %}
+{% assign conference_day = site.data.twentytwentysix.conference_sessions | where: "day", day  | sort: "slot" %}
 {% for slot in conference_day %}
 <tr>
   <td markdown="span" > {{slot.time}} </td>
   {%if slot.parallel %}
     {%for track in slot.parallel %}
      <td style="font-size: 1.05em">
-        <b>{{track.title}}</b> {% if track.slides-static %} (<a href="{{track.slides-static}}" target="_blank">Slides</a>){% endif %}
+        {% assign track_letter = track.first.last %}
+        <b>{{slot.slot}}{{track_letter}} {{track.title}}</b> {% if track.zoom %}(<a href="{{track.zoom}}" target="_blank">Zoom Link</a>)
+        {% endif %} {% if track.slides-static %} (<a href="{{track.slides-static}}" target="_blank">Slides</a>){% endif %}
         <ul class="accordion" data-accordion style="margin-left: 0px">
         {% for id in track.talks %}
-        {% assign talk = site.data.twentytwentyfive.conference_talks | where: "year", 2025 | find: "abstract_id", id %} 
+        {% assign talk = site.data.twentytwentysix.conference_talks  | find: "abstract_id", id %} 
         {% assign ref = "paper_" | append: id %}
         {% assign href = "#" | append: ref %}
         <li class="accordion-navigation" >
@@ -51,19 +53,31 @@ permalink           : "/grading-conference/schedule-zoom/"
     {% endfor %}
   {% else %}
   <td colspan="4" style="text-align: center; font-size:1.1em" >
-    {% assign title = slot.title %}
+    {% if slot.title == "Break" or slot.title contains "Social Hour" %}
+      {% assign title =  slot.title  %}
+      {% if slot.title contains "Social Hour" %}
+        {% if slot.zoom %}
+          {% assign title = title | append: ' (<a href="' | append: slot.zoom | append: '" target="_blank">Zoom Link</a>)' %}
+        {% endif %}
+      {% endif %}
+    {% else %}
+      {% assign title =  slot.slot | append: " " | append: slot.title  %}
+      {% if slot.zoom %}
+        {% assign title = title | append: ' (<a href="' | append: slot.zoom | append: '" target="_blank">Zoom Link</a>)' %}
+      {% endif %}
+    {% endif %}
     {% if slot.slides-static %}
       {% assign title = title | append: " (<a href='" | append: slot.slides-static | append: "' target='_blank'>Slides</a>)" %}
     {% endif %}
-    {% if slot.keynote-title %}
-      {% assign title = title | append: " (<a href='/grading-conference/2025-keynote-resources/'>Resources</a>)" %}
-    {% endif %}
     <b>{{title}}</b>
 
+    {% if slot.break %}
+      <p>Join us in the <a href="https://us06web.zoom.us/j/4249882420?pwd=s96xpLQROEreyni2wAxYXOkS4AUDo9.1&omn=84303120915" target="_blank">Watercooler Zoom Room</a> to hang out and chat with fellow attendees, or engage asynchronously on the <a href="https://padlet.com/emilydonahoe/grading-conference-2026-what-questions-do-you-have-about-alt-7g8tw00tpy9fhzng" target="_blank">Padlet</a>.</p>
+    {% endif %}
 
 
     {% if slot.poster-gallery %}
-      <p>View the posters in the <a href="{{slot.poster-gallery}}" target="_blank">poster gallery</a> anytime.</p>
+      <p>View the posters in the <a href="{{slot.poster-gallery}}" target="_blank">poster gallery</a> anytime, and then join the <a href="{{slot.zoom}}" target="_blank">Zoom room</a> at this time to chat with poster presenters.</p>
     {% endif %}
 
     {% if slot.keynote-title %}
