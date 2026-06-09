@@ -21,8 +21,8 @@ Additionally, we’re excited to bring back a series of sessions from past confe
 
 Some of our most popular sessions at past conferences have been our student panels, and we expect that to continue this year. The last slot of day 1 will feature a panel of students from Syracuse University reflecting on their experiences in an honors seminar about the “Problems with Grades.” Its goal is not only to bring student voices into the scholarly conversation about assessment but also to give instructors some insight into how we can help our students think more productively about grades.
 
-That’s not all you’ll see on day 1: there are also sessions on student motivation, peer feedback, AI and alternative grading, aligning grading with our values, teaching Generation Alpha, preparing faculty for ungrading, and more. Plus, all attendees are welcome to join us for the first conference social hour from 6:00-7:00 pm EDT. 
+That’s not all you’ll see on day 1: there are also sessions on student motivation, peer feedback, AI and alternative grading, aligning grading with our values, teaching Generation Alpha, preparing faculty for ungrading, and more. Plus, all attendees are welcome to join us for the first conference [social hour](https://www.centerforgradingreform.org/grading-conference/social-hour/) from 6:00-7:00 pm EDT. 
 
-There’s a little something for everyone on day 1—we hope to see you there!
+There’s a little something for everyone on [day 1](https://www.centerforgradingreform.org/grading-conference/schedule/)—we hope to see you there!
 
 _Emily Pitts Donahoe is the Associate Director of Instructional Support in the Center for Excellence in Teaching and Learning and a Lecturer of Writing and Rhetoric at the University of Mississippi. She is a member of the organizing team of the Grading Conference, and writes regularly about alternative grading on her blog [Unmaking the Grade](https://emilypittsdonahoe.substack.com/)._
