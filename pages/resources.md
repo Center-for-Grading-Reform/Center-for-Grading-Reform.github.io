@@ -6,7 +6,7 @@ permalink           : "/resources/"
 
 ## Communities of Practice
 
-- [Alternative Grading Slack Workspace](https://join.slack.com/t/alternativegrading/shared_invite/zt-21m6h9wc0-Y2xrS92vJWZIa~PUf1Jdcg)
+- [Alternative Grading Slack Workspace](https://join.slack.com/t/alternativegrading/shared_invite/zt-4170t3qcw-xaRwH29vMLjtLLFEDu5OjA)
 - [\#Ungrading HUB Discord Server](https://discord.gg/d2tdMtKQbp)
 - [Biology Grading for Growth Community](https://sites.google.com/view/biogradingforgrowth/home)
 - [Physics Grading for Growth Community Discord Server](https://discord.gg/bq9wG7s46w)
