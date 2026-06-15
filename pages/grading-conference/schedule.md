@@ -9,6 +9,9 @@ permalink           : "/grading-conference/schedule/"
 <script type="text/javascript"> $(function(){ $(document).foundation() }); </script>
 <script> var elem = new Foundation.Tabs(element, options); </script>
 
+{% include alert warning="A version of this schedule with zoom links for each session has been emailed to all registered participants.  Contact us at info@thegradingconference.com if you did not receive this message." %}
+
+
  Please note that all times are Eastern Daylight Time (UTC-4).
 
 {% assign dates = "Tuesday, June 16; Wednesday, June 17; Thursday, June 18" | split: "; "%}

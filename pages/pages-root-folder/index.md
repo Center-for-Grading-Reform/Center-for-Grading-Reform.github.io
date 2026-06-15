@@ -52,7 +52,7 @@ homepage: true
 The Center for Grading Reform seeks to advance education in the United States by supporting effective grading reform at all levels through conferences, educational workshops, professional development, research and scholarship, influencing public policy, and community building.
 
 <div class="button-group align-spaced text-center" >
-<a class="button radius r15" href="/grading-conference/registration/">Register for the 2026 Grading Conference, held June 16&ndash;18</a>
+<a class="button radius r15" href="/grading-conference/">The 2026 Grading Conference is June 16&ndash;18, 2026</a>
 </div>
 
 
