@@ -2,6 +2,7 @@
   day: 1
   time: "11:00 AM --- 11:30 AM EDT"
   title: "Welcome and Conference Orientation"
+  slides-static: https://docs.google.com/presentation/d/e/2PACX-1vTHaWjwHP3TkhNkjG3uRVePDAC7E5t98pRdsER_0r8-PF_l6ZUc73XW7DraRsVsb4tXJNZSPGUmeB8P/pub
   zoom: https://us06web.zoom.us/j/82413435537?pwd=oezbw6nqa0IsRcP9TaGaO7N5wHZZvb.1
 
 - slot: 1.2
@@ -9,6 +10,7 @@
   time: "11:30 AM --- 12:30 PM EDT"
   title: "Keynote: Sarah Silverman"
   zoom: https://us06web.zoom.us/j/82413435537?pwd=oezbw6nqa0IsRcP9TaGaO7N5wHZZvb.1
+  slides-static: https://docs.google.com/presentation/d/e/2PACX-1vTHaWjwHP3TkhNkjG3uRVePDAC7E5t98pRdsER_0r8-PF_l6ZUc73XW7DraRsVsb4tXJNZSPGUmeB8P/pub
   keynote-title: "Access friction in grading: Navigating conflicting student (and instructor) needs in student assessment"
   keynote-abstract: |
     Many instructors who opt for alternative grading methods do so because they believe that they are choosing a more inclusive, student centered approach to assessment. However, there are a variety of differences among students and instructors that may cause friction after the selection of any alternative grading approach: How should we balance differing student needs for the external motivation of due dates with the benefits for many students of flexibility and autonomy around when they submit assignments? If we use alternative grading or assessment approaches which emphasize process rather than final product, can differences in communication and executive functioning between students and faculty related to neurodiversity be addressed to ensure equity? This keynote talk brings the framework of "access friction" to bear on these questions and others. Derived from disability community and scholarship, access friction describes a situation in which access needs come into conflict, such as when a space chosen for its accessibility to one group is not accessible to another. Teaching methods, including grading and assessment methods, are also sites of access friction. This talk will offer several case studies in grading access friction, representing a range of student and instructor disabilities and access needs, for discussion as well as opportunity for participants to share their own experiences with and approach to navigating access friction in grading.
@@ -25,6 +27,7 @@
   parallel:
     - trackA: "A"
       title: "Student Motivation"
+      slides-static: https://docs.google.com/presentation/d/e/2PACX-1vRRVes9p0d64a_DwgYAkBr2G-_RkKJD28JUgDv7igaqPoPWuOhr0UrN4BonwBEpyLojDML2ud-juRud/pub
       zoom: https://us06web.zoom.us/j/89693371975?pwd=WUs9iFeVA71wI4oAuCJIDpttyVrRG0.1
       talks:
       - 16
@@ -32,6 +35,7 @@
       - 68
     - trackB: "B"
       title: "Scaling Implementation"
+      slides-static: https://docs.google.com/presentation/d/e/2PACX-1vSBannp1FfWu3lbBomMaKIXqgptcVr-aY4xxmlqCcjfH-eBT7tQduQOqoTyB8hBC_DoPbF6ZFKH27ao/pub
       zoom: https://us06web.zoom.us/j/84182363533?pwd=CxhB4dZwAgFlrmjzpZTmnrKBGE9qEv.1
       talks:
       - 22
@@ -39,11 +43,13 @@
       - 64
     - trackC: "C"
       title: "Panel"
+      slides-static: https://docs.google.com/presentation/d/e/2PACX-1vSnk1HoTQpDXdnZGYaCSbtB0UReOphNN1-zMw6ur636oAvaLWi77J9GFbqxLE7FKAApmj93AnrJOlDR/pub
       zoom: https://us06web.zoom.us/j/81088970152?pwd=61ioYWkUVTYNJsoj8VTSnDQEQaKwNl.1
       talks:
       - 27
     - trackD: "D"
       title: "Presentation"
+      slides-static: https://docs.google.com/presentation/d/e/2PACX-1vQwc4gNJnurAmjr8pVO0hUBxWV8JBddIdoRxUqrC3J1H93KwWMUHBCUyvZgSJLoWOicOT4NGxgwJeZQ/pub
       zoom: https://us06web.zoom.us/j/87129858072?pwd=5ArZjENatTm0uPJmB1bTpqL2v5rhL5.1
       talks:
       - 1001
@@ -60,11 +66,13 @@
   parallel:
     - trackA: "A"
       title: "Workshop"
+      slides-static: https://docs.google.com/presentation/d/e/2PACX-1vQ-nBKQCQ6VfG2SqEDRbu-otCpS6GSicXqFe-u5QUvElg_nesolizkYUj41Oqqw_VtCl7ZJqmpKAtbb/pub
       zoom: https://us06web.zoom.us/j/87056076507?pwd=GnSbFaJIvmbFlx84OwrCJAbIv2zwTX.1
       talks:
       - 81
     - trackB: "B"
       title: "Redesigning the Feedback Loop: Peer Evaluation, Digital Spaces, and Mastery-Based Grading"
+      slides-static: https://docs.google.com/presentation/d/e/2PACX-1vRmv1I-iRq29FvsbsqAZot18TFYt-iJWEluZNnEoTYjsETzz2nf95rf-3CRWMKqKUIKlvhsR2YWnSTk/pub
       zoom: https://us06web.zoom.us/j/87292584381?pwd=T9tY8mpXylna4LuV7GNVK5KAE4deLM.1
       talks:
       - 30
@@ -72,11 +80,13 @@
       - 33
     - trackC: "C"
       title: "Panel"
+      slides-static: https://docs.google.com/presentation/d/e/2PACX-1vTZJYFxCuob8etayjAEHCVuSpUM2CIbap5gAYFgKKT36TrabL_xKwhctSI7wS-UL6lP7bVyYomUcgWF/pub
       zoom: https://us06web.zoom.us/j/81606695471?pwd=7aV96KhKktG6W6btGI3phC7fmHsvhd.1
       talks:
       - 47
     - trackD: "D"
       title: "Presentation"
+      slides-static: https://docs.google.com/presentation/d/e/2PACX-1vTGQo47qb0dEUrGlCOqhAcgNv3tO45PJBOdDpP3qbWoydftF1UAPInEA4JlUrVmwRMbzlF7DXHnmHQr/pub
       zoom: https://us06web.zoom.us/j/86351736869?pwd=NIbnzQZyabSG1ACOOzmLe0YsNOofuL.1
       talks:
       - 1002
@@ -93,21 +103,25 @@
   parallel:
     - trackA: "A"
       title: "Workshop"
+      slides-static: https://docs.google.com/presentation/d/e/2PACX-1vT7ji5mJ_tByojiZCl3cpqhM3eCgaOqyP1W6Byi-FLUhWdzu6xU_hTM9u0CAvOnYdxM3Cl74uAqOLyo/pub
       zoom: https://us06web.zoom.us/j/85282276498?pwd=2evfwgiqRkUeazL4kCU1iAlRfsyPIX.1
       talks:
       - 48
     - trackB: "B"
       zoom: https://us06web.zoom.us/j/89338501578?pwd=75oFMSacSD4FXHBx5f8rwb3vZu324b.1
+      slides-static: https://docs.google.com/presentation/d/e/2PACX-1vSoyJH3mbJvwb-pg_mnKal3-lfyt040AUCtDIfKpKDElRKq-PPEWuGq85E4me_v_McK5WMFelqEX6U6/pub
       title: "Organized Session"
       talks:
       - 29
     - trackC: "C"
       title: "Panel"
+      slides-static: https://docs.google.com/presentation/d/e/2PACX-1vRNP4Hk0TbzGL7OH_4jAytrNAK5IHpQ3jADViBX3kyiqaf7fcOJfT-5mNFTFb4FU3zrYNYv6YQugLq6/pub
       zoom: https://us06web.zoom.us/j/86135628044?pwd=Ffgjqt6dV6MulaLNB49LmUI386V1Sq.1
       talks:
       - 7
     - trackD: "D"
       zoom: https://us06web.zoom.us/j/88556297408?pwd=yg2t31hVR9D9vGUgcUvI9WGfhkJaFx.1
+      slides-static: https://docs.google.com/presentation/d/e/2PACX-1vSMLyNHP3QI0-jVMgUmUF3eb9ZdOYyEzYl9TydbLQg7QS80TkyTP_jagGGlt1VicvCIfwh75wYdGN9j/pub
       title: "Workshop"
       talks:
       - 6
@@ -122,6 +136,7 @@
   day: 2
   time: "11:00 AM --- 12:00 PM EDT"
   title: "Welcome Back & Keynote: Brie Tripp"
+  slides-static: https://docs.google.com/presentation/d/e/2PACX-1vRXBt_A04mXjFYH6R5ZE0PfxP3TT4yjyENcaNPFr6VzRe1uZvpvmeJ2UNjVAYscfStLKBUdfMgWEB-q/pub
   zoom: https://us06web.zoom.us/j/89079868469?pwd=QW1iNEZfbDH2k2poaPiYBpkKDNwacj.1
   keynote-title: "From Gatekeeping to Growth: How Quiz Retakes Reshape Student Learning and Motivation"
   keynote-abstract: |
@@ -144,6 +159,7 @@
   time: "12:30 --- 1:30 PM EDT"
   title: "<a href='/grading-conference/abstracts/#poster-abstracts' target='_blank'>Poster Session</a>"
   zoom: https://us06web.zoom.us/j/83582674451?pwd=NBzWqWm16T41lxdGIg9iFla1XMESyi.1
+  poster-gallery: https://docs.google.com/presentation/d/e/2PACX-1vRvP9ERJ2oVE9hssOE4NKrPtIcWzXM85XIbH96KJelNOvpjG2m02brF2Vuee0AaGUXM7-JTYhp7tX69/pub
 
 
 - slot: 2.25
@@ -158,6 +174,7 @@
   parallel:
     - trackA: "A"
       title: "Impacts on Faculty and Students"
+      slides-static: https://docs.google.com/presentation/d/e/2PACX-1vQRgcbjo6hogBDX8TGxMXxwcCLlmeXlUyY7hAeC22yn6Vjv1X9bDe2IQSPDlVsbjlTnn8VYN03hv0xj/pub
       zoom: https://us06web.zoom.us/j/88181983422?pwd=Uyeskd5QezbFyXjgAaaUnxcgLZYv67.1
       talks:
       - 18
@@ -165,6 +182,7 @@
       - 26 
     - trackB: "B"
       title: "Novel Implementations"
+      slides-static: https://docs.google.com/presentation/d/e/2PACX-1vQU0YblkC2xXfkyvejqbisLguqtSTMhBbhcmUfw5GF1WrGS5ZWhjKZKiievTHqAYvMVqRPOVs8YpT3r/pub
       zoom: https://us06web.zoom.us/j/87640175614?pwd=Oa4laZRSoOtTNxD9jL8ap0qMXJbcaM.1
       talks:
       - 37
@@ -172,6 +190,7 @@
       - 73
     - trackC: "C"
       title: "Panel"
+      slides-static: https://docs.google.com/presentation/d/e/2PACX-1vQtOPorsy1Gwfg7S4RSmMOlSyg7tB5fmmOD-QZ_dEUccXVQHKEB5PLMVy8X3qAIAsC2dMF-T4CepLLo/pub
       zoom: https://us06web.zoom.us/j/81315831195?pwd=kwQ4KYcu5h5TuIlEvv7Il4OQZ1Y8Ja.1
       talks:
       - 52
@@ -188,16 +207,19 @@
   parallel: 
   - trackA: "A"
     title: "Workshop"
+    slides-static: https://docs.google.com/presentation/d/e/2PACX-1vT03FRYyHozlena26osNG-XD_eVRpZ0Vt-vhHgC8992QTEvma0papGw93CF22ESsBGJ1os0PTc5K9j9/pub
     zoom: https://us06web.zoom.us/j/81490527519?pwd=QTAgM96HK7AeENooNrXvR2RY4TSEqM.1
     talks:
     - 72
   - trackB: "B"
     title: "Workshop"
+    slides-static: https://docs.google.com/presentation/d/e/2PACX-1vRr0tcQJJZQe37n4hRsynnEM8QjpmjSVeDqjveYO4PAe6WGvFfbU-5o7ZHgjaJ1G8GV7BX_J8r09zSv/pub
     zoom: https://us06web.zoom.us/j/83177240731?pwd=Vh7tgLgHQreJ3CTKeVq8znS1v9o2FU.1
     talks:
     - 45
   - trackC: "C"
     title: "Panel"
+    slides-static: https://docs.google.com/presentation/d/e/2PACX-1vS-GaylFcVLL0qtMpcJiq5ZbxCTlrVVlRBjKz1SAr_7qnyCZCoueDnVIBd6ImSje6gyc4IZcvmmL1L1/pub
     zoom: https://us06web.zoom.us/j/82306211335?pwd=0U1B7csH2OjCwNTxVZ2ya8ACl7Yrau.1
     talks:
     - 25
@@ -213,6 +235,7 @@
   time: "11:00 AM --- 12:00 PM EDT"
   title: "Welcome Back & Keynote: Jesse Stommel"
   zoom: https://us06web.zoom.us/j/85364314767?pwd=1iAZX7lvOiQmiivqPIGkZeKkLoMl5H.1
+  slides-static: https://docs.google.com/presentation/d/e/2PACX-1vQjv-NSCFX1MULeoOSh2e3jzisjgiI24RlRH2A5MnCLNj53vO37p6E8lA00EUW90LSsTxRDP5ie2BSM/pub
   keynote-title: 'Do We Need the Word "Ungrading"?'
   keynote-abstract: |
     I started ungrading in 2001, my first semester as instructor of record. Over the last 26 years, I have never put a grade on a piece of student work. While I’d used the word in workshops and talks as early as 2003, I first explicitly published about “ungrading” in an October 2017 piece titled <a href="https://www.jessestommel.com/why-i-dont-grade/">“Why I Don’t Grade,”</a> where I wrote, “Grades are currency for a capitalist system that reduces teaching and learning to a mere transaction. Grading is a massive co-ordinated effort to take humans out of the educational process.” In that piece, I “withheld the mechanics of ungrading deliberately, because I agree with <a href="https://www.alfiekohn.org/article/trouble-rubrics/">Alfie Kohn</a> who writes, ‘When the how’s of assessment preoccupy us, they tend to chase the why’s back into the shadows.’”
@@ -231,6 +254,7 @@
   parallel:
   - trackA: "A"
     title: "Integrating Teaching Teams"
+    slides-static: https://docs.google.com/presentation/d/e/2PACX-1vR0g2-QU8NSk7fSQDpT11iqrX7qlodrEbUDpjDd0fC8fjth2VD2wHtOIeuuO8K2MQyZpIWVO4MtRwhg/pub
     zoom: https://us06web.zoom.us/j/89700792737?pwd=b9ynLU5Gf9PJyAbpsZWbmamXi4Glpz.1
     talks:
     - 13
@@ -238,6 +262,7 @@
     - 60
   - trackB: "B"
     title: "Systems of Scale"
+    slides-static: https://docs.google.com/presentation/d/e/2PACX-1vQy_0ILQUzJTFIXn-nvA0YsCWlH0MR4gigs01mk-1lTjfeIupx5o1Jht0fCeAcU1za7rnr8fziA5ux8/pub
     zoom: https://us06web.zoom.us/j/81129860556?pwd=XD7av9sAIadWhGqibtQN2oKw1QJpaX.1
     talks:
     - 28
@@ -245,6 +270,7 @@
     - 44
   - trackC: "C"
     title: "Panel"
+    slides-static: https://docs.google.com/presentation/d/e/2PACX-1vSoovPjN0nnytBL4mv17_lAY3sNsdPX2ZumVUdNGAfMMf4QyIEasKzw73Uv-NEuiCShFAPhHftlPvqq/pub
     zoom: https://us06web.zoom.us/j/81504405632?pwd=BZ0pbjKi4tR8UgpdvyG2yZiQXn2gwL.1
     talks:
     - 49
@@ -261,6 +287,7 @@
   parallel:
   - trackA: "A"
     title: "Supporting Student Identity Development"
+    slides-static: https://docs.google.com/presentation/d/e/2PACX-1vRQEI6a9ktnMP5SvmgszJDts4McLJr2Rtki-A86jPx87L7SlQETMyvxiRedMy6f5AbuUizjWRR8H0Km/pub
     zoom: https://us06web.zoom.us/j/84749228136?pwd=gG6FlYG4zJju0izJmhbR03oRjvycDa.1
     talks:
     - 3
@@ -268,6 +295,7 @@
     - 15
   - trackB: "B"
     title: "Novel Implementations in Math Courses"
+    slides-static: https://docs.google.com/presentation/d/e/2PACX-1vRb07XdSERZGLYzXvcekG4FU97lue3OpXjIVkz3l85tQSBFco31tFGcJ1jeNlJboKAZSIEu_Au8Ebu-/pub
     zoom: https://us06web.zoom.us/j/89727243224?pwd=I8Se5bucI4gTL0MRtrHDkfDnHl668f.1
     talks:
     - 77
@@ -275,6 +303,7 @@
     - 17
   - trackC: "C"
     title: "Panel"
+    slides-static: https://docs.google.com/presentation/d/e/2PACX-1vQwrPj3N2kmwIwfxWgQL4iVQeDcIxtAIkYJLhgmGBd-echYLCvs_OTyZFOFiNwvJDB-UzOjWswjeDgX/pub
     zoom: https://us06web.zoom.us/j/88005755932?pwd=abTcRIC0NRteKdDvtKqy0nzyyzR4R8.1
     talks: 
     - 46
@@ -291,6 +320,7 @@
   parallel:
   - trackA: "A"
     title: "Finding Flexibility, Equity, and Joy"
+    slides-static: https://docs.google.com/presentation/d/e/2PACX-1vSb8LNdSaZ82NkGurkytLbabEGSvqksCRFGDKWQEF-QP9Y1YdXtsAG1onnAb1CsvW4qI_fw-1Gp7x1L/pub
     zoom: https://us06web.zoom.us/j/85195696080?pwd=FJXfToa9dfigehoJ9Cn3yPm19pVbOt.1
     talks:
     - 31
@@ -298,6 +328,7 @@
     - 76
   - trackB: "B"
     title: "Enhancing Feedback and Communication"
+    slides-static: https://docs.google.com/presentation/d/e/2PACX-1vSK3o0sthbE0VYk3iBhTAGk01kVj0jGRaheQQy3X9MI6QnrKZ2u6owUTBMJQYSqAycasqjOuwCpstZq/pub
     zoom: https://us06web.zoom.us/j/84376411675?pwd=Xv3ThOfW8wabvblKqaBTb0hjkQa7ZM.1
     talks:
     - 66
@@ -305,6 +336,7 @@
     - 8
   - trackC: "C"
     title: "Workshop"
+    slides-static: https://docs.google.com/presentation/d/e/2PACX-1vSI4IIN0EdyfJmLQ43h50A-scXV-LF1YoC-_UvjF-RaLSrytRm9voHsoo6UFaMMBS5RzgCiDMYteLJ1/pub
     zoom: https://us06web.zoom.us/j/82149747820?pwd=8d6MhzFomYuFVUQZq45W0KlCVZrob3.1
     talks:
     - 40
@@ -313,4 +345,5 @@
   day: 3
   time: "5:15 --- 5:45 PM EDT"
   title: "Closing Session"
+  slides-static: https://docs.google.com/presentation/d/e/2PACX-1vQIUBFeuA2EsTpL46CxWsgnCGffYRSpH4JDa42yuVmmTdzWdy4E_6Mf4cnXlBzNvmzRroU_JCHD3Fym/pub
   zoom: https://us06web.zoom.us/j/82244305566?pwd=xgYuia7X9BDabDtEC3rtqbN7Xwofkg.1
