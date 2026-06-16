@@ -72,7 +72,7 @@ permalink           : "/grading-conference/schedule-zoom/"
     <b>{{title}}</b>
 
     {% if slot.break %}
-      <p>Join us in the <a href="https://us06web.zoom.us/j/4249882420?pwd=s96xpLQROEreyni2wAxYXOkS4AUDo9.1&omn=84303120915" target="_blank">Watercooler Zoom Room</a> to hang out and chat with fellow attendees, or engage asynchronously on the <a href="https://padlet.com/emilydonahoe/grading-conference-2026-what-questions-do-you-have-about-alt-7g8tw00tpy9fhzng" target="_blank">Padlet</a>.</p>
+      <p>Join us in the <a href="https://us06web.zoom.us/j/82285853712?pwd=IPHv8a8ATACnvsiV1L0xUhdzbiqok2.1" target="_blank">Watercooler Zoom Room</a> to hang out and chat with fellow attendees, or engage asynchronously on the <a href="https://padlet.com/emilydonahoe/grading-conference-2026-what-questions-do-you-have-about-alt-7g8tw00tpy9fhzng" target="_blank">Padlet</a>.</p>
     {% endif %}
 
 
