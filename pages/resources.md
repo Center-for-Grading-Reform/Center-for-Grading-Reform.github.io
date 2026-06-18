@@ -10,6 +10,7 @@ permalink           : "/resources/"
 - [\#Ungrading HUB Discord Server](https://discord.gg/d2tdMtKQbp)
 - [Biology Grading for Growth Community](https://sites.google.com/view/biogradingforgrowth/home)
 - [Physics Grading for Growth Community Discord Server](https://discord.gg/bq9wG7s46w)
+- [CdP-PAN (French language community of practice)](https://www.aqpc.qc.ca/fr/cop-pratiques_notation)
 
 ## Introductory Resources
 
