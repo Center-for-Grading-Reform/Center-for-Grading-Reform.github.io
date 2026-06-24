@@ -14,7 +14,7 @@ The mission of the Grading Conference is to provide an annual meeting place to p
 - Facilitate systemic change in grading practices.
 
 
-{% include alert warning="The 2026 Grading Conference will be held June 16--18, 2026. " %}
+{% include alert warning="The 2026 Grading Conference was held June 16--18, 2026. " %}
 
 The Grading Conference is the flagship event of the Center for Grading Reform.
 Hosted virtually each June, we bring together hundreds of postsecondary educators to share innovations and
