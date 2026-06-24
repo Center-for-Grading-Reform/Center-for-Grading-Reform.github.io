@@ -1,15 +1,13 @@
-- name: Twitter
-  url: http://twitter.com/Grading4Growth
-  class: icon-twitter
-  title: "@Grading4Growth"
-
 - name: Bluesky
   url: https://bsky.app/profile/thegradingconference.com
   #class: fa-brands fa-bluesky
   class: fa-brands fa-bluesky
   title: "@thegradingconference.com"
 
-
+- name: LinkedIn
+  url: https://www.linkedin.com/company/center-for-grading-reform
+  class: fa-brands fa-linkedin
+  title: "Center for Grading Reform"
 
 # - name: Facebook
 #   url: http://www.facebook.com/
