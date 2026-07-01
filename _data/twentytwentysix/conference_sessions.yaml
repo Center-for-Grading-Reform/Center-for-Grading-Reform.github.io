@@ -2,6 +2,9 @@
   day: 1
   time: "11:00 AM --- 11:30 AM EDT"
   title: "Welcome and Conference Orientation"
+  recording: https://youtu.be/_1FFDZeTlFU 
+  chat: https://drive.google.com/file/d/1iKf_RUXRwGKzTTnS1e_bqmH5XT_aGAtA/view?usp=sharing 
+  slides: https://docs.google.com/presentation/d/1nFP4ADAjwG07FD5q5GRDV0xwzneiKANeDbG-Xc2nFo0/edit?usp=sharing
   slides-static: https://docs.google.com/presentation/d/e/2PACX-1vTHaWjwHP3TkhNkjG3uRVePDAC7E5t98pRdsER_0r8-PF_l6ZUc73XW7DraRsVsb4tXJNZSPGUmeB8P/pub
   zoom: https://us06web.zoom.us/j/82413435537?pwd=oezbw6nqa0IsRcP9TaGaO7N5wHZZvb.1
 
@@ -9,6 +12,9 @@
   day: 1
   time: "11:30 AM --- 12:30 PM EDT"
   title: "Keynote: Sarah Silverman"
+  recording: https://youtu.be/_1FFDZeTlFU 
+  chat: https://drive.google.com/file/d/1iKf_RUXRwGKzTTnS1e_bqmH5XT_aGAtA/view?usp=sharing 
+  slides: https://docs.google.com/presentation/d/1nFP4ADAjwG07FD5q5GRDV0xwzneiKANeDbG-Xc2nFo0/edit?usp=sharing
   zoom: https://us06web.zoom.us/j/82413435537?pwd=oezbw6nqa0IsRcP9TaGaO7N5wHZZvb.1
   slides-static: https://docs.google.com/presentation/d/e/2PACX-1vTHaWjwHP3TkhNkjG3uRVePDAC7E5t98pRdsER_0r8-PF_l6ZUc73XW7DraRsVsb4tXJNZSPGUmeB8P/pub
   keynote-title: "Access friction in grading: Navigating conflicting student (and instructor) needs in student assessment"
@@ -28,6 +34,9 @@
   parallel:
     - trackA: "A"
       title: "Student Motivation"
+      recording: https://youtu.be/ZXEfHX-wdCY 
+      chat: https://drive.google.com/file/d/1LdmIXqaD69-iT1NiT8ioD_CE1A4cks0q/view?usp=sharing 
+      slides: https://docs.google.com/presentation/d/1Fs-sQ5qW0aJcwlhkqTBFdF9bPCT4rgTSrEQypEyGkg8/edit?usp=sharing
       slides-static: https://docs.google.com/presentation/d/e/2PACX-1vRRVes9p0d64a_DwgYAkBr2G-_RkKJD28JUgDv7igaqPoPWuOhr0UrN4BonwBEpyLojDML2ud-juRud/pub
       zoom: https://us06web.zoom.us/j/89693371975?pwd=WUs9iFeVA71wI4oAuCJIDpttyVrRG0.1
       talks:
@@ -36,6 +45,9 @@
       - 68
     - trackB: "B"
       title: "Scaling Implementation"
+      recording: https://youtu.be/8lC4VvofJPc 
+      chat: https://drive.google.com/file/d/1cjqvjFUDc1WLbWGiRXCFVI61CT9xrwN3/view?usp=sharing
+      slides: https://docs.google.com/presentation/d/1LqvdguNt2I-h6LxdOsyQGw24lUAwnvEINE0FPJ7KW8U/edit?usp=sharing
       slides-static: https://docs.google.com/presentation/d/e/2PACX-1vSBannp1FfWu3lbBomMaKIXqgptcVr-aY4xxmlqCcjfH-eBT7tQduQOqoTyB8hBC_DoPbF6ZFKH27ao/pub
       zoom: https://us06web.zoom.us/j/84182363533?pwd=CxhB4dZwAgFlrmjzpZTmnrKBGE9qEv.1
       talks:
@@ -44,12 +56,18 @@
       - 64
     - trackC: "C"
       title: "Panel"
+      recording: https://youtu.be/ms2I5TNicmc 
+      chat: https://drive.google.com/file/d/1GxoDxW_KodYszcx_IzJpXK_r_cyALvvq/view?usp=sharing 
+      slides: https://docs.google.com/presentation/d/1icWTWoqeJL6Kd-56xHdQtk-eflJsLdGvEnXV7MK0HT0/edit?usp=sharing
       slides-static: https://docs.google.com/presentation/d/e/2PACX-1vSnk1HoTQpDXdnZGYaCSbtB0UReOphNN1-zMw6ur636oAvaLWi77J9GFbqxLE7FKAApmj93AnrJOlDR/pub
       zoom: https://us06web.zoom.us/j/81088970152?pwd=61ioYWkUVTYNJsoj8VTSnDQEQaKwNl.1
       talks:
       - 27
     - trackD: "D"
       title: "Presentation"
+      recording: https://youtu.be/3bmLh0RzJvs 
+      chat: https://drive.google.com/file/d/1S4WLWNlqO4z5hxfKmhgnBUikcI-QhPuH/view?usp=sharing
+      slides: https://docs.google.com/presentation/d/1ZxC8ilbHhd5GNijPbpZymvoyc1W-LyA1TPSlGIpdX9E/edit?usp=sharing
       slides-static: https://docs.google.com/presentation/d/e/2PACX-1vQwc4gNJnurAmjr8pVO0hUBxWV8JBddIdoRxUqrC3J1H93KwWMUHBCUyvZgSJLoWOicOT4NGxgwJeZQ/pub
       zoom: https://us06web.zoom.us/j/87129858072?pwd=5ArZjENatTm0uPJmB1bTpqL2v5rhL5.1
       talks:
@@ -68,12 +86,18 @@
   parallel:
     - trackA: "A"
       title: "Workshop"
+      recording: https://youtu.be/GOSLAB3P00k 
+      chat: https://drive.google.com/file/d/10y6V_Z6f-8xFRoZM5LkxPlVfWtFh-MQ3/view?usp=sharing 
+      slides: https://docs.google.com/presentation/d/1PSbjqwvtsGU8VVpU3UV45HWFPJ2q4EnGKNRMisjDDGg/edit?usp=sharing
       slides-static: https://docs.google.com/presentation/d/e/2PACX-1vQ-nBKQCQ6VfG2SqEDRbu-otCpS6GSicXqFe-u5QUvElg_nesolizkYUj41Oqqw_VtCl7ZJqmpKAtbb/pub
       zoom: https://us06web.zoom.us/j/87056076507?pwd=GnSbFaJIvmbFlx84OwrCJAbIv2zwTX.1
       talks:
       - 81
     - trackB: "B"
       title: "Redesigning the Feedback Loop: Peer Evaluation, Digital Spaces, and Mastery-Based Grading"
+      recording: https://youtu.be/ilhr_IYgaLM 
+      chat: https://drive.google.com/file/d/14a1-0HW4GyOMcTtLyafbkGKQLb_NYKYb/view?usp=sharing 
+      slides: https://docs.google.com/presentation/d/1bmn0q-qPf8YUJgUU9pUn05copMR0E9XMC_JpOFJAWMg/edit?usp=sharing
       slides-static: https://docs.google.com/presentation/d/e/2PACX-1vRmv1I-iRq29FvsbsqAZot18TFYt-iJWEluZNnEoTYjsETzz2nf95rf-3CRWMKqKUIKlvhsR2YWnSTk/pub
       zoom: https://us06web.zoom.us/j/87292584381?pwd=T9tY8mpXylna4LuV7GNVK5KAE4deLM.1
       talks:
@@ -82,12 +106,18 @@
       - 33
     - trackC: "C"
       title: "Panel"
+      recording: https://youtu.be/VMMnCjHMPyE 
+      chat: https://drive.google.com/file/d/15DE_GtWMlOD-BOZeJ4I5b08MvLLELcZo/view?usp=sharing 
+      slides: https://docs.google.com/presentation/d/1IjqwuVVoTnPKcdODiJyt9N1nJk9Ga8AMS4cNdyCw0-w/edit?usp=sharing
       slides-static: https://docs.google.com/presentation/d/e/2PACX-1vTZJYFxCuob8etayjAEHCVuSpUM2CIbap5gAYFgKKT36TrabL_xKwhctSI7wS-UL6lP7bVyYomUcgWF/pub
       zoom: https://us06web.zoom.us/j/81606695471?pwd=7aV96KhKktG6W6btGI3phC7fmHsvhd.1
       talks:
       - 47
     - trackD: "D"
       title: "Presentation"
+      recording: https://youtu.be/KaoBMmzgQ64 
+      chat: https://drive.google.com/file/d/1Suor2UQkYmjD7zKDirs8p0qhGngBCoED/view?usp=sharing 
+      slides: https://docs.google.com/presentation/d/1EWXD62dHsgxcJhkPyAirppXHdgsFKsCIHMXIouuf4_g/edit?usp=sharing
       slides-static: https://docs.google.com/presentation/d/e/2PACX-1vTGQo47qb0dEUrGlCOqhAcgNv3tO45PJBOdDpP3qbWoydftF1UAPInEA4JlUrVmwRMbzlF7DXHnmHQr/pub
       zoom: https://us06web.zoom.us/j/86351736869?pwd=NIbnzQZyabSG1ACOOzmLe0YsNOofuL.1
       talks:
@@ -106,11 +136,17 @@
   parallel:
     - trackA: "A"
       title: "Workshop"
+      recording: https://youtu.be/6xPIaIONH30
+      chat: https://drive.google.com/file/d/18fekh3kldjCaMau7dF93BkyYmRjg_Ag7/view?usp=sharing
+      slides: https://docs.google.com/presentation/d/1Lpf_kifbCq0vULwZLBemJyg2fC_zgxjiGSP57002uhw/edit?usp=sharing
       slides-static: https://docs.google.com/presentation/d/e/2PACX-1vT7ji5mJ_tByojiZCl3cpqhM3eCgaOqyP1W6Byi-FLUhWdzu6xU_hTM9u0CAvOnYdxM3Cl74uAqOLyo/pub
       zoom: https://us06web.zoom.us/j/85282276498?pwd=2evfwgiqRkUeazL4kCU1iAlRfsyPIX.1
       talks:
       - 48
     - trackB: "B"
+      recording: https://youtu.be/sAiA1uU--XE
+      chat: https://drive.google.com/file/d/1fZXhQOnxsUg7jSFKMW8TgSHKkQQ-E3Qa/view?usp=sharing
+      slides: https://docs.google.com/presentation/d/1EvWOaRMcEbQKVmmGv-6le0rZCiASeq4Epsp0e1k9Q2w/edit?usp=sharing
       zoom: https://us06web.zoom.us/j/89338501578?pwd=75oFMSacSD4FXHBx5f8rwb3vZu324b.1
       slides-static: https://docs.google.com/presentation/d/e/2PACX-1vSoyJH3mbJvwb-pg_mnKal3-lfyt040AUCtDIfKpKDElRKq-PPEWuGq85E4me_v_McK5WMFelqEX6U6/pub
       title: "Organized Session"
@@ -118,11 +154,17 @@
       - 29
     - trackC: "C"
       title: "Panel"
+      recording: https://youtu.be/pdeay5HQPU8 
+      chat: https://drive.google.com/file/d/1QLaIYScf7oaIg6LuaLd7zjlc9IPp8RCa/view?usp=sharing
+      slides: https://docs.google.com/presentation/d/14KoGm7nGQzgnhPEDSzdyhkQILu9Q2Uh54PhBeZsicVE/edit?usp=sharing
       slides-static: https://docs.google.com/presentation/d/e/2PACX-1vRNP4Hk0TbzGL7OH_4jAytrNAK5IHpQ3jADViBX3kyiqaf7fcOJfT-5mNFTFb4FU3zrYNYv6YQugLq6/pub
       zoom: https://us06web.zoom.us/j/86135628044?pwd=Ffgjqt6dV6MulaLNB49LmUI386V1Sq.1
       talks:
       - 7
     - trackD: "D"
+      recording: https://youtu.be/w-DUmmkFjIQ 
+      chat: https://drive.google.com/file/d/17MyWuTO2y_jIJb_exaZiVOPm21J4c28A/view?usp=sharing
+      slides: https://docs.google.com/presentation/d/1kcExnKqk8LimDQJ7CJXkVRwZQ2ZLm1Bq8WwyQx10jjA/edit?usp=sharing
       zoom: https://us06web.zoom.us/j/88556297408?pwd=yg2t31hVR9D9vGUgcUvI9WGfhkJaFx.1
       slides-static: https://docs.google.com/presentation/d/e/2PACX-1vSMLyNHP3QI0-jVMgUmUF3eb9ZdOYyEzYl9TydbLQg7QS80TkyTP_jagGGlt1VicvCIfwh75wYdGN9j/pub
       title: "Workshop"
@@ -139,6 +181,9 @@
   day: 2
   time: "11:00 AM --- 12:00 PM EDT"
   title: "Welcome Back & Keynote: Brie Tripp"
+  recording: https://youtu.be/iexQhm2KFgE
+  chat: https://drive.google.com/file/d/17GBrExXqPqryrNMOBFcfjyfa7JYSbc--/view?usp=sharing 
+  slides: https://docs.google.com/presentation/d/1_JfJek4ODTh7uGr46MBR9iWZ5zlRaw-XNLdVDUjAY1k/edit?usp=sharing
   slides-static: https://docs.google.com/presentation/d/e/2PACX-1vRXBt_A04mXjFYH6R5ZE0PfxP3TT4yjyENcaNPFr6VzRe1uZvpvmeJ2UNjVAYscfStLKBUdfMgWEB-q/pub
   zoom: https://us06web.zoom.us/j/89079868469?pwd=QW1iNEZfbDH2k2poaPiYBpkKDNwacj.1
   keynote-title: "From Gatekeeping to Growth: How Quiz Retakes Reshape Student Learning and Motivation"
@@ -179,6 +224,9 @@
   parallel:
     - trackA: "A"
       title: "Impacts on Faculty and Students"
+      recording: https://youtu.be/KYP8UsjZ43g
+      chat: https://drive.google.com/file/d/116d7wwKdMNr8Ji6gpJC2sLYBeak91-T9/view?usp=sharing
+      slides: https://docs.google.com/presentation/d/1x6JpiVDHyTBMpDkKTZktfAAFDquz-bGyBHauK7BsWYY/edit?usp=sharing
       slides-static: https://docs.google.com/presentation/d/e/2PACX-1vQRgcbjo6hogBDX8TGxMXxwcCLlmeXlUyY7hAeC22yn6Vjv1X9bDe2IQSPDlVsbjlTnn8VYN03hv0xj/pub
       zoom: https://us06web.zoom.us/j/88181983422?pwd=Uyeskd5QezbFyXjgAaaUnxcgLZYv67.1
       talks:
@@ -187,6 +235,9 @@
       - 26 
     - trackB: "B"
       title: "Novel Implementations"
+      recording: https://youtu.be/Gya08FPuXuo
+      chat: https://drive.google.com/file/d/1hfpA0J8CF6ZgTf776soGmb1aUgsFZ9gG/view?usp=sharing
+      slides: https://docs.google.com/presentation/d/1ZVuW5F9bxaA9QJouzx3f9TGVxVYphDvp7T4fcRfEmtY/edit?usp=sharing
       slides-static: https://docs.google.com/presentation/d/e/2PACX-1vQU0YblkC2xXfkyvejqbisLguqtSTMhBbhcmUfw5GF1WrGS5ZWhjKZKiievTHqAYvMVqRPOVs8YpT3r/pub
       zoom: https://us06web.zoom.us/j/87640175614?pwd=Oa4laZRSoOtTNxD9jL8ap0qMXJbcaM.1
       talks:
@@ -195,6 +246,9 @@
       - 73
     - trackC: "C"
       title: "Panel"
+      recording: https://youtu.be/KVPhprBoB20 
+      chat: https://drive.google.com/file/d/1Sew6pII3ILbdTfrNP1BELxypQmcZjaZ_/view?usp=sharing 
+      slides: https://docs.google.com/presentation/d/13vr_LHFDTPT_UQHPkSNGCD6Ol8DYL941IUo6NWKhsqY/edit?usp=sharing
       slides-static: https://docs.google.com/presentation/d/e/2PACX-1vQtOPorsy1Gwfg7S4RSmMOlSyg7tB5fmmOD-QZ_dEUccXVQHKEB5PLMVy8X3qAIAsC2dMF-T4CepLLo/pub
       zoom: https://us06web.zoom.us/j/81315831195?pwd=kwQ4KYcu5h5TuIlEvv7Il4OQZ1Y8Ja.1
       talks:
@@ -213,18 +267,27 @@
   parallel: 
   - trackA: "A"
     title: "Workshop"
+    recording: https://youtu.be/dJJudstZolQ
+    chat: https://drive.google.com/file/d/1Fybi1u_DIOT_ewgLz2fauCvGKtwTf9J3/view?usp=sharing 
+    slides: https://docs.google.com/presentation/d/1gWWXKdOe6JA9ofB4YiiVTJW9cbmZeNiaRaivVMFo7Co/edit?usp=sharing
     slides-static: https://docs.google.com/presentation/d/e/2PACX-1vT03FRYyHozlena26osNG-XD_eVRpZ0Vt-vhHgC8992QTEvma0papGw93CF22ESsBGJ1os0PTc5K9j9/pub
     zoom: https://us06web.zoom.us/j/81490527519?pwd=QTAgM96HK7AeENooNrXvR2RY4TSEqM.1
     talks:
     - 72
   - trackB: "B"
     title: "Workshop"
+    recording: https://youtu.be/u4kXmvjpkvA
+    chat: https://drive.google.com/file/d/1ZRKMVZyeiDNcfEiiDFWmHNw_eSL5Ldvm/view?usp=sharing 
+    slides: https://docs.google.com/presentation/d/1r8PYqdBQ11YhYFnbmXbHMoCFp7_25_8KMTk7E6tKjXU/edit?usp=sharing
     slides-static: https://docs.google.com/presentation/d/e/2PACX-1vRr0tcQJJZQe37n4hRsynnEM8QjpmjSVeDqjveYO4PAe6WGvFfbU-5o7ZHgjaJ1G8GV7BX_J8r09zSv/pub
     zoom: https://us06web.zoom.us/j/83177240731?pwd=Vh7tgLgHQreJ3CTKeVq8znS1v9o2FU.1
     talks:
     - 45
   - trackC: "C"
     title: "Panel"
+    recording: https://youtu.be/giKDuqq2jhQ
+    chat: https://drive.google.com/file/d/1g1w65R0I2_LUYeXYit9p5R3kiNh7oPgK/view?usp=sharing 
+    slides: https://docs.google.com/presentation/d/1kvNW_YRGA-19SI80LUJP5FAMXAx7QT0jZqj5FZ1uv4A/edit?usp=sharing
     slides-static: https://docs.google.com/presentation/d/e/2PACX-1vS-GaylFcVLL0qtMpcJiq5ZbxCTlrVVlRBjKz1SAr_7qnyCZCoueDnVIBd6ImSje6gyc4IZcvmmL1L1/pub
     zoom: https://us06web.zoom.us/j/82306211335?pwd=0U1B7csH2OjCwNTxVZ2ya8ACl7Yrau.1
     talks:
@@ -240,6 +303,9 @@
   day: 3
   time: "11:00 AM --- 12:00 PM EDT"
   title: "Welcome Back & Keynote: Jesse Stommel"
+  recording: https://youtu.be/0JcUd4Hk6f4 
+  chat: https://drive.google.com/file/d/134t_PXb072khikKpVit2S5a226cmGPMx/view?usp=sharing 
+  slides: https://docs.google.com/presentation/d/1SwqYqBKIu2Y6gtuzuYEzG3wxtP2nwnCdgcKr-SbFtO8/edit?usp=sharing
   zoom: https://us06web.zoom.us/j/85364314767?pwd=1iAZX7lvOiQmiivqPIGkZeKkLoMl5H.1
   slides-static: https://docs.google.com/presentation/d/e/2PACX-1vQjv-NSCFX1MULeoOSh2e3jzisjgiI24RlRH2A5MnCLNj53vO37p6E8lA00EUW90LSsTxRDP5ie2BSM/pub
   keynote-title: 'Do We Need the Word "Ungrading"?'
@@ -261,6 +327,9 @@
   parallel:
   - trackA: "A"
     title: "Integrating Teaching Teams"
+    recording: https://youtu.be/w-roSGyJlAw
+    chat: https://drive.google.com/file/d/1tY7mo9yDVrm-XJs5JZaXbrPTJ87gCaTk/view?usp=sharing 
+    slides: https://docs.google.com/presentation/d/18dWvCbPt-xj_yxZ8KjRvqN0EK5PjzRLRP9yAmgEqZ_w/edit?usp=sharing
     slides-static: https://docs.google.com/presentation/d/e/2PACX-1vR0g2-QU8NSk7fSQDpT11iqrX7qlodrEbUDpjDd0fC8fjth2VD2wHtOIeuuO8K2MQyZpIWVO4MtRwhg/pub
     zoom: https://us06web.zoom.us/j/89700792737?pwd=b9ynLU5Gf9PJyAbpsZWbmamXi4Glpz.1
     talks:
@@ -269,6 +338,9 @@
     - 60
   - trackB: "B"
     title: "Systems of Scale"
+    recording: https://youtu.be/iMaxuHoHEXY
+    chat: https://drive.google.com/file/d/1KXScFY3fZfTnpyIVuEfoTeVCqUapETxd/view?usp=sharing 
+    slides: https://docs.google.com/presentation/d/1W0Gm_qrwxZpnvQyZu5SFafYLqHg_LA0YvyGeehNNk_w/edit?usp=sharing
     slides-static: https://docs.google.com/presentation/d/e/2PACX-1vQy_0ILQUzJTFIXn-nvA0YsCWlH0MR4gigs01mk-1lTjfeIupx5o1Jht0fCeAcU1za7rnr8fziA5ux8/pub
     zoom: https://us06web.zoom.us/j/81129860556?pwd=XD7av9sAIadWhGqibtQN2oKw1QJpaX.1
     talks:
@@ -277,6 +349,9 @@
     - 44
   - trackC: "C"
     title: "Panel"
+    recording: https://youtu.be/plc1vd89_PQ
+    chat: https://drive.google.com/file/d/10Ms8Slqjv6DDjvy3XlCAPIQiwDNUXaZL/view?usp=sharing
+    slides: https://docs.google.com/presentation/d/1rAWqxs1vcFH-vqQ6y6sGsTT5L8iIeBuX5NH-McEJgwY/edit?usp=sharing
     slides-static: https://docs.google.com/presentation/d/e/2PACX-1vSoovPjN0nnytBL4mv17_lAY3sNsdPX2ZumVUdNGAfMMf4QyIEasKzw73Uv-NEuiCShFAPhHftlPvqq/pub
     zoom: https://us06web.zoom.us/j/81504405632?pwd=BZ0pbjKi4tR8UgpdvyG2yZiQXn2gwL.1
     talks:
@@ -295,6 +370,9 @@
   parallel:
   - trackA: "A"
     title: "Supporting Student Identity Development"
+    recording: https://youtu.be/ue1ykf7pGKA 
+    chat: https://drive.google.com/file/d/1QFpf6LdXYQc7OJTPOWziIChCbcMSGhed/view?usp=sharing
+    slides: https://docs.google.com/presentation/d/1-GflO898M6Bl6b_JG0EaDdMD6OLPpjvC-aNBvr17kio/edit?usp=sharing
     slides-static: https://docs.google.com/presentation/d/e/2PACX-1vRQEI6a9ktnMP5SvmgszJDts4McLJr2Rtki-A86jPx87L7SlQETMyvxiRedMy6f5AbuUizjWRR8H0Km/pub
     zoom: https://us06web.zoom.us/j/84749228136?pwd=gG6FlYG4zJju0izJmhbR03oRjvycDa.1
     talks:
@@ -303,6 +381,9 @@
     - 15
   - trackB: "B"
     title: "Novel Implementations in Math Courses"
+    recording: https://youtu.be/y6TDVWn7ipM 
+    chat: https://drive.google.com/file/d/11fVHJjFpu0-pEt_j4fLXDY6XoIaPJ5_c/view?usp=sharing 
+    slides: https://docs.google.com/presentation/d/1KknLsBVhLwiu4V0I3zOa_phVLlegEBl-Um2hmh6WCcU/edit?usp=sharing
     slides-static: https://docs.google.com/presentation/d/e/2PACX-1vRb07XdSERZGLYzXvcekG4FU97lue3OpXjIVkz3l85tQSBFco31tFGcJ1jeNlJboKAZSIEu_Au8Ebu-/pub
     zoom: https://us06web.zoom.us/j/89727243224?pwd=I8Se5bucI4gTL0MRtrHDkfDnHl668f.1
     talks:
@@ -311,6 +392,9 @@
     - 17
   - trackC: "C"
     title: "Panel"
+    recording: https://youtu.be/-QwIgqjeKs4 
+    chat: https://drive.google.com/file/d/1U2tQTVTOvrn8rA82tNFSU8IalNiZ4WNn/view?usp=sharing
+    slides: https://docs.google.com/presentation/d/1qGVE_kXT8S_GPQ4eGQxbILnQnjjLm5LL6mFZiz5yEqg/edit?usp=sharing
     slides-static: https://docs.google.com/presentation/d/e/2PACX-1vQwrPj3N2kmwIwfxWgQL4iVQeDcIxtAIkYJLhgmGBd-echYLCvs_OTyZFOFiNwvJDB-UzOjWswjeDgX/pub
     zoom: https://us06web.zoom.us/j/88005755932?pwd=abTcRIC0NRteKdDvtKqy0nzyyzR4R8.1
     talks: 
@@ -329,6 +413,9 @@
   parallel:
   - trackA: "A"
     title: "Finding Flexibility, Equity, and Joy"
+    recording: https://youtu.be/7O2jaRx47MI 
+    chat: https://drive.google.com/file/d/1ZfSb-yyGbG5XYXlPFOM8Nkp9FBOxRUwv/view?usp=sharing 
+    slides: https://docs.google.com/presentation/d/10VLnkeeTzktBq-JT6Qn2p2-pipx3tQhx5ejFKggvLK8/edit?usp=sharing
     slides-static: https://docs.google.com/presentation/d/e/2PACX-1vSb8LNdSaZ82NkGurkytLbabEGSvqksCRFGDKWQEF-QP9Y1YdXtsAG1onnAb1CsvW4qI_fw-1Gp7x1L/pub
     zoom: https://us06web.zoom.us/j/85195696080?pwd=FJXfToa9dfigehoJ9Cn3yPm19pVbOt.1
     talks:
@@ -337,6 +424,9 @@
     - 76
   - trackB: "B"
     title: "Enhancing Feedback and Communication"
+    recording: https://youtu.be/QAUzdv4FNeQ 
+    chat: https://drive.google.com/file/d/1EErH6s8CaboYTuM4pnEu-Jds3Hayz3CZ/view?usp=sharing
+    slides: https://docs.google.com/presentation/d/1uqpymyHm6RVWr26529nGjoVgYTvyytK-DCp_MMQUQnY/edit?usp=sharing
     slides-static: https://docs.google.com/presentation/d/e/2PACX-1vSK3o0sthbE0VYk3iBhTAGk01kVj0jGRaheQQy3X9MI6QnrKZ2u6owUTBMJQYSqAycasqjOuwCpstZq/pub
     zoom: https://us06web.zoom.us/j/84376411675?pwd=Xv3ThOfW8wabvblKqaBTb0hjkQa7ZM.1
     talks:
@@ -345,6 +435,9 @@
     - 8
   - trackC: "C"
     title: "Workshop"
+    recording: https://youtu.be/mxR4XbWT6Ac 
+    chat: https://drive.google.com/file/d/1lIhIhiB_3VvAKICAyl-cGOYqPdFSSI2A/view?usp=sharing 
+    slides: https://docs.google.com/presentation/d/1_itce00_gapYdyap0XgMBAdf9ChfZ6UDi16pKicwmQY/edit?usp=sharing
     slides-static: https://docs.google.com/presentation/d/e/2PACX-1vSI4IIN0EdyfJmLQ43h50A-scXV-LF1YoC-_UvjF-RaLSrytRm9voHsoo6UFaMMBS5RzgCiDMYteLJ1/pub
     zoom: https://us06web.zoom.us/j/82149747820?pwd=8d6MhzFomYuFVUQZq45W0KlCVZrob3.1
     talks:
@@ -354,5 +447,8 @@
   day: 3
   time: "5:15 --- 5:45 PM EDT"
   title: "Closing Session"
+  recording: https://youtu.be/W9N9SVLalis 
+  chat: https://drive.google.com/file/d/1y5zrRU2r6y4dhIMEU5PatpPzK7z6Ho3d/view?usp=sharing 
+  slides: https://docs.google.com/presentation/d/1kfsMAbdz4oj4r4OEOLQY5ocAp1v0B7ACBK_QXmpzkOo/edit?usp=sharing
   slides-static: https://docs.google.com/presentation/d/e/2PACX-1vQIUBFeuA2EsTpL46CxWsgnCGffYRSpH4JDa42yuVmmTdzWdy4E_6Mf4cnXlBzNvmzRroU_JCHD3Fym/pub
   zoom: https://us06web.zoom.us/j/82244305566?pwd=xgYuia7X9BDabDtEC3rtqbN7Xwofkg.1

@@ -1,2 +1,3 @@
 grading-conference/2025/schedule-recordings/index.html gc2025recordings
+grading-conference/2026/schedule-recordings/index.html 2026GradingConference
 Extra line
