@@ -23,7 +23,7 @@ permalink           : "/resources/"
 - [Grading for Equity](https://us.corwin.com/books/grading-for-equity-2nd-edition-281503) by Joe Feldman
 - [Grading for Growth](https://www.routledge.com/Grading-for-Growth-A-Guide-to-Alternative-Grading-Practices-that-Promote/Clark-Talbert/p/book/9781642673814) by David Clark and Robert Talbert
 - [Labor-Based Grading Contracts: Building Equity and Inclusion in the Compassionate Writing Classroom](https://wac.colostate.edu/books/perspectives/labor/) by Asao B. Inoue
-- [Specifications Grading](https://www.routledge.com/Specifications-Grading-Restoring-Rigor-Motivating-Students-and-Saving/Nilson/p/book/9781620362426) by Linda Nilson
+- [Specifications Grading 2.0](https://www.routledge.com/Specifications-Grading-20-Restoring-Rigor-Motivating-Students-Saving-Faculty-Time-and-Developing-Career-Competencies/Nilson-Packowski/p/book/9781032895550) by Linda Nilson and Joseph Packowski
 - [Undoing the Grade](https://pressbooks.pub/thegrade/) by Jesse Stommel
 - [Ungrading](https://wvupressonline.com/ungrading) (edited by Susan D. Blum)
 
