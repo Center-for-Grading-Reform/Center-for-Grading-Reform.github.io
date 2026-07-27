@@ -26,6 +26,8 @@
   dropdown:
   - title: "Community Events"
     url: "/community-events/"
+  - title: "Blog"
+    url: "/blog/"
 
 
 - title: About
