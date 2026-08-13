@@ -8,6 +8,7 @@ permalink           : "past-conferences/"
 
 ## The Grading Conference
 
+- [2026 Grading Conference](2026-grading-conference)
 - [2025 Grading Conference](2025-grading-conference)
 - [2024 Grading Conference](2024-grading-conference)
 - [2023 Grading Conference](2023-grading-conference)

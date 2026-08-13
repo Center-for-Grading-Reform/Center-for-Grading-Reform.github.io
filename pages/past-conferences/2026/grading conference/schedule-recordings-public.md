@@ -1,15 +1,14 @@
 ---
 layout              : page-fullwidth
 show_meta           : false
-title               : "The Grading Conference"
+title               : "2026 Grading Conference"
 teaser              : ""
-permalink           : "/grading-conference/schedule/"
+permalink           : "/past-conferences/2026-grading-conference/"
 ---
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 <script type="text/javascript"> $(function(){ $(document).foundation() }); </script>
 <script> var elem = new Foundation.Tabs(element, options); </script>
 
-{% include alert warning="A version of this schedule with zoom links for each session has been emailed to all registered participants.  Contact us at info@thegradingconference.com if you did not receive this message." %}
 
 
  Please note that all times are Eastern Daylight Time (UTC-4).

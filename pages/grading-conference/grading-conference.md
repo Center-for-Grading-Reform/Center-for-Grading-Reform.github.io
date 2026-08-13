@@ -14,7 +14,7 @@ The mission of the Grading Conference is to provide an annual meeting place to p
 - Facilitate systemic change in grading practices.
 
 
-{% include alert warning="The 2026 Grading Conference was held June 16--18, 2026. " %}
+{% include alert warning="The 2027 Grading Conference is scheduled for June 15--17, 2027. " %}
 
 The Grading Conference is the flagship event of the Center for Grading Reform.
 Hosted virtually each June, we bring together hundreds of postsecondary educators to share innovations and
@@ -23,12 +23,12 @@ research related to grading in higher education.
 
 
 <div class="button-group align-spaced text-center" >
-        <a class="button small radius r15" href="/grading-conference/registration/">Registration</a>
+        <!--<a class="button small radius r15" href="/grading-conference/registration/">Registration</a>
         <a class="button small radius r15" href="/grading-conference/schedule/">Schedule</a>
         <a class="button small radius r15" href="/grading-conference/keynotes/">Keynote Speakers</a>
         <a class="button small radius r15" href="/grading-conference/abstracts/">Presentation Abstracts</a>
         <a class="button small radius r15" href="/grading-conference/accessibility-guide/">Accessibility Guide</a>
-        <a class="button small radius r15" href="/grading-conference/submission-information/">Abstract Submission</a>
+        <a class="button small radius r15" href="/grading-conference/submission-information/">Abstract Submission</a>-->
         <a class="button small radius r15" href="/past-conferences/">Past Conferences</a>
         <a class="button small radius r15" href="/grading-conference/organizing-team/">Organizing Team</a>
         <a class="button small radius r15" href="/grading-conference/conference-faq/">FAQ</a>
@@ -36,7 +36,7 @@ research related to grading in higher education.
 
 
 
-<table align="center">
+<!--<table align="center">
 <caption>Important Dates and Deadlines</caption>
 <tr>
 <td>1/5/26</td>
@@ -62,7 +62,7 @@ research related to grading in higher education.
 <td>6/16/26</td>
 <td>Conference Begins!</td>
 </tr>
-</table>
+</table>-->
 
 
 
