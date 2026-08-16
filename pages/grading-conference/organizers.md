@@ -17,24 +17,18 @@ permalink           : "/grading-conference/organizing-team/"
       University of Mississippi</p>
     </div>
     <div class="columns large-3">
-      <img src="{{ site.urlimg }}people/fox.jpg" alt="" width="90%" class="center">
-      <p align="center"><strong>Ashleigh Fox</strong><br>
-      Community College of Allegheny County</p>
-    </div>
-    <div class="columns large-3">
       <img src="{{ site.urlimg }}people/guberman.jpg" alt="" width="90%" class="center">
       <p align="center"><strong>Dan Guberman</strong><br>
       Purdue University</p>
     </div>
-
-</div>
-
-<div class="row">
     <div class="columns large-3">
       <img src="{{ site.urlimg }}people/hall.jpg" alt="" width="90%" class="center">
       <p align="center"><strong>Kimberly Hall</strong><br>
       University of Gloucestershire</p>
     </div>
+</div>
+
+<div class="row">
     <div class="columns large-3">
       <img src="{{ site.urlimg }}people/krinsky.jpg" alt="" width="90%" class="center">
       <p align="center"><strong>Sharona Krinsky</strong><br>
@@ -51,21 +45,16 @@ permalink           : "/grading-conference/organizing-team/"
       <p align="center"><strong>Drew Lewis</strong><br>
       Center for Grading Reform</p>
     </div>
+    <div class="columns large-3">
+      <img src="{{ site.urlimg }}people/momsen.jpg" alt="" width="90%" class="center">
+      <p align="center"><strong>Jenni Momsen</strong><br>
+      North Dakota State University</p>
+    </div>
 </div>
 
 <div class="row">
     <div class="columns large-3">
     <p></p>
-    </div>
-    <div class="columns large-3">
-      <img src="{{ site.urlimg }}people/mattaini.png" alt="" width="90%" class="center">
-      <p align="center"><strong>Katie Mattaini</strong><br>
-      Tufts University</p>
-    </div>
-    <div class="columns large-3">
-      <img src="{{ site.urlimg }}people/momsen.jpg" alt="" width="90%" class="center">
-      <p align="center"><strong>Jenni Momsen</strong><br>
-      North Dakota State University</p>
     </div>
     <div class="columns large-3">
     <p></p>
