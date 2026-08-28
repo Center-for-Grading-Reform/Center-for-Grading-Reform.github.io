@@ -9,8 +9,6 @@ permalink           : "/past-conferences/2026-grading-conference/"
 <script type="text/javascript"> $(function(){ $(document).foundation() }); </script>
 <script> var elem = new Foundation.Tabs(element, options); </script>
 
-
-
  Please note that all times are Eastern Daylight Time (UTC-4).
 
 {% assign dates = "Tuesday, June 16; Wednesday, June 17; Thursday, June 18" | split: "; "%}
@@ -35,7 +33,7 @@ permalink           : "/past-conferences/2026-grading-conference/"
     {%for track in slot.parallel %}
      <td style="font-size: 1.05em">
         {% assign track_letter = track.first.last %}
-        <b>{{slot.slot}}{{track_letter}} {{track.title}}</b>
+        <b>{{slot.slot}}{{track_letter}} {{track.title}}</b> {% if track.recording %} (<a href="{{track.recording}}" target="_blank">Recording</a>) {% endif %} {% if track.chat %} (<a href="{{track.chat}}" target="_blank">Chat</a>) {% endif %} {% if track.slides %} (<a href="{{track.slides}}" target="_blank">Slides</a>){% endif %}
         <ul class="accordion" data-accordion style="margin-left: 0px">
         {% for id in track.talks %}
         {% assign talk = site.data.twentytwentysix.conference_talks  | find: "abstract_id", id %} 
@@ -57,10 +55,31 @@ permalink           : "/past-conferences/2026-grading-conference/"
     {% endfor %}
   {% else %}
   <td colspan="4" style="text-align: center; font-size:1.1em" >
-    {% if slot.title == "Break" or slot.title contains "Social Hour" %}
-      {{"**" | append: slot.title | append: "**" | markdownify}}
+   {% if slot.title == "Break" or slot.title contains "Social Hour" %}
+      {% assign title =  slot.title  %}
     {% else %}
-      {{"**" | append: slot.slot | append: " " | append: slot.title | append: "**" | markdownify}}
+      {% assign title =  slot.slot | append: " " | append: slot.title  %}
+    {% endif %}
+    {% unless slot.keynote-title %}
+      {% if slot.recording %}
+        {% assign title = title | append: " (<a href='" | append: slot.recording | append: "' target='_blank'>Recording</a>)" %}
+      {% endif %}
+      {% if slot.chat %}
+        {% assign title = title | append: " (<a href='" | append: slot.chat | append: "' target='_blank'>Chat</a>)" %}
+      {% endif %}
+      {% if slot.slides %}
+        {% assign title = title | append: " (<a href='" | append: slot.slides | append: "' target='_blank'>Slides</a>)" %}
+      {% endif %}
+    {% endunless %}
+    <b>{{title}}</b>
+
+    {% if slot.break %}
+      <p>Join us in the Watercooler Zoom Room to hang out and chat with fellow attendees, or engage asynchronously on the <a href="https://padlet.com/emilydonahoe/grading-conference-2026-what-questions-do-you-have-about-alt-7g8tw00tpy9fhzng" target="_blank">Padlet</a>.</p>
+    {% endif %}
+
+
+    {% if slot.poster-gallery %}
+      <p>View the posters in the <a href="{{slot.poster-gallery}}" target="_blank">poster gallery</a> anytime, and then join the Zoom room at this time to chat with poster presenters.</p>
     {% endif %}
     {% if slot.keynote-title %}
       {% assign ref = "keynote" | append: slot.day %}
