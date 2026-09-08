@@ -6,7 +6,7 @@ teaser              : ""
 permalink           : "/alternative-grading-institute/"
 ---
 
-{% include alert warning="The Alternative Grading Institute will be held online December 16--17, 2026" %}
+{% include alert warning="The Alternative Grading Institute will return in 2027" %}
 
 ## Overview
 The Alternative Grading Institute is an intensive, hands-on, online experience where faculty learn core concepts of alternative grading and build a course-ready grading scheme.
