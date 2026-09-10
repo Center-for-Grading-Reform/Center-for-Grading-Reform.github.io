@@ -10,7 +10,7 @@ permalink           : "/northeast-regional-grading-symposium/"
 
 {% include alert warning="Save the Date! The 2027 Northeast Regional Grading Symposium is scheduled for May 21--22, 2027. " %}
 
-The Northeast Regional Grading Symposium will be  held May 21--22, 2027 on the campus of Rutgers university.  Featuring a keynote address by Dan Dries of Chapman University, join us in person for two days of talks on improving grading practices. Registration will open in mid-December 2026.
+The Northeast Regional Grading Symposium will be  held May 21--22, 2027 on the campus of Rutgers University.  Featuring a keynote address by Dan Dries of Chapman University, join us in person for two days of talks on improving grading practices. Registration will open in mid-December 2026.
 
 <table align="center">
 <caption>Registration Dates and Deadlines</caption>
