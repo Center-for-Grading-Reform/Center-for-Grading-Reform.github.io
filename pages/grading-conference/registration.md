@@ -6,7 +6,7 @@ teaser              : ""
 permalink           : "/grading-conference/registration/"
 ---
 
-{% include alert warning="Registration for the 2026 Grading Conference is now closed.  Contact us at info@thegradingconference.com for late registration." %}
+{% include alert warning="Registration for the 2027 Grading Conference will open in early spring.  Contact us at info@thegradingconference.com for any questions not answered below." %}
 
 <table align="center">
 <caption>Registration Fees</caption>
@@ -25,9 +25,6 @@ permalink           : "/grading-conference/registration/"
 </table>
 
 We are also proud to once again offer a pay-what-you-can option to provide access to the conference. If the above fees will impose a burden on you, choose "Pay what you can" on the registration form.
-
-This year, the registration fee for The Grading Conference has increased from $50 (or pay what you can) to $75 (or pay what you can). This change helps us provide fair stipends for our keynote speakers and our growing organizing team as well as cover the increasing zoom costs of running a high-quality, community-driven virtual conference experience for all participants.
-
 
 
 #### Institutional Registrations
