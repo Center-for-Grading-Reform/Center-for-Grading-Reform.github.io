@@ -1,6 +1,6 @@
 ---
 layout              : page-fullwidth
-title               : "2026 Keynote Speakers"
+title               : "2027 Keynote Speakers"
 permalink           : "/grading-conference/keynotes/"
 ---
 
