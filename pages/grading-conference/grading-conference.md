@@ -24,8 +24,8 @@ research related to grading in higher education.
 
 <div class="button-group align-spaced text-center" >
         <a class="button small radius r15" href="/grading-conference/registration/">Registration</a>
-        <!--<a class="button small radius r15" href="/grading-conference/schedule/">Schedule</a>
         <a class="button small radius r15" href="/grading-conference/keynotes/">Keynote Speakers</a>
+        <!--<a class="button small radius r15" href="/grading-conference/schedule/">Schedule</a>
         <a class="button small radius r15" href="/grading-conference/abstracts/">Presentation Abstracts</a>
         <a class="button small radius r15" href="/grading-conference/accessibility-guide/">Accessibility Guide</a>
         <a class="button small radius r15" href="/grading-conference/submission-information/">Abstract Submission</a>-->
