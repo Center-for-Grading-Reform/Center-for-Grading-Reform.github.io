@@ -1,7 +1,7 @@
 ---
 layout              : page-fullwidth
 title               : "2026 Keynote Speakers"
-permalink           : "/grading-conference/keynotes/"
+permalink           : "/past-conferences/2026-grading-conference/keynotes/"
 ---
 
 <div class="row">
