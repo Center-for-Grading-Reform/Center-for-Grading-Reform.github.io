@@ -2,12 +2,11 @@
 
 try:
 	from Crypto import Random
-	from Crypto.Util.py3compat import bchr
 	from Crypto.Cipher import AES
 	from Crypto.Protocol.KDF import PBKDF2
 	from Crypto.Hash import SHA256	
 except:
-	print("install pycrypto: \"pip3 install pycrypto\"")
+	print("install pycryptodome: \"pip3 install pycryptodome\"")
 	exit(1)
 import os, sys
 from base64 import b64encode
