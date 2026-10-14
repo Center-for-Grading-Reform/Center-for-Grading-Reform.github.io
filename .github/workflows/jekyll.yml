@@ -53,6 +53,7 @@ jobs:
       - name: Encrypt pages with PageCrypt
         run: |
           pip3 install pycryptodome
+          pip3 install pycrypto
           cat _private/protected_pages.txt | while read file password;
           do
             python3 scripts/encrypt.py "_site/$file" "$password"
