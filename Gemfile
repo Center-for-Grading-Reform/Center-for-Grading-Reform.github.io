@@ -17,8 +17,8 @@ gem "webrick", "~> 1.8"
 gem "faraday-retry", "~> 2.2"
 
 # Needed for importing wordpress website
-gem 'hpricot', :git => 'https://github.com/siwelwerd/hpricot'
-gem 'open_uri_redirections'
-gem 'jekyll-import'
+#gem 'hpricot', :git => 'https://github.com/siwelwerd/hpricot'
+#gem 'open_uri_redirections'
+#gem 'jekyll-import'
 
 gem 'jekyll-redirect-from'
