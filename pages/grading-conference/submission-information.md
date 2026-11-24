@@ -10,51 +10,56 @@ permalink           : "/grading-conference/submission-information/"
 <table align="center">
 <caption>Important Dates and Deadlines</caption>
 <tr>
-<td>1/5/26</td>
+<td>1/5/27</td>
 <td>Abstract Submissions Open</td>
 </tr>
 <tr>
-<td>2/1/26</td>
+<td>2/1/27</td>
 <td>Conference Registration Opens</td>
 </tr>
 <tr>
-<td>2/13/26</td>
+<td>2/5/27</td>
 <td>Abstract Submission Deadline</td>
 </tr>
 <tr>
-<td>3/30/26</td>
+<td>4/7/27</td>
 <td>Abstract Acceptance Notifications</td>
 </tr>
 <tr>
-<td>6/12/26</td>
+<td>6/11/27</td>
 <td>Slideshow & Poster Submission Deadline</td>
 </tr>
 <tr>
-<td>6/16/26</td>
+<td>6/15/27</td>
 <td>Conference Begins!</td>
 </tr>
 </table>
 
 ### Where To Submit
 
-<a class="button radius r15 warning expand"  href="https://cmt3.research.microsoft.com/GRADINGCONFERENCE2026/">Access the abstract submission site here</a>
+<a class="button radius r15 warning expand"  href="">Access the abstract submission site here</a>
 
 
 
 ### How To Submit
 In order to submit an abstract, you will need to create an account with CMT if you don't already have one. Instructions for creating a CMT account are available [here](https://cmt3.research.microsoft.com/docs/help/general/account-creation.html). Once you've created an account click the button above to go to the submission site.
 
-Please read the below details carefully, different submission types require different kinds of information.  If you have questions, reach out to us at [info@thegradingconference.com](mailto:info@thegradingconference.com)
+Please read the below details carefully, different submission types require different kinds of information.  
+
+### Help With Submissions
+If you have questions, reach out to us at [info@thegradingconference.com](mailto:info@thegradingconference.com).  You may wish to review abstracts from our [previous conferences](/past-conferences/) to guide you.
+
+Conference organizers will hold drop-in Q&A sessions during the week of January 18 (exact days/times TBD) to answer any questions about these guidelines or the submission process.
 
 
 ### Submission Guidelines
 
-The Grading Conference will support four presentation formats in 2026 (posters, talks, workshops, and panel discussions). With the exception of panel discussions, each presentation format includes several different _types_ of papers that we encourage for submission.
+The Grading Conference will support four session formats in 2027 (posters, talks, workshops, and panel discussions). With the exception of panel discussions, each session format includes several different _types_ of sessions that we encourage for submission.
 
 <table>
 <tr>
-<td><strong>Presentation Format</strong></td>
-<td><strong>Types of Papers</strong></td>
+<td><strong>Session Format</strong></td>
+<td><strong>Session Types</strong></td>
 <td><strong>Zoom Format</strong></td>
 </tr>
 <tr>
@@ -105,12 +110,12 @@ Session where the proposer hosts several panelists in an interactive question an
 </tr>
 </table>
 
-#### Description of Paper Types and Submission Formats
+#### Description of Session Types
 
 <br/>
 
 Work-in-Progress 
-: Studies, classroom practices, theoretical frameworks, etc. at an early to intermediate stage for which authors are seeking feedback from the community. (Limited to posters)
+: Studies, classroom practices, theoretical frameworks, etc. at an early to intermediate stage for which authors are seeking feedback from the community. This session type is limited to posters.
 
 Classroom practices
 : Paper or workshop is focused on instruction, including classroom innovations and lessons learned. Abstracts should describe the practice and implementation, recommendations, assessment results, and reflections of the instructor.
@@ -124,18 +129,29 @@ Research
 Instructor Development
 : These presentations can include descriptions of training programs, best practices, theoretical models, and exploratory work that brings forward or synthesizes a new idea relevant to instructors or the educational development profession and/or practice. Abstracts should describe the practice or program, lessons learned, implementation, recommendations, and any results or outcomes.
 
+#### Description of Session Format
+
+<br/>
+
 Panel Discussion 
-: This should be of broad interest to the alternative grading community. Proposer will host the session, develop initial Q&A questions for the panel and will secure an additional 3-6 panelists. Abstracts should describe the theme or objective, as well as the relevance and individuals served. List potential panelists (names and affiliations), as well as sample potential questions.
+: This should be of broad interest to the alternative grading community. Proposer will host the session, develop initial Q&A questions for the panel and will secure an additional 3-6 panelists. Abstracts should describe the theme or objective, as well as the relevance and individuals served. Separately from the abstract, during the submission you will need to list potential panelists (names and affiliations), as well as sample potential questions.
 
 Workshops
 : Interactive sessions providing attendees an opportunity to learn about a topic in depth and find ways to apply the knowledge to their own settings. Abstracts should describe the target audience, including any prior experience/knowledge needed, the learning outcomes, and what participants will do during the workshop. Highlight interactive components (e.g., group work, interactive exercises). These sessions will run as a zoom meeting with breakout room capability.
+
+Talks
+: Traditional short presentation (15-20 minutes with additional time (~5 minutes) for questions) about the presenter’s classroom practice, research, or instructor development efforts.
+
+Poster
+: The poster session mirrors a traditional poster session: all posters are presented at once with each presenter having their own Zoom Breakout Room. Attendees move between posters at their own pace.
+
 
 ### Evaluation Criteria
 
 Abstracts will be reviewed by a committee according to the following criteria:  
 
 1. Is the topic of the abstract related to grading and alternative grading?
-1. Does the abstract match the format and type of paper selected in the submission?
+1. Does the abstract match the format and session type selected in the submission?
 1. Is the writing clear?
  
 
