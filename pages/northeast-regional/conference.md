@@ -28,7 +28,9 @@ The Northeast Regional Grading Symposium will be  held May 21--22, 2027 on the c
 </tr>
 </table>
 
-{% include alert info="[Access the registration form](https://forms.gle/rTweVnzozfkYQAiz8)" %}
+Symposium registration includes free registration to the [2027 Grading Conference](/grading-conference/)!
+
+{% include alert info="Call for Proposals is coming soon!" %}
 
 #### Keynote speaker
 
@@ -48,6 +50,8 @@ Dan Dries, Ph.D., is an Assistant Professor of Chemistry Education and Program D
 
 <br/>
 <br/>
+
+{% include alert warning="[Access the registration form](https://forms.gle/rTweVnzozfkYQAiz8)" %}
 
 #### Organizers
 The organizing team for the conference is Sharron Crane, Melanie Lenahan, Laurel Lorenz, Christopher Haines, and Sharona Krinsky.
